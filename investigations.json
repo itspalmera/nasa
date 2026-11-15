@@ -1,0 +1,1681 @@
+{
+ "meta": {
+  "title": "Flame in Freefall - catálogo curado de investigaciones de combustión en microgravedad",
+  "version": "0.2 (sin supuestos, 2026-11-14)",
+  "units": {
+   "o2": "% molar de O2",
+   "pressure": "kPa",
+   "flow": "cm/s",
+   "gravity": "g terrestres"
+  },
+  "conventions": [
+   "null = el dato no aparece en las fuentes revisadas (NO significa cero). Debe completarse desde PSI.",
+   "basis = 'medido' (valor reportado como ejecutado), 'planificado' (ficha de la NASA previa al vuelo) o 'sin_dato'.",
+   "in_psi = 'si' (el enunciado del desafío la nombra como disponible en PSI), 'verificar' o 'no_aun'.",
+   "directness (1-5) es un criterio editorial basado en el enunciado, no un dato de la NASA. Su peso en el ranking se puede poner en 0."
+  ]
+ },
+ "sources": {
+  "challenge": {
+   "title": "Enunciado del desafío 'Flame in Freefall' (NASA Space Apps 2026)",
+   "url": null
+  },
+  "nasa_combustion": {
+   "title": "NASA Glenn - Combustion Science",
+   "url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/combustión-science/"
+  },
+  "fs_acme": {
+   "title": "Ficha NASA: ACME",
+   "url": "https://www.nasa.gov/wp-content/uploads/2025/07/advanced-combustión-via-microgravity-experiments-acme.pdf"
+  },
+  "fs_bass": {
+   "title": "Ficha NASA: BASS / BASS-II",
+   "url": "https://www.nasa.gov/wp-content/uploads/2025/07/burning-and-suppression-of-solids-bass.pdf"
+  },
+  "fs_flex": {
+   "title": "Ficha NASA: FLEX / FLEX-2",
+   "url": "https://www.nasa.gov/wp-content/uploads/2025/07/flame-extinguishment-experiment-flex.pdf"
+  },
+  "fs_saffire": {
+   "title": "Ficha NASA: Saffire",
+   "url": "https://www.nasa.gov/wp-content/uploads/2025/07/spacecraft-fire-safety-demonstration-saffire.pdf"
+  },
+  "fs_same": {
+   "title": "Ficha NASA: SAME / SAME-R",
+   "url": "https://www.nasa.gov/wp-content/uploads/2025/07/smoke-aerosol-measurement-experiment-same.pdf"
+  },
+  "fs_daft": {
+   "title": "Ficha NASA: DAFT",
+   "url": "https://www.nasa.gov/wp-content/uploads/2025/07/dust-and-aerosol-measurement-feasibility-test-daft.pdf"
+  },
+  "fs_slice": {
+   "title": "Ficha NASA: SLICE",
+   "url": "https://www.nasa.gov/wp-content/uploads/2025/07/structure-liftoff-in-combustión-experiment-slice.pdf"
+  },
+  "fs_spice": {
+   "title": "Ficha NASA: SPICE",
+   "url": "https://www.nasa.gov/wp-content/uploads/2025/07/smoke-point-in-co-flow-experiment-spice.pdf"
+  },
+  "sofie": {
+   "title": "NASA Glenn - SoFIE",
+   "url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/combustión-science/solid-fuel-ignition-and-extinction-sofie/"
+  },
+  "fm2": {
+   "title": "NASA Glenn - FM2",
+   "url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/combustión-science/flammability-of-materials-on-the-moon-fm2/"
+  },
+  "flare": {
+   "title": "NASA Glenn - FLARE",
+   "url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/combustión-science/flammability-limits-at-reduced-g-experiment-flare/"
+  },
+  "saffire_2021": {
+   "title": "Urban et al. 2021 - Saffire IV y V (ICES-2021-266)",
+   "url": "https://ntrs.nasa.gov/citations/20210011521"
+  },
+  "saffire_2024": {
+   "title": "Urban et al. 2024 - Resultados preliminares Saffire VI (ICES 2024)",
+   "url": "https://ntrs.nasa.gov/api/citations/20240007488/downloads/Saffire%20ICES%202024%20Saffire%20presentation072124small.pdf"
+  },
+  "saffire_design": {
+   "title": "Diseño de Saffire I-III (NTRS 20170000230)",
+   "url": "https://ntrs.nasa.gov/api/citations/20170000230/downloads/20170000230.pdf"
+  },
+  "bass2_summary": {
+   "title": "BASS-II Summary Report (NTRS 20210011385)",
+   "url": "https://ntrs.nasa.gov/citations/20210011385"
+  },
+  "bass2_results": {
+   "title": "Combustion of Solids in Microgravity: Results from BASS-II (NTRS 20160000593)",
+   "url": "https://ntrs.nasa.gov/citations/20160000593"
+  },
+  "bass2_pmma": {
+   "title": "Link et al. 2018 - Flame spread over PMMA rods, BASS-II (Sci. Reports)",
+   "url": "https://link.springer.com/10.1038/s41598-017-18398-4"
+  },
+  "bass2_limits": {
+   "title": "Olson 2019 - Flammability Limits from BASS-II (ICES 2019)",
+   "url": "https://ttu-ir.tdl.org/items/1922ad9f-ef4c-4f52-96a4-980c23debe5e"
+  },
+  "flex_first": {
+   "title": "Dietrich et al. - Droplet Combustion Experiments Aboard the ISS",
+   "url": "https://scinapse.io/papers/2002675209"
+  },
+  "flex_cool": {
+   "title": "Nayagam et al. - Cool flame droplet burning (NTRS 20140006750)",
+   "url": "https://ntrs.nasa.gov/api/citations/20140006750/downloads/20140006750.pdf"
+  },
+  "cfi_blog": {
+   "title": "NASA ISS Science Blog 2017 - Science in Short: Cool Flames",
+   "url": "https://blogs.nasa.gov/ISS_Science_Blog/2017/04/07/science-in-short-cool-flames/"
+  },
+  "cfig_issnl": {
+   "title": "ISS National Lab - Studying Cool Flames in Space",
+   "url": "https://issnationallab.org/?p=34984"
+  },
+  "bre_wright": {
+   "title": "Wright 2021 - BRE flame extinction time on the ISS (tesis UMD)",
+   "url": "https://drum.lib.umd.edu/handle/1903/27484"
+  },
+  "bre_dehghani": {
+   "title": "Dehghani 2022 - Burning emulations aboard the ISS (tesis UMD)",
+   "url": "https://drum.lib.umd.edu/handle/1903/29303"
+  }
+ },
+ "habitats": [
+  {
+   "id": "tierra",
+   "name": "Tierra (nivel del mar)",
+   "o2": 21.0,
+   "pressure": 101.3,
+   "gravity": 1.0,
+   "note": "14,7 psi. Referencia de los ensayos estándar en 1 g.",
+   "source": "challenge"
+  },
+  {
+   "id": "iss",
+   "name": "ISS / nave en tránsito",
+   "o2": 21.0,
+   "pressure": 101.3,
+   "gravity": 0.0,
+   "note": "Atmósfera similar a la de la Tierra en microgravedad. Dato de conocimiento general: falta agregarle una cita.",
+   "source": "challenge"
+  },
+  {
+   "id": "luna",
+   "name": "Base lunar / rover presurizado",
+   "o2": 30.0,
+   "o2_max": 100.0,
+   "pressure": 70.3,
+   "pressure_min": 0.0,
+   "gravity": 0.167,
+   "note": "Regla del enunciado: O2 de 30 % o más y presión de 10,2 psi (70,3 kPa) o menos.",
+   "source": "challenge"
+  },
+  {
+   "id": "traje",
+   "name": "Traje espacial (EVA)",
+   "o2": 100.0,
+   "pressure": 29.6,
+   "gravity": 0.0,
+   "note": "100% O2 a 4,3 psi.",
+   "source": "challenge"
+  }
+ ],
+ "investigations": [
+  {
+   "id": "bass",
+   "acronym": "BASS",
+   "name": "Burning and Suppression of Solids",
+   "family": "BASS",
+   "pillars": [
+    "prevencion",
+    "supresion"
+   ],
+   "directness": 5,
+   "directness_reason": "Nombrada en el enunciado como estudio directo de inflamabilidad de sólidos.",
+   "fuel_phase": "solido",
+   "fuels": [
+    "SIBAL (algodón-fibra de vidrio)",
+    "Nomex",
+    "Ultem",
+    "PMMA (acrílico)",
+    "fibra de vidrio con cera",
+    "velas de parafina"
+   ],
+   "geometry": "41 muestras. Láminas delgadas 12 cm x 1-2 cm; láminas gruesas 5 x 1 cm, 1-2 mm de espesor; esferas de PMMA de 1 y 2 cm; velas de 6 mm x 25 mm.",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "flow": {
+    "min": 5.0,
+    "max": 50.0,
+    "basis": "planificado",
+    "note": "Flujo concurrente (co-flow)."
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "MSG",
+   "hardware": "Ducto de flujo SPICE modificado",
+   "years": null,
+   "objectives": "Comprobar si los materiales arden igual o mejor en microgravedad con ventilación adecuada; estudiar combustión y extinción; orientar estrategias de extinción.",
+   "variables": "Material, geometría, velocidad de flujo y caudal de nitrógeno supresor (0-500 cc/min, aumentado hasta extinguir).",
+   "diagnostics": [
+    "video",
+    "fotografía",
+    "anemómetro",
+    "radiómetro"
+   ],
+   "findings": [],
+   "pi": "Paul Ferkul (PI), Sandra Olson (Co-I)",
+   "in_psi": "si",
+   "sources": [
+    "fs_bass",
+    "challenge"
+   ]
+  },
+  {
+   "id": "bass2",
+   "acronym": "BASS-II",
+   "name": "Burning and Suppression of Solids - II",
+   "family": "BASS",
+   "pillars": [
+    "prevencion",
+    "supresion"
+   ],
+   "directness": 5,
+   "directness_reason": "Nombrada en el enunciado; mide límites de inflamabilidad de sólidos variando O2 y flujo.",
+   "fuel_phase": "solido",
+   "fuels": [
+    "PMMA (varillas, láminas, placas, esfera)",
+    "SIBAL (algodón-fibra de vidrio)"
+   ],
+   "geometry": "100 muestras. Láminas de 10 cm x 1-2 cm, espesores 1-5 mm; varillas de PMMA de 6,3 / 9,5 / 12,7 mm de diámetro; sección de esfera.",
+   "o2": {
+    "min": 15.0,
+    "max": 21.0,
+    "basis": "medido",
+    "note": "Se redujo el O2 diluyendo el volumen de trabajo del MSG con N2."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "flow": {
+    "min": 0.0,
+    "max": 55.0,
+    "basis": "medido",
+    "note": "Flujo opuesto y concurrente. Varillas de PMMA en flujo opuesto: 0,4-8 cm/s."
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "MSG",
+   "hardware": "Ducto de flujo SPICE modificado (76 x 76 mm)",
+   "years": null,
+   "objectives": "Hallar el O2 mínimo o la velocidad de flujo mínima para que un material arda, y compararlos con los límites de propagación ascendente en la Tierra, para guiar la selección de materiales.",
+   "variables": "Concentración de O2, velocidad de ventilación, tipo de combustible, espesor y geometría.",
+   "diagnostics": [
+    "video con datos superpuestos",
+    "cámara fotográfica",
+    "anemómetro",
+    "radiómetro",
+    "O2 y CO (CSA-CP)",
+    "monitor de CO2"
+   ],
+   "findings": [
+    {
+     "text": "Los materiales pueden arder con menor concentración de O2 en microgravedad que en gravedad normal.",
+     "source": "bass2_limits"
+    },
+    {
+     "text": "En varillas de PMMA la llama se sostuvo con 17% de O2 en microgravedad frente a 18% en 1 g, y se propago más rápido.",
+     "source": "bass2_pmma"
+    },
+    {
+     "text": "Las llamas siempre se apagaron al detener el ventilador: cortar la ventilación es una buena primera defensa en la ISS.",
+     "source": "bass2_limits"
+    },
+    {
+     "text": "A alta velocidad la llama se desprende (blowoff); a muy baja (<1 cm/s) puede sostenerse azul, tenue y estable.",
+     "source": "bass2_results"
+    },
+    {
+     "text": "La mayoría de los ensayos libero menos de 100 W.",
+     "source": "bass2_summary"
+    },
+    {
+     "text": "Los modelos sobreestiman las velocidades de propagación.",
+     "source": "fs_bass"
+    }
+   ],
+   "pi": "Sandra Olson (PI)",
+   "in_psi": "si",
+   "sources": [
+    "fs_bass",
+    "bass2_summary",
+    "bass2_results",
+    "bass2_pmma",
+    "bass2_limits",
+    "challenge"
+   ]
+  },
+  {
+   "id": "saffire1",
+   "acronym": "Saffire-I",
+   "name": "Spacecraft Fire Safety Demonstration I",
+   "family": "Saffire",
+   "pillars": [
+    "prevencion"
+   ],
+   "directness": 5,
+   "directness_reason": "Nombrada en el enunciado; fuego a gran escala en una nave real.",
+   "fuel_phase": "solido",
+   "fuels": [
+    "SIBAL (algodón-fibra de vidrio)"
+   ],
+   "geometry": "Una muestra de 0,4 m x 0,94 m, al menos un orden de magnitud mayor que cualquier ensayo previo en baja gravedad.",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "gravity": 0.0,
+   "platform": "Cygnus (tras desacoplarse de la ISS)",
+   "facility": "Saffire Flow Unit",
+   "hardware": "Ducto de flujo + bahía de aviónica (~0,5 x 1 x 1,3 m)",
+   "years": "2016",
+   "objectives": "Investigar el crecimiento de llama a gran escala y los límites de inflamabilidad de materiales en el espacio.",
+   "variables": "Ensayo único: muestra grande, ignición por alambre caliente.",
+   "diagnostics": [
+    "termopares"
+   ],
+   "findings": [
+    {
+     "text": "Cuando la llama alcanza su tamaño límite, las llamas aguas abajo se inhiben o apagan por la 'sombra de oxígeno' de la llama aguas arriba.",
+     "source": "saffire_2021"
+    }
+   ],
+   "pi": "David Urban, Gary Ruff",
+   "in_psi": "si",
+   "sources": [
+    "fs_saffire",
+    "saffire_design",
+    "saffire_2021",
+    "challenge"
+   ]
+  },
+  {
+   "id": "saffire2",
+   "acronym": "Saffire-II",
+   "name": "Spacecraft Fire Safety Demonstration II",
+   "family": "Saffire",
+   "pillars": [
+    "prevencion"
+   ],
+   "directness": 5,
+   "directness_reason": "Nombrada en el enunciado; compara materiales reales de nave.",
+   "fuel_phase": "solido",
+   "fuels": [
+    "SIBAL (algodón-fibra de vidrio)",
+    "Nomex",
+    "PMMA (acrílico de ventanas de nave)"
+   ],
+   "geometry": "Nueve muestras pequeñas en un mismo kit.",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "gravity": 0.0,
+   "platform": "Cygnus",
+   "facility": "Saffire Flow Unit",
+   "hardware": "Saffire Flow Unit",
+   "years": "2016",
+   "objectives": "Ampliar los datos de Saffire-I con nuevos materiales.",
+   "variables": "Material (nueve muestras).",
+   "diagnostics": [],
+   "findings": [],
+   "pi": "David Urban, Gary Ruff",
+   "in_psi": "si",
+   "sources": [
+    "fs_saffire",
+    "challenge"
+   ]
+  },
+  {
+   "id": "saffire3",
+   "acronym": "Saffire-III",
+   "name": "Spacecraft Fire Safety Demonstration III",
+   "family": "Saffire",
+   "pillars": [
+    "prevencion"
+   ],
+   "directness": 5,
+   "directness_reason": "Nombrada en el enunciado; efecto del flujo de aire a gran escala.",
+   "fuel_phase": "solido",
+   "fuels": [
+    "SIBAL (algodón-fibra de vidrio)"
+   ],
+   "geometry": "Una muestra de 0,4 m x 0,94 m (igual que Saffire-I).",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Mayor que en Saffire-I; la ficha no da el valor."
+   },
+   "gravity": 0.0,
+   "platform": "Cygnus",
+   "facility": "Saffire Flow Unit",
+   "hardware": "Saffire Flow Unit",
+   "years": "2017",
+   "objectives": "Repetir el material de Saffire-I con mayor velocidad de flujo.",
+   "variables": "Velocidad de flujo respecto de Saffire-I.",
+   "diagnostics": [
+    "termopares"
+   ],
+   "findings": [],
+   "pi": "David Urban, Gary Ruff",
+   "in_psi": "si",
+   "sources": [
+    "fs_saffire",
+    "saffire_design",
+    "challenge"
+   ]
+  },
+  {
+   "id": "saffire4",
+   "acronym": "Saffire-IV",
+   "name": "Spacecraft Fire Safety Demonstration IV",
+   "family": "Saffire",
+   "pillars": [
+    "prevencion",
+    "deteccion"
+   ],
+   "directness": 5,
+   "directness_reason": "Fuego a gran escala más transporte de humo y gases en la nave.",
+   "fuel_phase": "solido",
+   "fuels": [
+    "SIBAL (algodón-fibra de vidrio)",
+    "Nomex",
+    "PMMA"
+   ],
+   "geometry": "Muestras de 40 cm de ancho; tela SIBAL de 50 cm de largo. Ducto más bajo que en Saffire-I.",
+   "o2": {
+    "min": 22.0,
+    "max": 22.0,
+    "basis": "medido"
+   },
+   "pressure": {
+    "min": 100.0,
+    "max": 100.0,
+    "basis": "medido"
+   },
+   "flow": {
+    "min": 20.0,
+    "max": 20.0,
+    "basis": "medido",
+    "note": "Concurrente."
+   },
+   "gravity": 0.0,
+   "platform": "Cygnus (NG-13)",
+   "facility": "Saffire Flow Unit",
+   "hardware": "Saffire Flow Unit con cámaras laterales, sensores de gas y Far Field Diagnostics",
+   "years": "2020",
+   "objectives": "Comparar los materiales de Saffire-II en otras condiciones y medir el impacto del fuego sobre la nave (gases, humo, temperatura).",
+   "variables": "Material, altura de ducto.",
+   "diagnostics": [
+    "video",
+    "termopares",
+    "radiómetros",
+    "calorimetría por consumo de O2",
+    "CO2/CO distribuidos",
+    "sensores remotos de partículas"
+   ],
+   "findings": [
+    {
+     "text": "El tamaño del ducto y el desarrollo del flujo afectan la velocidad de propagación y la longitud de pirólisis.",
+     "source": "saffire_2021"
+    },
+    {
+     "text": "Pese a liberaciones de calor de hasta 10 kW, las condiciones promedio de la nave no llegaron a niveles inaceptables.",
+     "source": "saffire_2021"
+    }
+   ],
+   "pi": "David Urban, Gary Ruff",
+   "in_psi": "verificar",
+   "sources": [
+    "fs_saffire",
+    "saffire_2021",
+    "saffire_2024"
+   ]
+  },
+  {
+   "id": "saffire5",
+   "acronym": "Saffire-V",
+   "name": "Spacecraft Fire Safety Demonstration V",
+   "family": "Saffire",
+   "pillars": [
+    "prevencion",
+    "deteccion"
+   ],
+   "directness": 5,
+   "directness_reason": "Primer fuego a gran escala en atmósfera de exploración (más O2, menos presión).",
+   "fuel_phase": "solido",
+   "fuels": [
+    "algodón (jersey)",
+    "PMMA estructurado"
+   ],
+   "geometry": "Tela de algodón de 50 cm de largo; muestra gruesa de PMMA estructurado.",
+   "o2": {
+    "min": 25.4,
+    "max": 26.2,
+    "basis": "medido"
+   },
+   "pressure": {
+    "min": 70.7,
+    "max": 72.6,
+    "basis": "medido"
+   },
+   "flow": {
+    "min": 20.0,
+    "max": 20.0,
+    "basis": "medido",
+    "note": "Concurrente; en un ensayo se redujo y se corto el flujo."
+   },
+   "gravity": 0.0,
+   "platform": "Cygnus",
+   "facility": "Saffire Flow Unit",
+   "hardware": "Saffire Flow Unit + Far Field Diagnostics",
+   "years": "2021",
+   "objectives": "Examinar el crecimiento del fuego a las presiones y concentraciones de oxígeno esperadas en futuras naves de exploración.",
+   "variables": "Atmósfera (O2 y presión), material, flujo.",
+   "diagnostics": [
+    "video",
+    "termopares",
+    "radiómetros",
+    "calorimetría por consumo de O2",
+    "CO2/CO distribuidos"
+   ],
+   "findings": [
+    {
+     "text": "Con O2 elevado no se puede asumir que un combustible delgado que carboniza se apague rápido al cortar el flujo.",
+     "source": "saffire_2021"
+    },
+    {
+     "text": "El aumento de CO2 y CO en la nave fue más significativo que el de temperatura y presión.",
+     "source": "saffire_2024"
+    }
+   ],
+   "pi": "David Urban, Gary Ruff",
+   "in_psi": "verificar",
+   "sources": [
+    "fs_saffire",
+    "saffire_2021",
+    "saffire_2024"
+   ]
+  },
+  {
+   "id": "saffire6",
+   "acronym": "Saffire-VI",
+   "name": "Spacecraft Fire Safety Demonstration VI",
+   "family": "Saffire",
+   "pillars": [
+    "prevencion",
+    "deteccion",
+    "supresion"
+   ],
+   "directness": 5,
+   "directness_reason": "El ensayo de sólidos más cercano a la atmósfera de la base lunar; incluye detección y limpieza post-incendio.",
+   "fuel_phase": "solido",
+   "fuels": [
+    "SIBAL (algodón-fibra de vidrio)",
+    "PMMA de 1 cm (dos caras)",
+    "PMMA de 0,5 cm (una cara)"
+   ],
+   "geometry": "Tela SIBAL de 50 cm; placas de PMMA de 18 cm. Ducto de 45 cm de ancho y 109 cm de largo.",
+   "o2": {
+    "min": 28.8,
+    "max": 31.0,
+    "basis": "medido"
+   },
+   "pressure": {
+    "min": 54.1,
+    "max": 55.2,
+    "basis": "medido"
+   },
+   "flow": {
+    "min": 5.0,
+    "max": 20.0,
+    "basis": "medido",
+    "note": "Concurrente a 20 cm/s; reducido a 5 cm/s y luego cortado en un ensayo."
+   },
+   "gravity": 0.0,
+   "platform": "Cygnus",
+   "facility": "Saffire Flow Unit",
+   "hardware": "Saffire Flow Unit + Far Field Diagnostics",
+   "years": "2023",
+   "objectives": "Probar la inflamabilidad a distintos niveles de oxígeno y demostrar detección de incendios, monitoreo de productos de combustión y limpieza posterior.",
+   "variables": "Atmósfera (O2 y presión), material, espesor, flujo.",
+   "diagnostics": [
+    "video",
+    "calorimetría por consumo de O2",
+    "CO2/CO",
+    "detector de humo por ionización (campo lejano)",
+    "material particulado"
+   ],
+   "findings": [],
+   "pi": "David Urban, Gary Ruff",
+   "in_psi": "verificar",
+   "sources": [
+    "fs_saffire",
+    "saffire_2024"
+   ]
+  },
+  {
+   "id": "same",
+   "acronym": "SAME",
+   "name": "Smoke Aerosol Measurement Experiment",
+   "family": "SAME",
+   "pillars": [
+    "deteccion"
+   ],
+   "directness": 5,
+   "directness_reason": "Nombrada en el enunciado como el estudio de detección de incendios.",
+   "fuel_phase": "aerosol",
+   "fuels": [
+    "Teflon",
+    "Kapton",
+    "celulosa",
+    "goma de silicona",
+    "dibutil-ftalato en mecha porosa"
+   ],
+   "geometry": "30 muestras (seis por material) sobrecalentadas para generar humo, sin llama.",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Se vario el caudal de aire; la ficha no da valores."
+   },
+   "gravity": 0.0,
+   "platform": "ISS (Expedición 15)",
+   "facility": "MSG",
+   "hardware": "Hardware SAME",
+   "years": null,
+   "objectives": "Medir tamaño y distribución de partículas de humo de materiales de nave en microgravedad y evaluar detectores por ionización (Shuttle) y fotoelectricos (ISS).",
+   "variables": "Material, caudal de aire, temperatura de calentamiento y tiempo de envejecimiento del humo.",
+   "diagnostics": [
+    "contador de partículas",
+    "detector por ionización",
+    "detector por dispersión de luz",
+    "momentos de la distribución de tamaños"
+   ],
+   "findings": [
+    {
+     "text": "Los diámetros medios aritméticos estuvieron en el rango de 100 a 200 nm.",
+     "source": "fs_same"
+    },
+    {
+     "text": "Goma de silicona: diámetro medio de 227 nm, pero casi la mitad de la masa en partículas mayores de 1000 nm.",
+     "source": "fs_same"
+    },
+    {
+     "text": "Al envejecer, baja mucho el número de partículas y la masa se mantiene: coagulación.",
+     "source": "fs_same"
+    },
+    {
+     "text": "Todas las muestras generaron muchas partículas submicrónicas, que un detector por ionización capta mejor; el de dispersión de luz funciono bien en la mayoría de los casos.",
+     "source": "fs_same"
+    }
+   ],
+   "pi": "David L. Urban (PI)",
+   "in_psi": "si",
+   "sources": [
+    "fs_same",
+    "challenge"
+   ]
+  },
+  {
+   "id": "samer",
+   "acronym": "SAME-R",
+   "name": "Smoke Aerosol Measurement Experiment - Reflight",
+   "family": "SAME",
+   "pillars": [
+    "deteccion"
+   ],
+   "directness": 5,
+   "directness_reason": "Nombrada en el enunciado como estudio de detección.",
+   "fuel_phase": "aerosol",
+   "fuels": [
+    "Teflon",
+    "Kapton",
+    "algodón",
+    "goma de silicona",
+    "Pyrell"
+   ],
+   "geometry": "Muestras sobrecalentadas con temperatura superficial repetible.",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "gravity": 0.0,
+   "platform": "ISS (Expedición 24)",
+   "facility": "MSG",
+   "hardware": "Hardware SAME",
+   "years": "2010",
+   "objectives": "Repetir SAME para analizar distribuciones de tamaño de partículas y comparar vuelo con ensayos en tierra; evaluar detectores de ISS y Shuttle.",
+   "variables": "Material y temperatura de la muestra.",
+   "diagnostics": [
+    "precipitador térmico (muestras para TEM)",
+    "instrumentos de aerosol",
+    "detector de humo comercial",
+    "SMPS en tierra"
+   ],
+   "findings": [
+    {
+     "text": "El detector del Shuttle (ionización) descartaba partículas mayores de 1-2 um; el de la ISS (dispersión en infrarrojo cercano) es más sensible a partículas mayores de 1 um.",
+     "source": "fs_same"
+    }
+   ],
+   "pi": "David L. Urban (PI)",
+   "in_psi": "si",
+   "sources": [
+    "fs_same",
+    "challenge"
+   ]
+  },
+  {
+   "id": "daft",
+   "acronym": "DAFT / DAFT-2",
+   "name": "Dust and Aerosol Measurement Feasibility Test",
+   "family": "SAME",
+   "pillars": [
+    "deteccion"
+   ],
+   "directness": 3,
+   "directness_reason": "Mide polvo, no humo: define el 'ruido de fondo' que debe distinguir un detector.",
+   "fuel_phase": "aerosol",
+   "fuels": [
+    "polvo ambiental de la ISS (sin combustión)"
+   ],
+   "geometry": "No aplica.",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "gravity": 0.0,
+   "platform": "ISS (Expediciones 10-13)",
+   "facility": "Cabina de la ISS",
+   "hardware": "Contador de partículas ultrafinas P-Trak",
+   "years": null,
+   "objectives": "Caracterizar las partículas en el aire de la ISS para juzgar si los detectores de humo son adecuados, y probar el contador P-Trak antes de usarlo en SAME.",
+   "variables": "Ubicación y momento de la medición (maximo tres puntos por día).",
+   "diagnostics": [
+    "contador de partículas ultrafinas P-Trak"
+   ],
+   "findings": [
+    {
+     "text": "Los niveles de partículas en la ISS fueron bajos comparados con el Shuttle.",
+     "source": "fs_daft"
+    },
+    {
+     "text": "El tamaño medio de partícula en órbita fue mayor que en la Tierra.",
+     "source": "fs_daft"
+    }
+   ],
+   "pi": "David Urban (PI), Gary Ruff (PS)",
+   "in_psi": "si",
+   "sources": [
+    "fs_daft",
+    "challenge"
+   ]
+  },
+  {
+   "id": "flex",
+   "acronym": "FLEX",
+   "name": "Flame Extinguishment Experiment",
+   "family": "FLEX",
+   "pillars": [
+    "supresion",
+    "prevencion"
+   ],
+   "directness": 5,
+   "directness_reason": "Nombrada en el enunciado como el estudio de supresión.",
+   "fuel_phase": "liquido",
+   "fuels": [
+    "metanol",
+    "heptano"
+   ],
+   "geometry": "Gotas aisladas de 1,5 a 5 mm de diámetro inicial.",
+   "o2": {
+    "min": 10.0,
+    "max": 50.0,
+    "basis": "planificado",
+    "note": "Ejecutado en los primeros resultados: 10-40%."
+   },
+   "pressure": {
+    "min": 50.7,
+    "max": 304.0,
+    "basis": "medido",
+    "note": "Plan: 0,5-1,0 atm. Primeros resultados: 0,7-3,0 atm."
+   },
+   "flow": {
+    "min": 0.0,
+    "max": 0.0,
+    "basis": "medido",
+    "note": "Ambiente quieto."
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "CIR",
+   "hardware": "MDCA",
+   "years": null,
+   "objectives": "Cuantificar la eficacia de supresores gaseosos inertes en microgravedad, obtener un índice límite de oxígeno (LOI) conservador y mapear los límites de inflamabilidad de combustibles líquidos.",
+   "variables": "Combustible, tamaño de gota, fracción de O2, presión y diluyente/supresor (N2, CO2, He; hasta ~0,70 de fracción molar).",
+   "diagnostics": [
+    "tasa de quemado de gota",
+    "extinción de llama",
+    "radiación de llama",
+    "concentración de hollín",
+    "temperatura de hollín"
+   ],
+   "findings": [
+    {
+     "text": "LOI en mezclas O2/N2: 0,12 para metanol y 0,15 para heptano.",
+     "source": "flex_first"
+    },
+    {
+     "text": "Descubrimiento de las llamas frías: tras apagarse la llama visible, las gotas grandes de heptano siguieron quemándose.",
+     "source": "flex_first"
+    },
+    {
+     "text": "Al bajar el O2 ambiente, crece el diámetro de extinción difusiva y disminuye el de extinción radiativa.",
+     "source": "flex_first"
+    }
+   ],
+   "pi": "Forman Williams (PI), Daniel Dietrich (PS)",
+   "in_psi": "si",
+   "sources": [
+    "fs_flex",
+    "flex_first",
+    "challenge"
+   ]
+  },
+  {
+   "id": "flex2",
+   "acronym": "FLEX-2",
+   "name": "Flame Extinguishment Experiment - 2",
+   "family": "FLEX",
+   "pillars": [
+    "fundamental",
+    "supresion"
+   ],
+   "directness": 3,
+   "directness_reason": "Combustibles prácticos y flujo convectivo; relación indirecta con seguridad.",
+   "fuel_phase": "liquido",
+   "fuels": [
+    "combustibles puros",
+    "mezclas",
+    "sustitutos bicomponente"
+   ],
+   "geometry": "Gotas de ~2-4 mm sobre fibras; pares de gotas en arreglo lineal.",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Flujo convectivo sub-boyante moviendo la gota; sin valores en la ficha."
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "CIR",
+   "hardware": "MDCA",
+   "years": null,
+   "objectives": "Estudiar el efecto de flujos convectivos lentos en la tasa de quemado, la influencia de una segunda gota y combustibles prácticos; verificar modelos de combustión de gotas.",
+   "variables": "Cuatro grupos de ensayos (combustible puro, mezcla, flujo convectivo, arreglo binario), de ~30-60 ensayos cada uno.",
+   "diagnostics": [
+    "video de la combustión"
+   ],
+   "findings": [],
+   "pi": "Forman Williams (PI), Michael Hicks (PS)",
+   "in_psi": "si",
+   "sources": [
+    "fs_flex",
+    "challenge"
+   ]
+  },
+  {
+   "id": "cfi",
+   "acronym": "CFI",
+   "name": "Cool Flames Investigation",
+   "family": "FLEX",
+   "pillars": [
+    "fundamental",
+    "supresion"
+   ],
+   "directness": 3,
+   "directness_reason": "Las llamas frías son un riesgo oculto: combustión que sigue tras la extinción visible.",
+   "fuel_phase": "liquido",
+   "fuels": [
+    "dodecano"
+   ],
+   "geometry": "Gotas de ~4 mm.",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "CIR",
+   "hardware": "MDCA",
+   "years": null,
+   "objectives": "Estudiar la combustión a baja temperatura (llamas frías) de gotas de combustible líquido.",
+   "variables": "Combustible y atmósfera.",
+   "diagnostics": [],
+   "findings": [
+    {
+     "text": "La llama caliente oscila y se apaga; la gota sigue consumiéndose con una llama fría casi invisible, dejando una nube de vapor sin quemar.",
+     "source": "cfi_blog"
+    }
+   ],
+   "pi": null,
+   "in_psi": "si",
+   "sources": [
+    "cfi_blog",
+    "challenge"
+   ]
+  },
+  {
+   "id": "bre",
+   "acronym": "ACME-BRE",
+   "name": "Burning Rate Emulator",
+   "family": "ACME",
+   "pillars": [
+    "prevencion"
+   ],
+   "directness": 4,
+   "directness_reason": "Emula con gas la inflamabilidad de sólidos y líquidos en atmósfera quieta; cubre O2 enriquecido y baja presión.",
+   "fuel_phase": "gas",
+   "fuels": [
+    "etileno",
+    "metano",
+    "diluidos con nitrógeno (emulan papel, plástico, alcohol)"
+   ],
+   "geometry": "Quemador poroso plano de 25 y 50 mm de diámetro, con dos sensores de flujo de calor y termopar de superficie.",
+   "o2": {
+    "min": 21.0,
+    "max": 40.0,
+    "basis": "medido"
+   },
+   "pressure": {
+    "min": 57.0,
+    "max": 100.0,
+    "basis": "medido"
+   },
+   "flow": {
+    "min": 0.0,
+    "max": 0.0,
+    "basis": "medido",
+    "note": "Atmósfera quieta."
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "CIR",
+   "hardware": "Inserto de cámara ACME",
+   "years": null,
+   "objectives": "Entender la ignición y extinción de materiales y evaluar métodos de ensayo de inflamabilidad para baja gravedad y gravedad parcial.",
+   "variables": "Caudal de combustible, dilución, fracción de O2, presión y diámetro del quemador.",
+   "diagnostics": [
+    "sensores de flujo de calor",
+    "termopar de superficie",
+    "radiómetros",
+    "video color"
+   ],
+   "findings": [
+    {
+     "text": "Todas las llamas en 21% de O2 se autoextinguieron en menos de 40 s; con 26,5%, 34% y 40% de O2 se observaron llamas estables.",
+     "source": "bre_dehghani"
+    },
+    {
+     "text": "El tiempo hasta la extinción escala con el cubo de la fracción de O2 y no depende de la presión: evidencia del riesgo de atmósferas enriquecidas en oxígeno.",
+     "source": "bre_wright"
+    }
+   ],
+   "pi": "James Quintiere, Peter Sunderland (U. Maryland)",
+   "in_psi": "si",
+   "sources": [
+    "fs_acme",
+    "bre_wright",
+    "bre_dehghani",
+    "challenge"
+   ]
+  },
+  {
+   "id": "cfig",
+   "acronym": "ACME-CFI-G",
+   "name": "Cool Flames Investigation with Gases",
+   "family": "ACME",
+   "pillars": [
+    "fundamental"
+   ],
+   "directness": 3,
+   "directness_reason": "Tiene las concentraciones de O2 más altas en microgravedad de todo PSI.",
+   "fuel_phase": "gas",
+   "fuels": [
+    "butano",
+    "propano",
+    "etano"
+   ],
+   "geometry": "Quemador esférico poroso; llama 'invertida': el oxidante sale del quemador hacia una cámara con N2 y gas inflamable.",
+   "o2": {
+    "min": null,
+    "max": 85.0,
+    "basis": "medido",
+    "note": "Hasta 85% de O2 en la mezcla O2/N2 que sale del quemador (no en la cámara)."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "CIR",
+   "hardware": "Inserto de cámara ACME",
+   "years": null,
+   "objectives": "Observar llamas frías de difusión esféricas, estables o cuasi estables, y mejorar los modelos cinéticos de llama fría.",
+   "variables": "Combustible gaseoso y composición del oxidante.",
+   "diagnostics": [],
+   "findings": [],
+   "pi": "Peter Sunderland, Forman Williams, Richard Axelbaum",
+   "in_psi": "si",
+   "sources": [
+    "fs_acme",
+    "cfig_issnl",
+    "challenge"
+   ]
+  },
+  {
+   "id": "cld",
+   "acronym": "ACME-CLD Flame",
+   "name": "Coflow Laminar Diffusion Flame",
+   "family": "ACME",
+   "pillars": [
+    "fundamental"
+   ],
+   "directness": 2,
+   "directness_reason": "Validación de modelos de hollín y extinción; relación indirecta con seguridad.",
+   "fuel_phase": "gas",
+   "fuels": [
+    "metano",
+    "etileno",
+    "diluidos con nitrógeno"
+   ],
+   "geometry": "Quemador de co-flujo; llamas despegadas del quemador.",
+   "o2": {
+    "min": 21.0,
+    "max": 21.0,
+    "basis": "planificado",
+    "note": "Co-flujo de aire."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "CIR",
+   "hardware": "Inserto de cámara ACME",
+   "years": null,
+   "objectives": "Extender el modelado predictivo a llamas con mucho hollín y a llamas muy diluidas cerca de la extinción.",
+   "variables": "Velocidad de inyección y dilución del combustible.",
+   "diagnostics": [
+    "fracción volumétrica de hollín",
+    "pirometría",
+    "imagenes CH*"
+   ],
+   "findings": [
+    {
+     "text": "Las llamas con hollín en microgravedad son más altas, anchas y frías que en 1 g; la fracción de hollín es de cinco a ocho veces mayor.",
+     "source": "fs_acme"
+    },
+    {
+     "text": "Las llamas muy diluidas son más estables en microgravedad.",
+     "source": "fs_acme"
+    }
+   ],
+   "pi": null,
+   "in_psi": "si",
+   "sources": [
+    "fs_acme",
+    "challenge"
+   ]
+  },
+  {
+   "id": "efield",
+   "acronym": "ACME-E-FIELD Flames",
+   "name": "Electric-Field Effects on Laminar Diffusion Flames",
+   "family": "ACME",
+   "pillars": [
+    "fundamental"
+   ],
+   "directness": 3,
+   "directness_reason": "Única aproximación a gravedad parcial en PSI: el campo eléctrico actua sobre los iones de la llama.",
+   "fuel_phase": "gas",
+   "fuels": [
+    "combustibles gaseosos (co-flujo o chorro simple)"
+   ],
+   "geometry": "Quemador aislado con malla circular como electrodo a ~35 o 50 mm aguas abajo; hasta +/-10 kV.",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "CIR",
+   "hardware": "Inserto de cámara ACME + fuente de alto voltaje",
+   "years": null,
+   "objectives": "Entender la producción de iones en las llamas y usar campos electricos para controlar llamas no premezcladas.",
+   "variables": "Voltaje y posición del electrodo.",
+   "diagnostics": [
+    "corriente iónica",
+    "tiempo de respuesta de la llama",
+    "imagenes"
+   ],
+   "findings": [],
+   "pi": null,
+   "in_psi": "si",
+   "sources": [
+    "fs_acme",
+    "challenge"
+   ]
+  },
+  {
+   "id": "flamedesign",
+   "acronym": "ACME-Flame Design",
+   "name": "Flame Design",
+   "family": "ACME",
+   "pillars": [
+    "fundamental"
+   ],
+   "directness": 2,
+   "directness_reason": "Limites de hollín y extinción en atmósferas enriquecidas en O2.",
+   "fuel_phase": "gas",
+   "fuels": [
+    "etileno",
+    "metano"
+   ],
+   "geometry": "Quemador esférico; llamas normales e invertidas.",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Atmósfera enriquecida en O2; sin valores en la ficha."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "CIR",
+   "hardware": "Inserto de cámara ACME",
+   "years": null,
+   "objectives": "Entender el inicio del hollín y los límites de extinción para diseñar llamas robustas y sin hollín.",
+   "variables": "Concentraciones de combustible y oxígeno, y dirección del flujo.",
+   "diagnostics": [],
+   "findings": [],
+   "pi": null,
+   "in_psi": "si",
+   "sources": [
+    "fs_acme",
+    "challenge"
+   ]
+  },
+  {
+   "id": "sflame",
+   "acronym": "ACME-s-Flame",
+   "name": "Structure and Response of Spherical Diffusion Flames",
+   "family": "ACME",
+   "pillars": [
+    "fundamental"
+   ],
+   "directness": 2,
+   "directness_reason": "Limites de extinción radiativa y convectiva de llamas esféricas.",
+   "fuel_phase": "gas",
+   "fuels": [
+    "hidrógeno",
+    "metano",
+    "etileno",
+    "con diluyentes inertes"
+   ],
+   "geometry": "Quemador esférico poroso.",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "CIR",
+   "hardware": "Inserto de cámara ACME",
+   "years": null,
+   "objectives": "Predecir la estructura, la dinámica y la extinción de llamas con y sin hollín, e identificar inestabilidades pulsantes.",
+   "variables": "Combustible, diluyente y caudal.",
+   "diagnostics": [
+    "seis termopares de campo lejano",
+    "radiómetro de vista amplia",
+    "pirometría de filamento delgado"
+   ],
+   "findings": [],
+   "pi": null,
+   "in_psi": "si",
+   "sources": [
+    "fs_acme",
+    "challenge"
+   ]
+  },
+  {
+   "id": "spice",
+   "acronym": "SPICE",
+   "name": "Smoke Point In Co-flow Experiment",
+   "family": "MSG gas",
+   "pillars": [
+    "fundamental",
+    "deteccion"
+   ],
+   "directness": 2,
+   "directness_reason": "Inicio del hollín (humo) en microgravedad; su ducto de flujo fue reutilizado por BASS.",
+   "fuel_phase": "gas",
+   "fuels": [
+    "propileno",
+    "propano",
+    "etileno",
+    "mezclas"
+   ],
+   "geometry": "Llamas de chorro con tres boquillas de distinto diámetro en co-flujo de aire.",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "MSG",
+   "hardware": "Ducto de flujo SPICE",
+   "years": null,
+   "objectives": "Determinar el punto de humo laminar (la mayor llama de difusión que no emite hollín) para varios combustibles, boquillas y co-flujos.",
+   "variables": "Combustible, diámetro de boquilla y velocidad de co-flujo.",
+   "diagnostics": [
+    "forma luminosa de la llama",
+    "altura de estabilización",
+    "campo de temperatura"
+   ],
+   "findings": [
+    {
+     "text": "Se completaron 250 ensayos de combustión y se identificaron más de 70 puntos de humo.",
+     "source": "fs_spice"
+    }
+   ],
+   "pi": "David Urban (PI), Peter Sunderland (Co-I)",
+   "in_psi": "si",
+   "sources": [
+    "fs_spice",
+    "challenge"
+   ]
+  },
+  {
+   "id": "slice",
+   "acronym": "SLICE",
+   "name": "Structure & Liftoff In Combustion Experiment",
+   "family": "MSG gas",
+   "pillars": [
+    "fundamental"
+   ],
+   "directness": 2,
+   "directness_reason": "Estabilidad y desprendimiento de llamas; precursor de CLD Flame.",
+   "fuel_phase": "gas",
+   "fuels": [
+    "metano",
+    "etileno",
+    "diluidos con nitrógeno"
+   ],
+   "geometry": "Llamas de chorro en co-flujo de aire con las boquillas de SPICE.",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Pendiente: confirmar en PSI."
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "El co-flujo se aumenta por pasos hasta despegar la llama."
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "MSG",
+   "hardware": "Ducto de flujo SPICE",
+   "years": "2012",
+   "objectives": "Caracterizar la estructura de la base de la llama, de adherida a despegada, e identificar los límites de velocidad de despegue.",
+   "variables": "Combustible, dilución, diámetro de quemador y velocidad de co-flujo.",
+   "diagnostics": [
+    "fotografía",
+    "video"
+   ],
+   "findings": [
+    {
+     "text": "El punto de anclaje de la llama controla la estabilidad de la llama de difusión que le sigue.",
+     "source": "fs_slice"
+    }
+   ],
+   "pi": "Marshall Long (PI, Yale)",
+   "in_psi": "si",
+   "sources": [
+    "fs_slice",
+    "fs_acme",
+    "challenge"
+   ]
+  },
+  {
+   "id": "sofie",
+   "acronym": "SoFIE",
+   "name": "Solid Fuel Ignition and Extinction",
+   "family": "SoFIE",
+   "pillars": [
+    "prevencion",
+    "supresion"
+   ],
+   "directness": 5,
+   "directness_reason": "Inflamabilidad de sólidos en O2 alto siguiendo la curva normoxica; investigación en curso.",
+   "fuel_phase": "solido",
+   "fuels": [
+    "PMMA",
+    "combustibles sólidos delgados y gruesos"
+   ],
+   "geometry": "Cinco sub-investigaciones: NCA (láminas planas de PMMA), GEL (esfera de 4-5 cm), MIST (cilindros), RTDFS (combustibles delgados), SMuRF.",
+   "o2": {
+    "min": 21.0,
+    "max": 85.0,
+    "basis": "planificado",
+    "note": "Rango de NCA, mezcla O2/N2."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Se varia para permanecer sobre o cerca de la curva normoxica."
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Flujo opuesto forzado a varias velocidades."
+   },
+   "gravity": 0.0,
+   "platform": "ISS",
+   "facility": "CIR",
+   "hardware": "Inserto SoFIE",
+   "years": null,
+   "objectives": "Estudiar ignición, propagación y extinción sobre sólidos y correlacionar los ensayos de inflamabilidad en 1 g con datos de microgravedad ventilada.",
+   "variables": "O2, presión, velocidad de flujo, espesor y geometría.",
+   "diagnostics": [
+    "medición de calentamiento de la muestra"
+   ],
+   "findings": [],
+   "pi": "T'ien (GEL), Fernandez-Pello (MIST), Miller (NCA), Bhattacharjee (RTDFS), Olson (SMuRF)",
+   "in_psi": "verificar",
+   "sources": [
+    "sofie",
+    "nasa_combustion"
+   ]
+  },
+  {
+   "id": "flare",
+   "acronym": "FLARE",
+   "name": "Flammability Limits At Reduced-g Experiment",
+   "family": "Internacional",
+   "pillars": [
+    "prevencion"
+   ],
+   "directness": 4,
+   "directness_reason": "Busca estimar límites de inflamabilidad en microgravedad a partir de datos de tierra.",
+   "fuel_phase": "solido",
+   "fuels": [
+    "materiales sólidos"
+   ],
+   "geometry": null,
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "gravity": 0.0,
+   "platform": "ISS (módulo Kibo, JAXA)",
+   "facility": "Kibo",
+   "hardware": "Solid Combustion (JAXA)",
+   "years": null,
+   "objectives": "Desarrollar un método para correlacionar los límites de inflamabilidad en gravedad normal y en microgravedad, y proponer un nuevo ensayo de selección de materiales.",
+   "variables": null,
+   "diagnostics": [],
+   "findings": [],
+   "pi": "Osamu Fujita (PI JAXA); Sandra Olson, Carlos Fernandez-Pello (Co-I EE.UU.)",
+   "in_psi": "verificar",
+   "sources": [
+    "flare",
+    "nasa_combustion"
+   ]
+  },
+  {
+   "id": "fm2",
+   "acronym": "FM2",
+   "name": "Flammability of Materials on the Moon",
+   "family": "Gravedad parcial",
+   "pillars": [
+    "prevencion"
+   ],
+   "directness": 5,
+   "directness_reason": "Primer experimento de combustión en otro cuerpo planetario; llenaría la brecha de gravedad parcial.",
+   "fuel_phase": "solido",
+   "fuels": [
+    "SIBAL (algodón-fibra de vidrio)",
+    "otras tres muestras"
+   ],
+   "geometry": "Cuatro muestras quemadas una a una en cámara sellada autónoma (28,5 x 28,5 x 38,5 cm, 25 kg).",
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato",
+    "note": "Atmósfera prevista para futuros hábitats lunares; sin valores."
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "gravity": 0.167,
+   "platform": "Superficie lunar",
+   "facility": "Cámara autónoma",
+   "hardware": "FM2",
+   "years": "futuro",
+   "objectives": "Hacer las primeras observaciones de propagación de llama en la Luna y comprobar si los materiales arden más fácilmente en gravedad parcial que en 1 g.",
+   "variables": "Material.",
+   "diagnostics": [
+    "cámaras",
+    "temperatura de llama y combustible",
+    "concentración de O2",
+    "concentración de CO2"
+   ],
+   "findings": [],
+   "pi": "Paul Ferkul (PI)",
+   "in_psi": "no_aun",
+   "sources": [
+    "fm2",
+    "challenge"
+   ]
+  },
+  {
+   "id": "luci",
+   "acronym": "LUCI",
+   "name": "Lunar-g Combustion Investigation",
+   "family": "Gravedad parcial",
+   "pillars": [
+    "prevencion"
+   ],
+   "directness": 5,
+   "directness_reason": "Datos de combustión en gravedad lunar esperados en PSI.",
+   "fuel_phase": "solido",
+   "fuels": [],
+   "geometry": null,
+   "o2": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "pressure": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "flow": {
+    "min": null,
+    "max": null,
+    "basis": "sin_dato"
+   },
+   "gravity": 0.167,
+   "platform": null,
+   "facility": null,
+   "hardware": null,
+   "years": "futuro",
+   "objectives": "Investigación de combustión en gravedad lunar. El enunciado solo indica que sus datos se agregarán a PSI en el futuro.",
+   "variables": null,
+   "diagnostics": [],
+   "findings": [],
+   "pi": null,
+   "in_psi": "no_aun",
+   "sources": [
+    "challenge"
+   ]
+  }
+ ]
+}

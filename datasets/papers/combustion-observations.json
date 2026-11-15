@@ -1,0 +1,2165 @@
+{
+  "schema_version": 1,
+  "observations": [
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 27.5,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row06",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 6; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 12.6
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 30.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row07",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 7; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 17.4,
+        "length_mm": 35.1
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 30.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row08",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 8; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 18.1,
+        "length_mm": 34.3
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 30.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row09",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 9; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 18.6,
+        "length_mm": 36.5
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 30.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row10",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 10; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 17.2,
+        "length_mm": 33.5
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 30.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row11",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 11; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 18.8
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 30.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row12",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 12; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 18.4,
+        "length_mm": 45.0
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 35.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row13",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 13; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 21.7
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 40.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row14",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 14; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 26.3
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 40.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row15",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 15; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 26.7,
+        "length_mm": 47.1
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 40.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row16",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 16; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 28.5,
+        "length_mm": 45.1
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 40.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row17",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 17; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 26.3
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 40.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row18",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 18; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 28.6
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 40.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row19",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 19; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 27.2,
+        "length_mm": 47.8
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 50.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row20",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 20; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 37.8,
+        "length_mm": 54.2
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 50.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row21",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 21; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 38.9,
+        "length_mm": 59.3
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 60.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row22",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 22; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 49.4
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 60.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row23",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 23; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 45.5,
+        "length_mm": 64.4
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 80.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row24",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 24; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 61.1
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 80.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row25",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 25; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 61.3
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 100.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row26",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 26; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 70.9
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 100.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-I-row27",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-I, data row 27; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 67.4,
+        "length_mm": 66.6
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 16.5,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row01",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 1; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 5.0,
+        "length_mm": 6.8
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 17.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row02",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 2; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 6.1,
+        "length_mm": 8.9
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 18.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row03",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 3; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 7.5,
+        "length_mm": 14.0
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row04",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 4; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 11.2,
+        "length_mm": 17.0
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 25.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row05",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 5; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 15.5,
+        "length_mm": 26.2
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 25.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row06",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 6; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 13.9
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 25.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row07",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 7; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 15.4,
+        "length_mm": 24.6
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 25.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row08",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 8; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 13.8
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 30.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row09",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 9; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 19.2,
+        "length_mm": 22.9
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 40.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row10",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 10; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 29.7,
+        "length_mm": 27.7
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 50.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row11",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 11; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 35.7,
+        "length_mm": 29.0
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 60.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row12",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 12; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 42.8,
+        "length_mm": 45.0
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 80.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row13",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 13; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 51.8,
+        "length_mm": 56.0
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 80.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row14",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 14; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 57.5,
+        "length_mm": 48.2
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 100.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-II-row15",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p31 (printed p26), Table A-II, data row 15; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 75.1,
+        "length_mm": 57.0
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 30.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-III-row04",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-III, data row 4; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 4.7
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 30.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-III-row05",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-III, data row 5; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 6.3,
+        "length_mm": 24.3
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 30.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-III-row06",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-III, data row 6; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 5.4,
+        "length_mm": 21.0
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 40.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-III-row07",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-III, data row 7; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 14.2,
+        "length_mm": 36.9
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 40.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-III-row08",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-III, data row 8; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 12.9,
+        "length_mm": 30.1
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 40.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-III-row09",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-III, data row 9; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 15.5
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 50.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-III-row10",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-III, data row 10; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 20.0,
+        "length_mm": 43.2
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 50.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-III-row11",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-III, data row 11; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 21.9,
+        "length_mm": 49.8
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 60.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-III-row12",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-III, data row 12; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 22.6,
+        "length_mm": 47.5
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 60.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-III-row13",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-III, data row 13; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 34.2
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 80.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-III-row14",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-III, data row 14; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 34.4,
+        "length_mm": 64.0
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 80.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-III-row15",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-III, data row 15; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 35.5
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 100.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-III-row16",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-III, data row 16; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 45.9
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 16.9,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row01",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 1; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 2.8,
+        "length_mm": 11.1
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 16.9,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row02",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 2; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 3.3,
+        "length_mm": 12.5
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 17.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row03",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 3; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 3.2,
+        "length_mm": 13.1
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 18.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row04",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 4; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 7.5,
+        "length_mm": 14.0
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row05",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 5; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 5.9,
+        "length_mm": 20.6
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row06",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 6; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 6.7,
+        "length_mm": 22.0
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row07",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 7; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 6.8,
+        "length_mm": 22.3
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row08",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 8; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 6.7
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 25.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row09",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 9; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 8.5,
+        "length_mm": 26.6
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 25.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row10",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 10; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 9.4,
+        "length_mm": 24.7
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 25.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row11",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 11; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 9.1,
+        "length_mm": 25.6
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 30.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row12",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 12; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 12.1,
+        "length_mm": 28.8
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 40.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row13",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 13; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 18.0,
+        "length_mm": 26.6
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 40.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row14",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 14; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 17.2,
+        "length_mm": 34.1
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 50.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row15",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 15; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 22.8,
+        "length_mm": 38.0
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 60.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row16",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 16; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 29.0,
+        "length_mm": 38.4
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 80.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row17",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 17; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 33.4,
+        "length_mm": 48.3
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 100.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+      "configuration": "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+      "temperature_k": null,
+      "experiment_id": "olson1987-A-IV-row18",
+      "source": "NASA-TM-100195",
+      "citation": "S. L. Olson (1987), NASA TM-100195, PDF p32 (printed p27), Table A-IV, data row 18; conditions PDF pp11–12; nominal microgravity convention p26.",
+      "leakage_group": "NASA-TM-100195-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 38.6,
+        "length_mm": 61.1
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 1 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-1mm-ground-flow0",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript; publication metadata unverified), PDF p7 numerical results; p1 ambient conditions; pp2–3 material/geometry.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 0.68
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 25.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 1 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-1mm-ground-flow25",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript; publication metadata unverified), PDF p7 numerical results; p1 ambient conditions; pp2–3 material/geometry.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 0.53
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 5.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 1 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-1mm-1g-flow5",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 1 mm, 1 g, 5 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 0.6
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 10.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 1 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-1mm-1g-flow10",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 1 mm, 1 g, 10 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 0.64
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 15.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 1 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-1mm-1g-flow15",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 1 mm, 1 g, 15 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 0.61
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 20.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 1 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-1mm-1g-flow20",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 1 mm, 1 g, 20 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 0.62
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 1 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-1mm-0g-flow0",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 1 mm, 0 g, 0 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.65
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 5.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 1 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-1mm-0g-flow5",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 1 mm, 0 g, 5 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.38
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 10.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 1 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-1mm-0g-flow10",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 1 mm, 0 g, 10 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.03
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 15.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 1 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-1mm-0g-flow15",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 1 mm, 0 g, 15 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.01
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 20.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 1 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-1mm-0g-flow20",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 1 mm, 0 g, 20 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 0.97
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 25.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 1 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-1mm-0g-flow25",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 1 mm, 0 g, 25 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 0.88
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 0.5 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-0.5mm-1g-flow0",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 0.5 mm, 1 g, 0 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.17
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 5.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 0.5 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-0.5mm-1g-flow5",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 0.5 mm, 1 g, 5 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.19
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 10.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 0.5 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-0.5mm-1g-flow10",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 0.5 mm, 1 g, 10 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.23
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 1.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 25.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 0.5 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-0.5mm-1g-flow25",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 0.5 mm, 1 g, 25 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "ground",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.03
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 0.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 0.5 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-0.5mm-0g-flow0",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 0.5 mm, 0 g, 0 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 3.56
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 5.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 0.5 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-0.5mm-0g-flow5",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 0.5 mm, 0 g, 5 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 2.82
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 10.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 0.5 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-0.5mm-0g-flow10",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 0.5 mm, 0 g, 10 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 2.64
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 21.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 25.0,
+      "fuel": "Cast clear PMMA",
+      "configuration": "Thin circular rod; diameter 0.5 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+      "temperature_k": null,
+      "experiment_id": "pmma-thin-0.5mm-0g-flow25",
+      "source": "Manu-BV-Kumar-thin-PMMA-manuscript",
+      "citation": "Manu B V & Amit Kumar, Flame spread over thin circular PMMA rods (supplied manuscript), PDF p7 Fig.4: 0.5 mm, 0 g, 25 cm/s; digitized experimental marker average of two repeats, rounded to 0.01 mm/s; conditions p1, same chamber for 1g/drop tower p3.",
+      "leakage_group": "Manu-BV-Kumar-thin-PMMA-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 2.11
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 21.7,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 20.0,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "Saffire I/II concurrent SIBAL sheet; width 406 mm; length 940 mm; thickness 0.37 mm; nominal flight conditions",
+      "temperature_k": null,
+      "experiment_id": "saffire-1-1",
+      "source": "Saffire-I-II-experimental-presentation",
+      "citation": "Results of Large-Scale Spacecraft Flammability Tests, PDF p29 Table I, sample 1-1; nominal flight oxygen/pressure supported by Han et al. (2026), doi:10.1016/j.proci.2026.106327, Table 1 PDF p2. Experimental column only; no simulated output.",
+      "leakage_group": "Saffire-I-II-shared-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.8,
+        "length_mm": 40.0
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.1,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 20.0,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "Saffire I/II concurrent SIBAL sheet; width 50 mm; length 290 mm; thickness 0.37 mm; nominal flight conditions",
+      "temperature_k": null,
+      "experiment_id": "saffire-2-5",
+      "source": "Saffire-I-II-experimental-presentation",
+      "citation": "Results of Large-Scale Spacecraft Flammability Tests, PDF p29 Table I, sample 2-5; nominal flight oxygen/pressure supported by Han et al. (2026), doi:10.1016/j.proci.2026.106327, Table 1 PDF p2. Experimental column only; no simulated output.",
+      "leakage_group": "Saffire-I-II-shared-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 2.1
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.1,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 25.0,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "Saffire I/II concurrent SIBAL sheet; width 50 mm; length 290 mm; thickness 0.37 mm; nominal flight conditions",
+      "temperature_k": null,
+      "experiment_id": "saffire-2-6",
+      "source": "Saffire-I-II-experimental-presentation",
+      "citation": "Results of Large-Scale Spacecraft Flammability Tests, PDF p29 Table I, sample 2-6; nominal flight oxygen/pressure supported by Han et al. (2026), doi:10.1016/j.proci.2026.106327, Table 1 PDF p2. Experimental column only; no simulated output.",
+      "leakage_group": "Saffire-I-II-shared-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 2.6
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 7,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "ICES-2020-407; concurrent flow; double-sided SIBAL; exposed sheet 22x100 mm; black anodized aluminum baffles; inter-baffle distance D=2 cm",
+      "temperature_k": null,
+      "experiment_id": "li2020-fig7a-black-D2cm-flow7",
+      "source": "ICES-2020-407",
+      "citation": "Y. Li, Y.-T. T. Liao, P. V. Ferkul, M. C. Johnston and C. Bunnell (2020), ICES-2020-407, Fig. 7a, PDF p8; geometry p3; nominal atmosphere p4; measurement definition p6. Baffles: black anodized aluminum; D=2 cm; flow=7 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 0.83
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 7,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "ICES-2020-407; concurrent flow; double-sided SIBAL; exposed sheet 22x100 mm; black anodized aluminum baffles; inter-baffle distance D=4 cm",
+      "temperature_k": null,
+      "experiment_id": "li2020-fig7a-black-D4cm-flow7",
+      "source": "ICES-2020-407",
+      "citation": "Y. Li, Y.-T. T. Liao, P. V. Ferkul, M. C. Johnston and C. Bunnell (2020), ICES-2020-407, Fig. 7a, PDF p8; geometry p3; nominal atmosphere p4; measurement definition p6. Baffles: black anodized aluminum; D=4 cm; flow=7 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.95
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 7,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "ICES-2020-407; concurrent flow; double-sided SIBAL; exposed sheet 22x100 mm; black anodized aluminum baffles; inter-baffle distance D=5 cm",
+      "temperature_k": null,
+      "experiment_id": "li2020-fig7a-black-D5cm-flow7",
+      "source": "ICES-2020-407",
+      "citation": "Y. Li, Y.-T. T. Liao, P. V. Ferkul, M. C. Johnston and C. Bunnell (2020), ICES-2020-407, Fig. 7a, PDF p8; geometry p3; nominal atmosphere p4; measurement definition p6. Baffles: black anodized aluminum; D=5 cm; flow=7 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.79
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 7,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "ICES-2020-407; concurrent flow; double-sided SIBAL; exposed sheet 22x100 mm; reflective polished aluminum baffles; inter-baffle distance D=2 cm",
+      "temperature_k": null,
+      "experiment_id": "li2020-fig7a-reflective-D2cm-flow7",
+      "source": "ICES-2020-407",
+      "citation": "Y. Li, Y.-T. T. Liao, P. V. Ferkul, M. C. Johnston and C. Bunnell (2020), ICES-2020-407, Fig. 7a, PDF p8; geometry p3; nominal atmosphere p4; measurement definition p6. Baffles: reflective polished aluminum; D=2 cm; flow=7 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 0.8
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 7,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "ICES-2020-407; concurrent flow; double-sided SIBAL; exposed sheet 22x100 mm; reflective polished aluminum baffles; inter-baffle distance D=4 cm",
+      "temperature_k": null,
+      "experiment_id": "li2020-fig7a-reflective-D4cm-flow7",
+      "source": "ICES-2020-407",
+      "citation": "Y. Li, Y.-T. T. Liao, P. V. Ferkul, M. C. Johnston and C. Bunnell (2020), ICES-2020-407, Fig. 7a, PDF p8; geometry p3; nominal atmosphere p4; measurement definition p6. Baffles: reflective polished aluminum; D=4 cm; flow=7 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 2.16
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 7,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "ICES-2020-407; concurrent flow; double-sided SIBAL; exposed sheet 22x100 mm; reflective polished aluminum baffles; inter-baffle distance D=5 cm",
+      "temperature_k": null,
+      "experiment_id": "li2020-fig7a-reflective-D5cm-flow7",
+      "source": "ICES-2020-407",
+      "citation": "Y. Li, Y.-T. T. Liao, P. V. Ferkul, M. C. Johnston and C. Bunnell (2020), ICES-2020-407, Fig. 7a, PDF p8; geometry p3; nominal atmosphere p4; measurement definition p6. Baffles: reflective polished aluminum; D=5 cm; flow=7 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.95
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 7,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "ICES-2020-407; concurrent flow; double-sided SIBAL; exposed sheet 22x100 mm; transparent polycarbonate baffles; inter-baffle distance D=2 cm",
+      "temperature_k": null,
+      "experiment_id": "li2020-fig7a-transparent-D2cm-flow7",
+      "source": "ICES-2020-407",
+      "citation": "Y. Li, Y.-T. T. Liao, P. V. Ferkul, M. C. Johnston and C. Bunnell (2020), ICES-2020-407, Fig. 7a, PDF p8; geometry p3; nominal atmosphere p4; measurement definition p6. Baffles: transparent polycarbonate; D=2 cm; flow=7 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 0.96
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 7,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "ICES-2020-407; concurrent flow; double-sided SIBAL; exposed sheet 22x100 mm; transparent polycarbonate baffles; inter-baffle distance D=4 cm",
+      "temperature_k": null,
+      "experiment_id": "li2020-fig7a-transparent-D4cm-flow7",
+      "source": "ICES-2020-407",
+      "citation": "Y. Li, Y.-T. T. Liao, P. V. Ferkul, M. C. Johnston and C. Bunnell (2020), ICES-2020-407, Fig. 7a, PDF p8; geometry p3; nominal atmosphere p4; measurement definition p6. Baffles: transparent polycarbonate; D=4 cm; flow=7 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.74
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 7,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "ICES-2020-407; concurrent flow; double-sided SIBAL; exposed sheet 22x100 mm; transparent polycarbonate baffles; inter-baffle distance D=5 cm",
+      "temperature_k": null,
+      "experiment_id": "li2020-fig7a-transparent-D5cm-flow7",
+      "source": "ICES-2020-407",
+      "citation": "Y. Li, Y.-T. T. Liao, P. V. Ferkul, M. C. Johnston and C. Bunnell (2020), ICES-2020-407, Fig. 7a, PDF p8; geometry p3; nominal atmosphere p4; measurement definition p6. Baffles: transparent polycarbonate; D=5 cm; flow=7 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.63
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 7.3,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "10.1007/s12217-024-10106-y; opposed flow; double-sided SIBAL; exposed sheet 22x100 mm; black anodized aluminum baffles; inter-baffle distance D=4 cm; thickness 0.33 mm",
+      "temperature_k": null,
+      "experiment_id": "sharma2024-fig13-black-D4cm-flow7.3",
+      "source": "10.1007/s12217-024-10106-y",
+      "citation": "A. Sharma et al. (2024), Effects of Confinement on Opposed-Flow Flame Spread over Cellulose, Microgravity Science and Technology 36:20, DOI 10.1007/s12217-024-10106-y, Fig. 13, PDF p9; atmosphere/material p3; assembly p4; Table 1 and stepped-flow protocol p5. Baffles: black anodized aluminum; D=4 cm; flow=7.3 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.24
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 10.3,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "10.1007/s12217-024-10106-y; opposed flow; double-sided SIBAL; exposed sheet 22x100 mm; black anodized aluminum baffles; inter-baffle distance D=4 cm; thickness 0.33 mm",
+      "temperature_k": null,
+      "experiment_id": "sharma2024-fig13-black-D4cm-flow10.3",
+      "source": "10.1007/s12217-024-10106-y",
+      "citation": "A. Sharma et al. (2024), Effects of Confinement on Opposed-Flow Flame Spread over Cellulose, Microgravity Science and Technology 36:20, DOI 10.1007/s12217-024-10106-y, Fig. 13, PDF p9; atmosphere/material p3; assembly p4; Table 1 and stepped-flow protocol p5. Baffles: black anodized aluminum; D=4 cm; flow=10.3 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.26
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 6.1,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "10.1007/s12217-024-10106-y; opposed flow; double-sided SIBAL; exposed sheet 22x100 mm; black anodized aluminum baffles; inter-baffle distance D=3 cm; thickness 0.33 mm",
+      "temperature_k": null,
+      "experiment_id": "sharma2024-fig13-black-D3cm-flow6.1",
+      "source": "10.1007/s12217-024-10106-y",
+      "citation": "A. Sharma et al. (2024), Effects of Confinement on Opposed-Flow Flame Spread over Cellulose, Microgravity Science and Technology 36:20, DOI 10.1007/s12217-024-10106-y, Fig. 13, PDF p9; atmosphere/material p3; assembly p4; Table 1 and stepped-flow protocol p5. Baffles: black anodized aluminum; D=3 cm; flow=6.1 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.13
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 7.3,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "10.1007/s12217-024-10106-y; opposed flow; double-sided SIBAL; exposed sheet 22x100 mm; black anodized aluminum baffles; inter-baffle distance D=3 cm; thickness 0.33 mm",
+      "temperature_k": null,
+      "experiment_id": "sharma2024-fig13-black-D3cm-flow7.3",
+      "source": "10.1007/s12217-024-10106-y",
+      "citation": "A. Sharma et al. (2024), Effects of Confinement on Opposed-Flow Flame Spread over Cellulose, Microgravity Science and Technology 36:20, DOI 10.1007/s12217-024-10106-y, Fig. 13, PDF p9; atmosphere/material p3; assembly p4; Table 1 and stepped-flow protocol p5. Baffles: black anodized aluminum; D=3 cm; flow=7.3 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.19
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 10.3,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "10.1007/s12217-024-10106-y; opposed flow; double-sided SIBAL; exposed sheet 22x100 mm; black anodized aluminum baffles; inter-baffle distance D=3 cm; thickness 0.33 mm",
+      "temperature_k": null,
+      "experiment_id": "sharma2024-fig13-black-D3cm-flow10.3",
+      "source": "10.1007/s12217-024-10106-y",
+      "citation": "A. Sharma et al. (2024), Effects of Confinement on Opposed-Flow Flame Spread over Cellulose, Microgravity Science and Technology 36:20, DOI 10.1007/s12217-024-10106-y, Fig. 13, PDF p9; atmosphere/material p3; assembly p4; Table 1 and stepped-flow protocol p5. Baffles: black anodized aluminum; D=3 cm; flow=10.3 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.25
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 6.1,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "10.1007/s12217-024-10106-y; opposed flow; double-sided SIBAL; exposed sheet 22x100 mm; transparent polycarbonate baffles; inter-baffle distance D=3 cm; thickness 0.33 mm",
+      "temperature_k": null,
+      "experiment_id": "sharma2024-fig13-transparent-D3cm-flow6.1",
+      "source": "10.1007/s12217-024-10106-y",
+      "citation": "A. Sharma et al. (2024), Effects of Confinement on Opposed-Flow Flame Spread over Cellulose, Microgravity Science and Technology 36:20, DOI 10.1007/s12217-024-10106-y, Fig. 13, PDF p9; atmosphere/material p3; assembly p4; Table 1 and stepped-flow protocol p5. Baffles: transparent polycarbonate; D=3 cm; flow=6.1 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.08
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 7.3,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "10.1007/s12217-024-10106-y; opposed flow; double-sided SIBAL; exposed sheet 22x100 mm; transparent polycarbonate baffles; inter-baffle distance D=3 cm; thickness 0.33 mm",
+      "temperature_k": null,
+      "experiment_id": "sharma2024-fig13-transparent-D3cm-flow7.3",
+      "source": "10.1007/s12217-024-10106-y",
+      "citation": "A. Sharma et al. (2024), Effects of Confinement on Opposed-Flow Flame Spread over Cellulose, Microgravity Science and Technology 36:20, DOI 10.1007/s12217-024-10106-y, Fig. 13, PDF p9; atmosphere/material p3; assembly p4; Table 1 and stepped-flow protocol p5. Baffles: transparent polycarbonate; D=3 cm; flow=7.3 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.11
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 10.3,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "10.1007/s12217-024-10106-y; opposed flow; double-sided SIBAL; exposed sheet 22x100 mm; transparent polycarbonate baffles; inter-baffle distance D=3 cm; thickness 0.33 mm",
+      "temperature_k": null,
+      "experiment_id": "sharma2024-fig13-transparent-D3cm-flow10.3",
+      "source": "10.1007/s12217-024-10106-y",
+      "citation": "A. Sharma et al. (2024), Effects of Confinement on Opposed-Flow Flame Spread over Cellulose, Microgravity Science and Technology 36:20, DOI 10.1007/s12217-024-10106-y, Fig. 13, PDF p9; atmosphere/material p3; assembly p4; Table 1 and stepped-flow protocol p5. Baffles: transparent polycarbonate; D=3 cm; flow=10.3 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.14
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 7.4,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "10.1007/s12217-024-10106-y; opposed flow; double-sided SIBAL; exposed sheet 22x100 mm; transparent polycarbonate baffles; inter-baffle distance D=2 cm; thickness 0.33 mm",
+      "temperature_k": null,
+      "experiment_id": "sharma2024-fig13-transparent-D2cm-flow7.4",
+      "source": "10.1007/s12217-024-10106-y",
+      "citation": "A. Sharma et al. (2024), Effects of Confinement on Opposed-Flow Flame Spread over Cellulose, Microgravity Science and Technology 36:20, DOI 10.1007/s12217-024-10106-y, Fig. 13, PDF p9; atmosphere/material p3; assembly p4; Table 1 and stepped-flow protocol p5. Baffles: transparent polycarbonate; D=2 cm; flow=7.4 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.02
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 8.8,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "10.1007/s12217-024-10106-y; opposed flow; double-sided SIBAL; exposed sheet 22x100 mm; transparent polycarbonate baffles; inter-baffle distance D=2 cm; thickness 0.33 mm",
+      "temperature_k": null,
+      "experiment_id": "sharma2024-fig13-transparent-D2cm-flow8.8",
+      "source": "10.1007/s12217-024-10106-y",
+      "citation": "A. Sharma et al. (2024), Effects of Confinement on Opposed-Flow Flame Spread over Cellulose, Microgravity Science and Technology 36:20, DOI 10.1007/s12217-024-10106-y, Fig. 13, PDF p9; atmosphere/material p3; assembly p4; Table 1 and stepped-flow protocol p5. Baffles: transparent polycarbonate; D=2 cm; flow=8.8 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.08
+      },
+      "uncertainty": {}
+    },
+    {
+      "gravity_g": 0.0,
+      "oxygen_pct": 22.0,
+      "pressure_kpa": 101.325,
+      "airflow_cm_s": 10.5,
+      "fuel": "Cotton-fiberglass (SIBAL)",
+      "configuration": "10.1007/s12217-024-10106-y; opposed flow; double-sided SIBAL; exposed sheet 22x100 mm; transparent polycarbonate baffles; inter-baffle distance D=2 cm; thickness 0.33 mm",
+      "temperature_k": null,
+      "experiment_id": "sharma2024-fig13-transparent-D2cm-flow10.5",
+      "source": "10.1007/s12217-024-10106-y",
+      "citation": "A. Sharma et al. (2024), Effects of Confinement on Opposed-Flow Flame Spread over Cellulose, Microgravity Science and Technology 36:20, DOI 10.1007/s12217-024-10106-y, Fig. 13, PDF p9; atmosphere/material p3; assembly p4; Table 1 and stepped-flow protocol p5. Baffles: transparent polycarbonate; D=2 cm; flow=10.5 cm/s; digitized experimental marker.",
+      "leakage_group": "ISS-Confined-Combustion-SIBAL-campaign",
+      "provenance": "microgravity",
+      "reviewed": false,
+      "outputs": {
+        "spread_mm_s": 1.02
+      },
+      "uncertainty": {}
+    }
+  ]
+}

@@ -1,0 +1,1028 @@
+{
+  "Combustion of Solids in Microgravity Results from the.pdf": {
+    "fields": {
+      "title": {
+        "value": "Combustion of Solids in Microgravity: Results from the BASS-II Experiment",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Combustion of Solids in Microgravity: Results from the\n\n\nBASS-II Experiment\n\n\nPaul V. Ferkul, N"
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "Paul V. Ferkul",
+          "Subrata Bhattacharjee",
+          "Carlos Fernandez-Pello",
+          "Fletcher Miller",
+          "Sandra L. Olson",
+          "Fumiaki Takahashi",
+          "James S. T’ien"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "I Experiment\n\n\nPaul V. Ferkul, National Center for Space Exploration Research\n\n\nSubrata Bhattacha"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2014,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": " Pasadena, CA; October 22-26, 2014"
+          }
+        ]
+      },
+      "source_institution": {
+        "value": "NASA Glenn Research Center",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ndra L. Olson, NASA Glenn Research Center\n\n\nFumiaki Takahashi"
+          }
+        ]
+      },
+      "experiment": {
+        "value": "BASS",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "lts from the\n\n\nBASS-II Experiment\n\n\nPaul V. Ferkul, N"
+          }
+        ]
+      }
+    },
+    "findings": []
+  },
+  "Confined Combustion of Polymeric Solid Materials in microgravity.pdf": {
+    "fields": {
+      "title": {
+        "value": "Confined Combustion of Polymeric Solid Materials in Microgravity",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ea7988344a33\n\n\nConfined Combustion of Polymeric Solid Materials in\n\n\nMicrogravity\n\n\nYanjun Lia , Ya-T"
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "Yanjun Li",
+          "Ya-Ting T. Liao",
+          "Paul V. Ferkul",
+          "Michael C. Johnston",
+          "Charles Bunnell"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Microgravity\n\n\nYanjun Lia , Ya-Ting T. Liaoa,*, Paul V. Ferkulb, Michael C. Johnstonb, and Charles\n\n\nBunnellc\n\n\na. Case Western R"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2021,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "creases with\n\n\n© 2021 published by Elsevier. This manuscript is"
+          }
+        ]
+      },
+      "source_institution": {
+        "value": "Case Western Reserve University",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "\nBunnellc\n\n\na. Case Western Reserve University, Cleveland, OH, 441"
+          }
+        ]
+      },
+      "gravity_condition": {
+        "value": "Microgravity (ISS)",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "re burned in\n\n\nconcurrent air flow in a small flow duct aboard the International Space Station. Three\n\n\ndifferent "
+          }
+        ]
+      },
+      "fuel_type": {
+        "value": "PMMA",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "terials. Flat, 100 × 22 × 1mm PMMA samples are burned in\n\n\ncon"
+          }
+        ]
+      },
+      "experimental_method": {
+        "value": "Orbital concurrent-flow experiments",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "A\n\n\nAbstract\n\n\nMicrogravity experiments are performed to study the effects of confinement on the burning\n\n\nbe"
+          }
+        ]
+      }
+    },
+    "findings": []
+  },
+  "Dynamics of flame spread over filter papers in microgravity aboard the ISS.pdf": {
+    "fields": {
+      "title": {
+        "value": "Dynamics of flame spread over filter papers in microgravity aboard the ISS",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "locate/proci\n\n\nDynamics of flame spread over filter papers in microgravity aboard the ISS\n\n\nYoshinari Kobayas"
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "Yoshinari Kobayashi",
+          "Shuhei Takahashi",
+          "Hiroyuki Torikai",
+          "Masao Kikuchi",
+          "Osamu Fujita"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "oard the ISS\n\n\nYoshinari Kobayashi a,*, Shuhei Takahashi a, Hiroyuki Torikai b, Masao Kikuchi c, Osamu Fujita d\n\n\na Department of M"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2026,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Proceedings of the Combustion Institute 42 (2026) 106032\n\n\nContents lists av"
+          }
+        ]
+      },
+      "source_institution": {
+        "value": "Gifu University",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "l Engineering, Gifu University, 1-1 Yanagido, Gifu"
+          }
+        ]
+      },
+      "experiment": {
+        "value": "SCEM",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ISS) using the Solid Combustion Experiment Module (SCEM) installed in the Ja"
+          }
+        ]
+      },
+      "fuel_type": {
+        "value": "Filter paper",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "\n\n\nDynamics of flame spread over filter papers in microgravity ab"
+          }
+        ]
+      },
+      "gravity_condition": {
+        "value": "Microgravity (ISS)",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "igated through orbital combustion experiments conducted aboard the Interna­\ntional Space Stati"
+          }
+        ]
+      }
+    },
+    "findings": [
+      {
+        "claim": "The study reports two flame-spread modes in its ISS filter-paper experiments.",
+        "kind": "observation",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": " environments. Two\ndistinct flame spread modes were observed: conventional two-dimensional (2D) flame spread and a unique\nspread mode referred to as flamelet spread. The flamelet spread"
+          }
+        ],
+        "experimental_context": "Filter-paper experiments aboard ISS; SCEM module.",
+        "limitations": [
+          "Quote and page checked; no independent replication or systematic evidence review performed.",
+          "Do not generalize these results to lunar or Martian gravity."
+        ],
+        "verification_status": "pending",
+        "scientific_confidence": "not_assessed"
+      }
+    ]
+  },
+  "Effects of Ambient Conditions on Concurrent-Flow Flame Spread over a wide thin solid in microgravity.pdf": {
+    "fields": {
+      "title": {
+        "value": "Effects of Ambient Conditions on Concurrent-Flow Flame Spread over a Wide Thin Solid in Microgravity",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "609ca2bc8a8a\n\n\nEffects of Ambient Conditions on Concurrent-Flow Flame Spread over a\nWide Thin Solid in Microgravity\n\nChengyao Li and Ya"
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "Chengyao Li",
+          "Ya-Ting T. Liao"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": " Microgravity\n\nChengyao Li and Ya-Ting T. Liao\n\nCase Western Reser"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2020,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ption): 222\n\n\n\n© 2020 published by Elsevier. This manuscript is"
+          }
+        ]
+      },
+      "source_institution": {
+        "value": "Case Western Reserve University",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "-Ting T. Liao\n\nCase Western Reserve University, Cleveland, OH, USA"
+          }
+        ]
+      },
+      "experimental_method": {
+        "value": "Numerical modeling",
+        "evidence": [
+          {
+            "page": 2,
+            "quote": "wo-dimensional numerical simulations were pe"
+          }
+        ]
+      }
+    },
+    "findings": []
+  },
+  "Effects of Confinement on Flame Spread in Microgravity.pdf": {
+    "fields": {
+      "title": {
+        "value": "Effects of Confinement on Flame Spread in Microgravity",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ES-2020-407\n\n\n\nEffects of Confinement on Flame Spread in Microgravity\n\n\nYanjun Li1 and Ya"
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "Yanjun Li",
+          "Ya-Ting T. Liao",
+          "Paul V. Ferkul",
+          "Michael C. Johnston",
+          "Charles Bunnell"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Microgravity\n\n\nYanjun Li1 and Ya-Ting T. Liao2\nCase Western Reserv"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2020,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ICES-2020-407\n\n\n\nEffects of Confi"
+          }
+        ]
+      },
+      "source_institution": {
+        "value": "Case Western Reserve University",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "-Ting T. Liao2\nCase Western Reserve University, Cleveland, OH, 441"
+          }
+        ]
+      },
+      "gravity_condition": {
+        "value": "Microgravity (ISS)",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": ", 44130, USA\n\n\nSolid fuel combustion experiments aboard the ISS examine the effects"
+          }
+        ]
+      },
+      "fuel_type": {
+        "value": "Cotton–fiberglass textile",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ts for a\nthin, cotton-fiberglass-blended textile fabric fuel are presented. Flat"
+          }
+        ]
+      }
+    },
+    "findings": []
+  },
+  "Effects of Confinement on Opposed-Flow Flame Spread over Cellulose.pdf": {
+    "fields": {
+      "title": {
+        "value": "Effects of Confinement on Opposed-Flow Flame Spread over Cellulose and Polymeric Solids in Microgravity",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "y\n\n\nRESEARCH\n\n\nEffects of Confinement on Opposed-Flow Flame Spread over Cellulose\nand Polymeric Solids in Microgravity\n\n\nAnkit Sharma1\n· Y"
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "Ankit Sharma",
+          "Yanjun Li",
+          "Ya-Ting T. Liao",
+          "Paul V. Ferkul",
+          "Michael C. Johnston",
+          "Charles Bunnell"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Microgravity\n\n\nAnkit Sharma1\n· Yanjun Li1 · Ya-Ting T. Liao1\n· Paul V. Ferkul2,3 · Michael C. Johnston3 · Charles Bunnell4\n\n\nReceived: 25 Janu"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2024,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "2 March 2024 / Published online: 1 April 2024\n© The Author(s) 202"
+          }
+        ]
+      },
+      "source_institution": {
+        "value": "Case Western Reserve University",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "o@case.edu\n\n\n1\nCase Western Reserve University, Cleveland\nOH-44106"
+          }
+        ]
+      },
+      "gravity_condition": {
+        "value": "Microgravity (ISS)",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "In this study, microgravity experiments are conducted aboard the International\nSpace Station (ISS) to investigate oppo"
+          }
+        ]
+      },
+      "fuel_type": {
+        "value": "SIBAL textile and PMMA",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ed conditions. Two materials, cotton-\nfiberglass blended textile fabric (SIBAL) and 1 mm thick polymethyl methacrylate (PMMA) slab are burned between "
+          }
+        ]
+      }
+    },
+    "findings": []
+  },
+  "Effects of oxygen concentration of oxidizer flow on laminar diffusion flame established over liquid fuel beds at microgravity.pdf": {
+    "fields": {
+      "title": {
+        "value": "Effects of oxygen concentration of oxidizer flow on laminar diffusion flame established over liquid fuel beds at microgravity",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Effects of oxygen concentration of oxidizer flow on laminar\n\n\ndiffusion flame established over liquid fuel beds at\n\n\nmicrogravity\n\n\nHui Ying Wang, Né"
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "Hui Ying Wang",
+          "Némo Decamps"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "microgravity\n\n\nHui Ying Wang, Némo Decamps\n\n\nTo cite this vers"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2024,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": " microgravity. Metascience in Aerospace, 2024, 1 (2), pp.159-184."
+          }
+        ]
+      }
+    },
+    "findings": []
+  },
+  "Fire Safety in Space – Beyond Flammability Testing of Small.pdf": {
+    "fields": {
+      "title": {
+        "value": "Fire Safety in Space – Beyond Flammability Testing of Small Samples",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Fire Safety in Space – Beyond Flammability Testing of Small\n\n\nSamples\n\n\nGrunde Jomaas, Jo"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2015,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Small Samples.\nActa Astronautica, 2015, 109, pp.208 - 216."
+          }
+        ]
+      }
+    },
+    "findings": []
+  },
+  "Flame spread over thin circular PMMA rods.pdf": {
+    "fields": {
+      "title": {
+        "value": "Flame spread over thin circular PMMA rods",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Flame spread over thin circular PMMA rods\n\n\nManu B Va*, Amit "
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "Manu B V",
+          "Amit Kumar"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ar PMMA rods\n\n\nManu B Va*, Amit Kumara.\n\n\na. National Centr"
+          }
+        ]
+      },
+      "source_institution": {
+        "value": "Indian Institute of Technology Madras",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "e Engineering, Indian Institute of Technology Madras, Chennai, India.\n\n\n"
+          }
+        ]
+      },
+      "gravity_condition": {
+        "value": "Normal gravity and microgravity",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "m diameters at normal\nand micro gravity environments. All the experiment"
+          }
+        ]
+      },
+      "fuel_type": {
+        "value": "PMMA",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ing 80 mm long cast PMMA cylinders of 1 mm and 0.5 mm "
+          }
+        ]
+      }
+    },
+    "findings": []
+  },
+  "Numerical study of concurrent flow flame spread over thin solids in.pdf": {
+    "fields": {
+      "title": {
+        "value": "Numerical study of concurrent flow flame spread over thin solids in normoxic conditions in microgravity",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "locate/proci\n\n\nNumerical study of concurrent flow flame spread over thin solids in\nnormoxic conditions in microgravity\n\n\nJiaxuan Han 1\n, W"
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "Jiaxuan Han",
+          "Wohan Cui",
+          "Nicharee Thinnakornsutibutr",
+          "Ya-Ting Liao"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "microgravity\n\n\nJiaxuan Han 1\n, Wohan Cui 1, Nicharee Thinnakornsutibutr, Ya-Ting Liao *\n\n\nDepartment of Mec"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2026,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Proceedings of the Combustion Institute 42 (2026) 106327\n\n\nContents lists av"
+          }
+        ]
+      },
+      "source_institution": {
+        "value": "Case Western Reserve University",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "e Engineering, Case Western Reserve University, 10900 Euclid Ave.,"
+          }
+        ]
+      },
+      "experimental_method": {
+        "value": "Two-dimensional transient CFD simulations",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "In this study, two-dimensional\ntransient Computational Fluid Dynamics (CFD) simulations are performed to un"
+          }
+        ]
+      },
+      "gravity_condition": {
+        "value": "Microgravity (modeled)",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": " conditions in microgravity\n\n\nJiaxuan Han 1\n, W"
+          }
+        ]
+      }
+    },
+    "findings": [
+      {
+        "claim": "The authors used transient CFD simulations to study concurrent-flow flame spread; model outputs must be distinguished from direct observations.",
+        "kind": "interpretation",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "In this study, two-dimensional\ntransient Computational Fluid Dynamics (CFD) simulations are performed to understand concu"
+          }
+        ],
+        "experimental_context": "Numerical model compared with Saffire IV and VI.",
+        "limitations": [
+          "Quote and page checked; no independent replication or systematic evidence review performed.",
+          "Do not generalize these results to lunar or Martian gravity."
+        ],
+        "verification_status": "pending",
+        "scientific_confidence": "not_assessed"
+      }
+    ]
+  },
+  "Preliminary results from the saffire VI Experiment.pdf": {
+    "fields": {
+      "title": {
+        "value": "Preliminary Results from the Saffire VI Experiment",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "le, Kentucky\n\n\nPreliminary Results from the Saffire VI Experiment\n\n\n\n\n\nDavid L. Urban"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2024,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "\nICES-2024-365\n21-25 July 2024, Louisville, Kentuc"
+          }
+        ]
+      },
+      "source_institution": {
+        "value": "NASA Glenn Research Center",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "\n\nFortenberry8\nNASA Glenn Research Center, Cleveland, OH, USA"
+          }
+        ]
+      },
+      "experiment": {
+        "value": "Saffire",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "pacecraft Fire\nExperiment (Saffire VI) which was conducted on an orbiting Cygnus spacecraft. These\nexperiments "
+          }
+        ]
+      },
+      "gravity_condition": {
+        "value": "Microgravity (orbiting Cygnus)",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "onducted on an orbiting Cygnus spacecraft. These\nexperiments "
+          }
+        ]
+      }
+    },
+    "findings": [
+      {
+        "claim": "This paper presents preliminary results for one test of Saffire VI, limiting the scope of conclusions drawn from this document.",
+        "kind": "interpretation",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "na, Slovenia\n\n\nPreliminary results are presented for one test of the last flight of the Spacecraft Fire\nExperiment (Saffire VI) which was conducted"
+          }
+        ],
+        "experimental_context": "One reported test on an orbiting Cygnus spacecraft.",
+        "limitations": [
+          "Quote and page checked; no independent replication or systematic evidence review performed.",
+          "Do not generalize these results to lunar or Martian gravity."
+        ],
+        "verification_status": "pending",
+        "scientific_confidence": "not_assessed"
+      }
+    ]
+  },
+  "Quiescent flame spread and extinction over acrylic sheets in microgravity at increased oxygen concentration.pdf": {
+    "fields": {
+      "title": {
+        "value": "Quiescent flame spread and extinction over acrylic sheets in microgravity at increased oxygen concentration",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ocate/proci\n\n\n\nQuiescent flame spread and extinction over acrylic sheets in microgravity at\nincreased oxygen concentration\n\n\nLuca Carmignani a"
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "Luca Carmignani",
+          "Subrata Bhattacharjee",
+          "Sam Kaplan",
+          "Paul V. Ferkul",
+          "Sandra L. Olson"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "oncentration\n\n\nLuca Carmignani a\n,∗, Subrata Bhattacharjee a\n, Sam Kaplan a, Paul V. Ferkul b\n,\nSandra L. Olson b\n\n\na San Diego State"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2026,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Proceedings of the Combustion Institute 42 (2026) 106484\n\n\nContents lists av"
+          }
+        ]
+      },
+      "source_institution": {
+        "value": "San Diego State University",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "L. Olson b\n\n\na San Diego State University, San Diego, CA, Uni"
+          }
+        ]
+      },
+      "experiment": {
+        "value": "SoFIE",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "part of NASA’s Solid Fuel Ignition and Extinction (SoFIE) investigation aboar"
+          }
+        ]
+      },
+      "gravity_condition": {
+        "value": "Microgravity (ISS)",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ion aboard the\nInternational Space Station (ISS), recent experiments"
+          }
+        ]
+      },
+      "fuel_type": {
+        "value": "Acrylic sheets",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "lammability of thermally thin acrylic\nsheets (0.05–1 mm) in a qu"
+          }
+        ]
+      },
+      "experimental_method": {
+        "value": "Quiescent orbital experiments",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Station (ISS), recent experiments examined the flammability of thermally thin acrylic\nsheets (0.05–1 mm) in a qu"
+          }
+        ]
+      },
+      "oxygen_concentration": {
+        "value": "30% by volume",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "environment at elevated oxygen concentrations (30% by volume) and\nambient pressur"
+          }
+        ]
+      },
+      "pressure": {
+        "value": "0.5 and 1 atm",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "by volume) and\nambient pressures of 0.5 and 1 atm. The results—the fi"
+          }
+        ]
+      },
+      "airflow_velocity": {
+        "value": "Quiescent; no external flow",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": " environments\n(without external or buoyancy-induced flow) flame spread is go"
+          }
+        ]
+      }
+    },
+    "findings": [
+      {
+        "claim": "Oscillatory and pulsating flame behavior was observed near extinction in the reported quiescent microgravity tests.",
+        "kind": "observation",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "he sample end. Near extinction, oscillatory and pulsating flame\nbehaviors, including re-ignitions, were observed, sometimes persisti"
+          }
+        ],
+        "experimental_context": "SoFIE acrylic-sheet experiments in quiescent ISS microgravity; conditions reported on PDF page 1.",
+        "limitations": [
+          "Quote and page checked; no independent replication or systematic evidence review performed.",
+          "Do not generalize these results to lunar or Martian gravity."
+        ],
+        "verification_status": "pending",
+        "scientific_confidence": "not_assessed"
+      }
+    ]
+  },
+  "Results of Large-Scale Spacecraft Flammability Tests.pdf": {
+    "fields": {
+      "title": {
+        "value": "Results of Large-Scale Spacecraft Flammability Tests",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Results of Large-Scale Spacecraft Flammability Tests\n\n\nPaul Ferkul 1, Sa"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2017,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "South Carolina July 16-20, 2017\n\n\n1"
+          }
+        ]
+      },
+      "source_institution": {
+        "value": "NASA GRC",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "e Jomaas 11\n\n\n1NASA GRC, Cleveland, OH, USA"
+          }
+        ]
+      },
+      "experiment": {
+        "value": "Saffire",
+        "evidence": [
+          {
+            "page": 4,
+            "quote": "Saffire Objectives\n\n\nNeeds:"
+          }
+        ]
+      }
+    },
+    "findings": []
+  },
+  "Saffire A Novel Approach to Study of Spacecraft Fire Safety Using Un-Manned Spacecraft.pdf": {
+    "fields": {
+      "title": {
+        "value": "Saffire: A Novel Approach to Study of Spacecraft Fire Safety Using Un-manned Spacecraft",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Saffire: A Novel Approach to Study of\nSpacecraft Fire Safety Using Un-manned\n\n\nSpacecraft\n\n\nDavid L. Urban, P"
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "David L. Urban",
+          "Paul Ferkul",
+          "Sandra Olson",
+          "Gary A. Ruff",
+          "John Easton"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "\n\nSpacecraft\n\n\nDavid L. Urban, Paul Ferkul, Sandra Olson, Gary A. Ruff, John Easton,\n\n\nNASA GRC, Clevela"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2017,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Space Research\nOctober 25-28, 2017\nHyatt Regency @ Sea"
+          }
+        ]
+      },
+      "source_institution": {
+        "value": "NASA GRC",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "John Easton,\n\n\nNASA GRC, Cleveland, OH, USA"
+          }
+        ]
+      }
+    },
+    "findings": []
+  },
+  "The Effect of Microgravity on Flame Spread over a Thin Fuel.pdf": {
+    "fields": {
+      "title": {
+        "value": "The Effect of Microgravity on Flame Spread Over a Thin Fuel",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "andum 100195\n\n\nThe Effect of Microgravity on Flame\nSpread Over a Thin Fuel\n\n\nSandra L. Olson\nL"
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "Sandra L. Olson"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": " a Thin Fuel\n\n\nSandra L. Olson\nLewis Research Cent"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 1987,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "3/25\n01204E5\n\n\nDecember 1987\n\n\nNI\\SI\\"
+          }
+        ]
+      },
+      "source_institution": {
+        "value": "Lewis Research Center",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "andra L. Olson\nLewis Research Center\n\n\nCleveland, Ohio\n\n"
+          }
+        ]
+      }
+    },
+    "findings": []
+  },
+  "can spreading flame over electric wire insulation in concurrent flow achieve steady propagation in microgavity.pdf": {
+    "fields": {
+      "title": {
+        "value": "Can a spreading flame over electric wire insulation in concurrent flow achieve steady propagation in microgravity?",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "Can a spreading flame over electric wire insulation in concurrent\nflow achieve steady propagation in microgravity?\n\n\nCitation for publ"
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "M. Nagachi",
+          "F. Mitsui",
+          "J.-M. Citerne",
+          "H. Dutilleul",
+          "A. Guibaud",
+          "G. Jomaas",
+          "G. Legros",
+          "N. Hashimoto",
+          "O. Fujita"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ished version:\nNagachi, M, Mitsui, F, Citerne, J-M, Dutilleul, H, Guibaud, A, Jomaas, G, Legros, G, Hashimoto, N & Fujita,\nO 2018, 'Can a spreading f"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2018,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "o, N & Fujita,\nO 2018, 'Can a spreading f"
+          }
+        ]
+      }
+    },
+    "findings": []
+  },
+  "the effect of gravity on flame spread over pmma cylinders.pdf": {
+    "fields": {
+      "title": {
+        "value": "The Effect of Gravity on Flame Spread over PMMA Cylinders",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "ports\n\n\nOPEN\n\n\nThe Effect of Gravity on Flame\nSpread over PMMA Cylinders\n\n\nShmuel Link1, Xin"
+          }
+        ]
+      },
+      "authors": {
+        "value": [
+          "Shmuel Link",
+          "Xinyan Huang",
+          "Carlos Fernandez-Pello",
+          "Sandra Olson",
+          "Paul Ferkul"
+        ],
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "MA Cylinders\n\n\nShmuel Link1, Xinyan Huang 1, Carlos Fernandez-Pello1, Sandra Olson2 & Paul Ferkul2\n\n\nReceived: 17 Augu"
+          }
+        ]
+      },
+      "publication_year": {
+        "value": 2018,
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "keley.edu)\n\n\n1\nSCiENtiFiC Reports | (2018) 8:120 | DOI:10.1038/s4159"
+          }
+        ]
+      },
+      "fuel_type": {
+        "value": "PMMA",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "astic polymer, polymethyl methacrylate (PMMA), was conducted in\nt"
+          }
+        ]
+      },
+      "gravity_condition": {
+        "value": "Microgravity (ISS) and Earth",
+        "evidence": [
+          {
+            "page": 1,
+            "quote": "nducted in\nthe International Space Station and on Earth. The tests consiste"
+          }
+        ]
+      }
+    },
+    "findings": []
+  }
+}

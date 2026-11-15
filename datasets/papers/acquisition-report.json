@@ -1,0 +1,52 @@
+{
+  "report_version": "source-acquisition-v1",
+  "remote_observations_added": 0,
+  "attempts": [
+    {
+      "url": "https://ntrs.nasa.gov/api/citations/search?q=%22Buoyant+downward+diffusion+flame+spread%22&page.size=5",
+      "outcome": "network_blocked",
+      "detail": "HTTPS proxy tunnel returned 403 Forbidden; no remote response body or new paper was retrieved."
+    },
+    {
+      "url": "https://ntrs.nasa.gov/api/citations/search?q=%22flame+spread%22+%22partial+gravity%22&page.size=5",
+      "outcome": "network_blocked",
+      "detail": "HTTPS proxy tunnel returned 403 Forbidden; no remote response body or new paper was retrieved."
+    },
+    {
+      "url": "https://ntrs.nasa.gov/api/citations/search?q=%22Kimwipes%22+gravity&page.size=5",
+      "outcome": "network_blocked",
+      "detail": "HTTPS proxy tunnel returned 403 Forbidden; no remote response body or new paper was retrieved."
+    },
+    {
+      "url": "https://api.crossref.org/works/10.1016/S0082-0784%2806%2980816-7",
+      "outcome": "network_blocked",
+      "detail": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    }
+  ],
+  "candidate_references": [
+    {
+      "title": "Buoyant downward diffusion flame spread and extinction in partial-gravity accelerations",
+      "authors": [
+        "K. R. Sacksteder",
+        "J. S. Tien"
+      ],
+      "year": 1994,
+      "doi": "10.1016/S0082-0784(06)80816-7",
+      "identified_in_local_sources": [
+        {
+          "file": "the effect of gravity on flame spread over pmma cylinders.pdf",
+          "pdf_page": 8,
+          "reference": 12
+        },
+        {
+          "file": "Dynamics of flame spread over filter papers in microgravity aboard the ISS.pdf",
+          "pdf_page": 8,
+          "reference": 14
+        }
+      ],
+      "original_retrieved": false,
+      "compatibility": "Unknown until original material, geometry, conditions, measurements and run provenance are inspected.",
+      "reason_to_inspect": "Reference concerns partial-gravity flame-spread experiments; it is not evidence of compatible Kimwipes observations by itself."
+    }
+  ]
+}

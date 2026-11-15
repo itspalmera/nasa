@@ -1,0 +1,104 @@
+{
+  "status": "passed",
+  "transport": "actual local HTTP via uvicorn on loopback",
+  "checks": [
+    "health",
+    "real corpus statistics",
+    "document listing",
+    "keyword search",
+    "citation text/page integrity",
+    "original PDF response",
+    "Spanish evidence-only chat",
+    "source-checked findings",
+    "dry-run ingestion",
+    "missing-document error",
+    "proxied API documentation and schema"
+  ],
+  "corpus": {
+    "total_papers": 19,
+    "indexed_chunks": 467,
+    "total_pages": 358,
+    "experiments_represented": 4,
+    "research_categories": 2,
+    "extraction_failures": 2,
+    "extraction_warning_pages": 42,
+    "verified_findings": 0,
+    "source_checked_findings": 4,
+    "experiment_distribution": [
+      {
+        "name": "BASS",
+        "papers": 3
+      },
+      {
+        "name": "SCEM",
+        "papers": 1
+      },
+      {
+        "name": "Saffire",
+        "papers": 7
+      },
+      {
+        "name": "SoFIE",
+        "papers": 1
+      }
+    ],
+    "publication_timeline": [
+      {
+        "year": "1987",
+        "papers": 1
+      },
+      {
+        "year": "2014",
+        "papers": 1
+      },
+      {
+        "year": "2015",
+        "papers": 1
+      },
+      {
+        "year": "2017",
+        "papers": 2
+      },
+      {
+        "year": "2018",
+        "papers": 2
+      },
+      {
+        "year": "2020",
+        "papers": 2
+      },
+      {
+        "year": "2021",
+        "papers": 1
+      },
+      {
+        "year": "2024",
+        "papers": 3
+      },
+      {
+        "year": "2026",
+        "papers": 3
+      }
+    ],
+    "category_distribution": [
+      {
+        "name": "Flame spread",
+        "papers": 13
+      },
+      {
+        "name": "Flammability",
+        "papers": 1
+      }
+    ],
+    "usage": {
+      "requests": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "estimated_usd": 0
+    },
+    "paid_api_enabled": false,
+    "embedding_model": "text-embedding-3-small",
+    "embedded_chunks": 0
+  },
+  "live_api_calls": 0
+}

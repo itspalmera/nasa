@@ -1,0 +1,56 @@
+[
+  {
+    "id": "scem_modes",
+    "question": "What flame spread modes were observed in the filter paper experiments aboard ISS using SCEM?",
+    "source_file": "Dynamics of flame spread over filter papers in microgravity aboard the ISS.pdf",
+    "page": 1,
+    "quote": "Two\ndistinct flame spread modes were observed"
+  },
+  {
+    "id": "sofie_extinction",
+    "question": "What oscillatory behaviors were observed near extinction during quiescent SoFIE acrylic sheet experiments?",
+    "source_file": "Quiescent flame spread and extinction over acrylic sheets in microgravity at increased oxygen concentration.pdf",
+    "page": 1,
+    "quote": "Near extinction, oscillatory and pulsating flame"
+  },
+  {
+    "id": "saffire_scope",
+    "question": "Are the preliminary results from Saffire VI limited to one test on an orbiting Cygnus spacecraft?",
+    "source_file": "Preliminary results from the saffire VI Experiment.pdf",
+    "page": 1,
+    "quote": "Preliminary results are presented for one test"
+  },
+  {
+    "id": "cfd_method",
+    "question": "What numerical method was used for concurrent flow flame spread in normoxic microgravity conditions?",
+    "source_file": "Numerical study of concurrent flow flame spread over thin solids in.pdf",
+    "page": 1,
+    "quote": "Computational Fluid Dynamics (CFD) simulations"
+  },
+  {
+    "id": "confinement_materials",
+    "question": "Which cellulose and polymeric materials were used in the opposed-flow confinement experiments aboard ISS?",
+    "source_file": "Effects of Confinement on Opposed-Flow Flame Spread over Cellulose.pdf",
+    "page": 1,
+    "quote": "Two materials, cotton-"
+  },
+  {
+    "id": "pmma_comparison",
+    "question": "Where were PMMA cylinder flame spread experiments conducted for the gravity comparison by Link and colleagues?",
+    "source_file": "the effect of gravity on flame spread over pmma cylinders.pdf",
+    "page": 1,
+    "quote": "International Space Station and on Earth"
+  },
+  {
+    "id": "spanish",
+    "question": "¿Qué comportamientos oscilatorios observó SoFIE cerca de la extinción?",
+    "source_file": "Quiescent flame spread and extinction over acrylic sheets in microgravity at increased oxygen concentration.pdf",
+    "page": 1,
+    "quote": "Near extinction, oscillatory and pulsating flame"
+  },
+  {
+    "id": "unanswerable",
+    "question": "Quantum qubit entanglement superconducting transmon coherence?",
+    "unanswerable": true
+  }
+]

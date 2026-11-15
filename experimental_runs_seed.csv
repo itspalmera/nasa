@@ -1,0 +1,15 @@
+run_id,investigation_id,fuel_state,fuel_material,sample_geometry,oxygen_pct,pressure_kpa,pressure_psi,airflow_cms,gravity_level_g,diluent_gas,spread_rate_mms,loi_boundary_pct,earth_test1_loi_pct,cool_flame_observed,upstream_spread,flame_shape
+101,bass2,Solid,PMMA Acrylic,Rod 6.3mm,21.0,101.3,14.7,10.0,0.0,Nitrogen,1.45,16.5,18.0,False,True,Yellow-orange elongated with vapor bubbles
+102,bass2,Solid,PMMA Acrylic,Rod 6.3mm,18.0,101.3,14.7,5.0,0.0,Nitrogen,0.92,16.5,18.0,False,True,Blue-yellow transitional
+103,bass2,Solid,PMMA Acrylic,Rod 6.3mm,17.0,101.3,14.7,2.0,0.0,Nitrogen,0.55,16.5,18.0,False,True,Dim blue hemispherical cap
+104,bass2,Solid,PMMA Acrylic,Rod 6.3mm,15.5,101.3,14.7,0.8,0.0,Nitrogen,0.18,15.0,18.0,False,True,Faint blue near-quenching
+105,bass2,Solid,SIBAL (algodón-fibra de vidrio),Flat Sheet 2cm,21.0,101.3,14.7,35.0,0.0,Nitrogen,3.8,16.0,18.5,False,False,Bright concurrent sheet flame
+201,flex,Liquid,heptano,Droplet 3.5mm,21.0,101.3,14.7,0.0,0.0,Nitrogen,0.72,15.0,16.5,True,False,Spherical blue -> radiative extinction -> invisible cool flame
+202,flex,Liquid,heptano,Droplet 4.2mm,18.0,202.6,29.4,0.0,0.0,CO2,0.64,15.0,16.5,True,False,Oscillating hot flame -> sustained cool flame (600K)
+203,flex,Liquid,metanol,Droplet 3.0mm,14.0,50.7,7.35,0.0,0.0,Helium,0.48,12.0,13.5,False,False,Pure blue soot-free sphere
+204,flex,Liquid,heptano,Droplet 3.8mm,35.0,304.0,44.1,0.0,0.0,Nitrogen,1.15,15.0,16.5,True,False,Luminous yellow soot shell in 0g
+301,saffire5,Solid,algodón (jersey),Large Sheet 40x50cm,25.4,70.7,10.25,20.0,0.0,Nitrogen,4.2,15.5,18.0,False,True,Large-scale concurrent pyrolysis front
+302,saffire5,Solid,PMMA estructurado,Structured Plate 40cm,26.2,72.6,10.53,20.0,0.0,Nitrogen,1.85,16.0,18.0,False,True,Anchored groove flames
+401,bre,Gas,etileno,Porous Burner 25mm,21.0,100.0,14.5,0.0,0.0,Nitrogen,0.0,21.0,18.0,False,False,Hemispherical blue self-extinguishing (<40s)
+402,bre,Gas,etileno,Porous Burner 50mm,34.0,57.0,8.27,0.0,0.0,Nitrogen,1.3,21.0,18.0,False,False,Steady bright hemispherical cap
+403,bre,Gas,metano,Porous Burner 50mm,40.0,70.3,10.2,0.0,0.0,Nitrogen,1.65,21.0,18.0,False,False,Intense steady dome flame

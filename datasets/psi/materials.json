@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "description": "Materiales que se pueden evaluar en el informe de decisión. Lista estática: id, nombres y un patrón para encontrarlos en los combustibles del catálogo. Las etiquetas de uso son texto de interfaz del diseño del equipo, NO evidencia; lo que se sabe de cada material sale de investigations.json.",
+    "version": "0.2 (2026-11-15)"
+  },
+  "materials": [
+    {
+      "id": "cellulose",
+      "name": "Celulosa (papel / Kimwipes)",
+      "name_en": "Cellulose (paper / Kimwipes)",
+      "short_name": "Celulosa",
+      "usage": "Papel, pañuelos, filtros",
+      "usage_en": "Paper, tissues, filters",
+      "match": "celulosa|kimwipes|papel filtro|cellulose",
+      "search_terms": [
+        "celulosa",
+        "Kimwipes",
+        "papel",
+        "cellulose",
+        "filter paper"
+      ]
+    },
+    {
+      "id": "pmma",
+      "name": "Acrílico (PMMA)",
+      "name_en": "Acrylic (PMMA)",
+      "short_name": "PMMA",
+      "usage": "Ventanas, paneles, carcasas",
+      "usage_en": "Windows, panels, enclosures",
+      "match": "pmma|acrilico",
+      "search_terms": [
+        "PMMA",
+        "acrílico",
+        "acrylic",
+        "polymethyl methacrylate"
+      ]
+    },
+    {
+      "id": "sibal",
+      "name": "Tela algodón-fibra de vidrio (SIBAL)",
+      "name_en": "Cotton-fiberglass fabric (SIBAL)",
+      "short_name": "SIBAL",
+      "usage": "Asientos, bolsos, textiles",
+      "usage_en": "Seats, bags, soft goods",
+      "match": "sibal|algodon-fibra",
+      "search_terms": [
+        "SIBAL",
+        "algodón-fibra de vidrio",
+        "cotton-fiberglass",
+        "fabric"
+      ]
+    },
+    {
+      "id": "nomex",
+      "name": "Nomex",
+      "name_en": "Nomex",
+      "short_name": "Nomex",
+      "usage": "Trajes, cubiertas",
+      "usage_en": "Suits, covers",
+      "match": "nomex",
+      "search_terms": [
+        "Nomex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "mode": "offline_keyword_only",
+  "answerable_cases": 7,
+  "recall_at_5": 0.8571428571428571,
+  "retrieved_citations": 35,
+  "citation_traceability": 1.0,
+  "out_of_domain_cases": 1,
+  "insufficient_evidence_detection": 1.0,
+  "answer_groundedness": null,
+  "answer_groundedness_note": "Not evaluated: no live GPT-4o credentials. Traceability does not establish entailment.",
+  "limitations": [
+    "Small hand-authored retrieval dataset; not a general scientific benchmark.",
+    "One out-of-domain case is not a reliable abstention benchmark.",
+    "Offline evidence mode intentionally does not produce scientific answers."
+  ],
+  "cases": [
+    {
+      "id": "scem_modes",
+      "hit_at_5": true,
+      "results": [
+        {
+          "file": "Dynamics of flame spread over filter papers in microgravity aboard the ISS.pdf",
+          "page": 1
+        },
+        {
+          "file": "Dynamics of flame spread over filter papers in microgravity aboard the ISS.pdf",
+          "page": 3
+        },
+        {
+          "file": "Dynamics of flame spread over filter papers in microgravity aboard the ISS.pdf",
+          "page": 7
+        },
+        {
+          "file": "Dynamics of flame spread over filter papers in microgravity aboard the ISS.pdf",
+          "page": 2
+        },
+        {
+          "file": "Dynamics of flame spread over filter papers in microgravity aboard the ISS.pdf",
+          "page": 3
+        }
+      ],
+      "all_citations_traceable": true
+    },
+    {
+      "id": "sofie_extinction",
+      "hit_at_5": true,
+      "results": [
+        {
+          "file": "Quiescent flame spread and extinction over acrylic sheets in microgravity at increased oxygen concentration.pdf",
+          "page": 1
+        },
+        {
+          "file": "Quiescent flame spread and extinction over acrylic sheets in microgravity at increased oxygen concentration.pdf",
+          "page": 2
+        },
+        {
+          "file": "Quiescent flame spread and extinction over acrylic sheets in microgravity at increased oxygen concentration.pdf",
+          "page": 2
+        },
+        {
+          "file": "Quiescent flame spread and extinction over acrylic sheets in microgravity at increased oxygen concentration.pdf",
+          "page": 7
+        },
+        {
+          "file": "The Effect of Microgravity on Flame Spread over a Thin Fuel.pdf",
+          "page": 19
+        }
+      ],
+      "all_citations_traceable": true
+    },
+    {
+      "id": "saffire_scope",
+      "hit_at_5": true,
+      "results": [
+        {
+          "file": "Preliminary results from the saffire VI Experiment.pdf",
+          "page": 1
+        },
+        {
+          "file": "Preliminary results from the saffire VI Experiment.pdf",
+          "page": 3
+        },
+        {
+          "file": "Preliminary results from the saffire VI Experiment.pdf",
+          "page": 4
+        },
+        {
+          "file": "Fire Safety in Space \u2013 Beyond Flammability Testing of Small.pdf",
+          "page": 14
+        },
+        {
+          "file": "Preliminary results from the saffire VI Experiment.pdf",
+          "page": 2
+        }
+      ],
+      "all_citations_traceable": true
+    },
+    {
+      "id": "cfd_method",
+      "hit_at_5": true,
+      "results": [
+        {
+          "file": "Numerical study of concurrent flow flame spread over thin solids in.pdf",
+          "page": 2
+        },
+        {
+          "file": "Numerical study of concurrent flow flame spread over thin solids in.pdf",
+          "page": 2
+        },
+        {
+          "file": "Numerical study of concurrent flow flame spread over thin solids in.pdf",
+          "page": 1
+        },
+        {
+          "file": "Numerical study of concurrent flow flame spread over thin solids in.pdf",
+          "page": 8
+        },
+        {
+          "file": "Numerical study of concurrent flow flame spread over thin solids in.pdf",
+          "page": 2
+        }
+      ],
+      "all_citations_traceable": true
+    },
+    {
+      "id": "confinement_materials",
+      "hit_at_5": true,
+      "results": [
+        {
+          "file": "Confined Combustion of Polymeric Solid Materials in microgravity.pdf",
+          "page": 6
+        },
+        {
+          "file": "Effects of Confinement on Opposed-Flow Flame Spread over Cellulose.pdf",
+          "page": 1
+        },
+        {
+          "file": "Confined Combustion of Polymeric Solid Materials in microgravity.pdf",
+          "page": 1
+        },
+        {
+          "file": "Effects of Confinement on Opposed-Flow Flame Spread over Cellulose.pdf",
+          "page": 11
+        },
+        {
+          "file": "Effects of Confinement on Flame Spread in Microgravity.pdf",
+          "page": 9
+        }
+      ],
+      "all_citations_traceable": true
+    },
+    {
+      "id": "pmma_comparison",
+      "hit_at_5": false,
+      "results": [
+        {
+          "file": "Flame spread over thin circular PMMA rods.pdf",
+          "page": 9
+        },
+        {
+          "file": "The Effect of Microgravity on Flame Spread over a Thin Fuel.pdf",
+          "page": 11
+        },
+        {
+          "file": "the effect of gravity on flame spread over pmma cylinders.pdf",
+          "page": 2
+        },
+        {
+          "file": "The Effect of Microgravity on Flame Spread over a Thin Fuel.pdf",
+          "page": 9
+        },
+        {
+          "file": "Quiescent flame spread and extinction over acrylic sheets in microgravity at increased oxygen concentration.pdf",
+          "page": 7
+        }
+      ],
+      "all_citations_traceable": true
+    },
+    {
+      "id": "spanish",
+      "hit_at_5": true,
+      "results": [
+        {
+          "file": "Quiescent flame spread and extinction over acrylic sheets in microgravity at increased oxygen concentration.pdf",
+          "page": 2
+        },
+        {
+          "file": "Combustion of Solids in Microgravity Results from the.pdf",
+          "page": 2
+        },
+        {
+          "file": "Quiescent flame spread and extinction over acrylic sheets in microgravity at increased oxygen concentration.pdf",
+          "page": 2
+        },
+        {
+          "file": "Quiescent flame spread and extinction over acrylic sheets in microgravity at increased oxygen concentration.pdf",
+          "page": 1
+        },
+        {
+          "file": "Quiescent flame spread and extinction over acrylic sheets in microgravity at increased oxygen concentration.pdf",
+          "page": 4
+        }
+      ],
+      "all_citations_traceable": true
+    },
+    {
+      "id": "unanswerable",
+      "hit_at_5": null,
+      "results": [],
+      "all_citations_traceable": true
+    }
+  ]
+}

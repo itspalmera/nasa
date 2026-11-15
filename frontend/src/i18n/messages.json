@@ -1,0 +1,746 @@
+[
+  [
+    "Microgravity fire safety insights",
+    "Seguridad contra incendios en microgravedad"
+  ],
+  [
+    "bg-slate-800 font-bold text-white shadow-sm",
+    "text-slate-400 hover:text-slate-200"
+  ],
+  [
+    "text-slate-400 hover:text-slate-200",
+    "bg-slate-800 font-bold text-white shadow-sm"
+  ],
+  [
+    "Edit scenario",
+    "Editar escenario"
+  ],
+  [
+    "Estimate properties",
+    "Estimar propiedades"
+  ],
+  [
+    "Download observations",
+    "Descargar observaciones"
+  ],
+  [
+    "Ask the assistant",
+    "Preguntar al asistente"
+  ],
+  [
+    "Explore an experiment in 3 steps",
+    "Explora un experimento en 3 pasos"
+  ],
+  [
+    "Start with a material, choose a source-backed experiment, then estimate its supported properties.",
+    "Parte del material, elige un experimento con fuentes y estima las propiedades disponibles."
+  ],
+  [
+    "Loading available experiments…",
+    "Cargando experimentos disponibles…"
+  ],
+  [
+    "Material and experiment",
+    "Material y experimento"
+  ],
+  [
+    "Material",
+    "Material"
+  ],
+  [
+    "No experiment with enough data for prediction is available for this material. Choose cellulose or another material with compatible observations.",
+    "Este material no tiene experimentos con datos suficientes para predecir. Elige celulosa u otro material con observaciones compatibles."
+  ],
+  [
+    "Available experiment",
+    "Experimento disponible"
+  ],
+  [
+    "observations",
+    "observaciones"
+  ],
+  [
+    "gravity levels",
+    "niveles de gravedad"
+  ],
+  [
+    "Conditions to explore",
+    "Condiciones que quieres explorar"
+  ],
+  [
+    "These values start with your scenario. They describe the prediction target, not the original measurements.",
+    "Estos valores parten de tu escenario. Definen la estimación, no las mediciones originales."
+  ],
+  [
+    "Gravity",
+    "Gravedad"
+  ],
+  [
+    "Oxygen (%)",
+    "Oxígeno (%)"
+  ],
+  [
+    "Pressure (kPa)",
+    "Presión (kPa)"
+  ],
+  [
+    "Airflow (cm/s)",
+    "Flujo de aire (cm/s)"
+  ],
+  [
+    "Initial temperature (K)",
+    "Temperatura inicial (K)"
+  ],
+  [
+    "Compare with measured conditions",
+    "Comparar con las condiciones medidas"
+  ],
+  [
+    "A value inside each individual range does not prove the combination was tested.",
+    "Estar dentro de cada rango por separado no demuestra que la combinación haya sido probada."
+  ],
+  [
+    "Estimate and understand the result",
+    "Estima y entiende el resultado"
+  ],
+  [
+    "Use extracted observations for exploratory estimates",
+    "Usar observaciones extraídas para estimaciones exploratorias"
+  ],
+  [
+    "These measurements await scientific review. Enable this option to explore them; results remain unvalidated.",
+    "Estas mediciones esperan revisión científica. Activa esta opción para explorarlas; los resultados no están validados."
+  ],
+  [
+    "Model options",
+    "Opciones del modelo"
+  ],
+  [
+    "Regression model",
+    "Modelo de regresión"
+  ],
+  [
+    "The prediction service is missing its scientific dependencies.",
+    "Al servicio de predicción le faltan sus dependencias científicas."
+  ],
+  [
+    "Enter the initial temperature to continue.",
+    "Ingresa la temperatura inicial para continuar."
+  ],
+  [
+    "Computing…",
+    "Calculando…"
+  ],
+  [
+    "Estimate supported properties",
+    "Estimar propiedades disponibles"
+  ],
+  [
+    "Research estimates only. They do not certify safety or determine whether a fire will extinguish.",
+    "Estimaciones para investigación. No certifican seguridad ni determinan si un fuego se extinguirá."
+  ],
+  [
+    "Your result",
+    "Tu resultado"
+  ],
+  [
+    "Download result",
+    "Descargar resultado"
+  ],
+  [
+    "View measurements and paper sources",
+    "Ver mediciones y fuentes del paper"
+  ],
+  [
+    "All",
+    "Todos"
+  ],
+  [
+    "Prevention",
+    "Prevención"
+  ],
+  [
+    "Detection",
+    "Detección"
+  ],
+  [
+    "Suppression",
+    "Supresión"
+  ],
+  [
+    "Fine-tune atmosphere",
+    "Ajusta la atmósfera"
+  ],
+  [
+    "Illustrative flame for your gravity & O₂",
+    "Llama ilustrativa según tu gravedad y O₂"
+  ],
+  [
+    "Oxygen",
+    "Oxígeno"
+  ],
+  [
+    "Earth",
+    "Tierra"
+  ],
+  [
+    "Cabin pressure",
+    "Presión de cabina"
+  ],
+  [
+    "Earth",
+    "Tierra"
+  ],
+  [
+    "Ventilation airflow",
+    "Flujo de ventilación"
+  ],
+  [
+    "Gravity",
+    "Gravedad"
+  ],
+  [
+    "See ranked evidence & alerts",
+    "Ver evidencia y alertas"
+  ],
+  [
+    "Choose a habitat",
+    "Elige un hábitat"
+  ],
+  [
+    "— each card previews how materials behave there",
+    "— cada tarjeta anticipa cómo se comportan los materiales allí"
+  ],
+  [
+    "BURN MARGIN BY MATERIAL",
+    "MARGEN POR MATERIAL"
+  ],
+  [
+    "Burn margin = cabin O₂ minus the minimum O₂ the material needs to keep burning at that airflow, pressure and gravity. Positive = it burns.",
+    "Margen = O₂ de la cabina menos el O₂ mínimo que el material necesita para seguir ardiendo con ese flujo, presión y gravedad. Positivo = arde."
+  ],
+  [
+    "STEP 1 OF 3 · CONFIGURE THE SCENARIO",
+    "PASO 1 DE 3 · CONFIGURA EL ESCENARIO"
+  ],
+  [
+    "Where will the crew live?",
+    "¿Dónde vivirá la tripulación?"
+  ],
+  [
+    "Pick a habitat. PyraScope ranks 30+ years of NASA fire experiments for it,",
+    "Elige un hábitat. PyraScope ordena más de 30 años de experimentos de fuego de la NASA para él,"
+  ],
+  [
+    "flags the counter-intuitive physics, and predicts what was never tested.",
+    "alerta la física contraintuitiva y predice lo que nunca se ha probado."
+  ],
+  [
+    "years of shuttle & ISS fire data scattered across PDFs, videos & CSVs",
+    "años de datos de fuego en transbordador e ISS dispersos en PDFs, videos y CSVs"
+  ],
+  [
+    "PSI investigations · curated runs, normalised to one schema",
+    "investigaciones PSI · corridas curadas en un único esquema"
+  ],
+  [
+    "direct fire data points at lunar or Martian gravity",
+    "datos directos de fuego en gravedad lunar o marciana"
+  ],
+  [
+    "Material for your scenario",
+    "Material para tu escenario"
+  ],
+  [
+    "On Earth",
+    "En la Tierra"
+  ],
+  [
+    "In your scenario",
+    "En tu escenario"
+  ],
+  [
+    "LIVE FLAME PREVIEW",
+    "VISTA PREVIA DE LA LLAMA"
+  ],
+  [
+    "How fire looks where you are designing",
+    "Cómo se ve el fuego donde diseñas"
+  ],
+  [
+    "Consult source-linked measurements in step 3. Oxygen threshold unavailable.",
+    "Consulta las mediciones con fuentes en el paso 3. Umbral de oxígeno no disponible."
+  ],
+  [
+    "Burns",
+    "Arde"
+  ],
+  [
+    "Safe",
+    "Seguro"
+  ],
+  [
+    "vs its oxygen limit",
+    "vs su límite de oxígeno"
+  ],
+  [
+    "Physical alerts",
+    "Alertas físicas"
+  ],
+  [
+    "2 critical · counter-intuitive physics to design for",
+    "2 críticas · física contraintuitiva para la que diseñar"
+  ],
+  [
+    "Show all 8 ▾",
+    "Ver las 8 ▾"
+  ],
+  [
+    "CRITICAL",
+    "CRÍTICO"
+  ],
+  [
+    "Exploration atmosphere: O₂-enriched",
+    "Atmósfera de exploración: rica en O₂"
+  ],
+  [
+    "CRITICAL",
+    "CRÍTICO"
+  ],
+  [
+    "Earth test is not conservative here",
+    "La prueba terrestre no es conservadora aquí"
+  ],
+  [
+    "WARNING",
+    "ADVERTENCIA"
+  ],
+  [
+    "Your fan speed is in the danger band",
+    "Tu ventilación está en la banda de peligro"
+  ],
+  [
+    "Between ~3 and 25 cm/s, slow airflow feeds the flame without cooling it. Cutting ventilation in the affected zone moves you out of the band.",
+    "Entre ~3 y 25 cm/s, el flujo lento alimenta la llama sin enfriarla. Cortar la ventilación de la zona afectada te saca de la banda."
+  ],
+  [
+    "WARNING",
+    "ADVERTENCIA"
+  ],
+  [
+    "Fire spreads toward the fan",
+    "El fuego avanza hacia el ventilador"
+  ],
+  [
+    "Without buoyancy, flames on sheets and fabrics creep upstream — against the airflow — searching for fresh oxygen.",
+    "Sin flotabilidad, las llamas en láminas y telas avanzan contra el flujo de aire, buscando oxígeno fresco."
+  ],
+  [
+    "Evidence view",
+    "Vista de evidencia"
+  ],
+  [
+    "Inside an investigation",
+    "Dentro de una investigación"
+  ],
+  [
+    "Compare investigations",
+    "Comparar investigaciones"
+  ],
+  [
+    "Not reported",
+    "No reportado"
+  ],
+  [
+    "Compare source records",
+    "Comparar fichas de las fuentes"
+  ],
+  [
+    "Could not load investigations.",
+    "No se pudieron cargar las investigaciones."
+  ],
+  [
+    "Loading…",
+    "Cargando…"
+  ],
+  [
+    "Investigation",
+    "Investigación"
+  ],
+  [
+    "Materials",
+    "Materiales"
+  ],
+  [
+    "Oxygen",
+    "Oxígeno"
+  ],
+  [
+    "Pressure",
+    "Presión"
+  ],
+  [
+    "Airflow",
+    "Flujo de aire"
+  ],
+  [
+    "Gravity",
+    "Gravedad"
+  ],
+  [
+    "Not reported",
+    "No reportado"
+  ],
+  [
+    "Geometry",
+    "Geometría"
+  ],
+  [
+    "Hardware",
+    "Hardware"
+  ],
+  [
+    "Not reported",
+    "No reportado"
+  ],
+  [
+    "Reported findings",
+    "Hallazgos reportados"
+  ],
+  [
+    "No findings in this catalog entry.",
+    "Esta ficha no contiene hallazgos."
+  ],
+  [
+    "Choose different investigations to compare them.",
+    "Elige investigaciones distintas para compararlas."
+  ],
+  [
+    "Could not load investigations",
+    "No se pudieron cargar las investigaciones"
+  ],
+  [
+    "Comparison unavailable",
+    "No se pudo cargar la comparación"
+  ],
+  [
+    "Inside an investigation",
+    "Dentro de una investigación"
+  ],
+  [
+    "Compare reported conditions and findings. Catalog ranges do not identify individual experimental runs.",
+    "Compara condiciones y hallazgos reportados. Los rangos del catálogo no identifican corridas experimentales individuales."
+  ],
+  [
+    "Investigation",
+    "Investigación"
+  ],
+  [
+    "Retry",
+    "Reintentar"
+  ],
+  [
+    "Loading comparison…",
+    "Cargando comparación…"
+  ],
+  [
+    "Fixed conditions",
+    "Condiciones fijas"
+  ],
+  [
+    "Variables changed",
+    "Variables que cambiaron"
+  ],
+  [
+    "Unreported variables",
+    "Variables sin datos"
+  ],
+  [
+    "Not reported",
+    "No reportado"
+  ],
+  [
+    "None reported",
+    "Ninguna reportada"
+  ],
+  [
+    "Reported findings",
+    "Hallazgos reportados"
+  ],
+  [
+    "No findings in this catalog entry.",
+    "Esta ficha no contiene hallazgos."
+  ],
+  [
+    "Diagnostics",
+    "Instrumentos"
+  ],
+  [
+    "Not reported",
+    "No reportado"
+  ],
+  [
+    "NASA Investigations Ranked",
+    "Investigaciones NASA Ranked"
+  ],
+  [
+    "No objectives reported for this investigation.",
+    "Esta investigación no reporta objetivos."
+  ],
+  [
+    "WHY IT'S HERE",
+    "POR QUÉ ESTÁ AQUÍ"
+  ],
+  [
+    "View analysis",
+    "Ver análisis"
+  ],
+  [
+    "What changed",
+    "Qué cambió"
+  ],
+  [
+    "Ask Copilot about this",
+    "Preguntar a Copilot"
+  ],
+  [
+    "STEP 2 OF 3 · EXPLORE THE RANKING & PHYSICAL ALERTS",
+    "PASO 2 DE 3 · EXPLORA EL RANKING Y LAS ALERTAS FÍSICAS"
+  ],
+  [
+    "Evidence for",
+    "Evidencia para"
+  ],
+  [
+    "Choose an investigation in the ranking to inspect its own conditions, objectives and findings. Compare two investigations using their source catalog records.",
+    "Elige una investigación del ranking para consultar sus condiciones, objetivos y hallazgos. Compara dos investigaciones con sus fichas del catálogo de fuentes."
+  ],
+  [
+    "Change scenario",
+    "Cambiar escenario"
+  ],
+  [
+    "Predict, extract or ask",
+    "Predecir, extraer o preguntar"
+  ],
+  [
+    "RESULT",
+    "RESULTADO"
+  ],
+  [
+    "Your decision brief",
+    "Tu informe de decisión"
+  ],
+  [
+    "Everything above, compiled into evidence-backed actions for the three uses of this data according to NASA: materials screening, suppression design, and safety protocols. Every line is traceable to a PSI investigation.",
+    "Todo lo anterior, compilado en acciones respaldadas por evidencia para los tres usos de estos datos según la NASA: evaluación de materiales, diseño de supresión y protocolos de seguridad. Cada línea es trazable a una investigación PSI."
+  ],
+  [
+    "Copy",
+    "Copiar"
+  ],
+  [
+    "Download brief",
+    "Descargar informe"
+  ],
+  [
+    "VERDICT",
+    "VEREDICTO"
+  ],
+  [
+    "Acrylic (PMMA) is NOT acceptable as-is",
+    "Acrílico (PMMA) NO es aceptable tal cual"
+  ],
+  [
+    "Scenario",
+    "Escenario"
+  ],
+  [
+    "Atmosphere",
+    "Atmósfera"
+  ],
+  [
+    "Flow - gravity",
+    "Flujo - gravedad"
+  ],
+  [
+    "Margin",
+    "Margen"
+  ],
+  [
+    "Burns",
+    "Arde"
+  ],
+  [
+    "Earth blind spot",
+    "Punto ciego terrestre"
+  ],
+  [
+    "READ FIRST",
+    "LEER PRIMERO"
+  ],
+  [
+    "Materials screening",
+    "Evaluación de materiales"
+  ],
+  [
+    "Apply a design margin of 1.5 pts of O₂: Earth tests are optimistic by 1.0 pts here.",
+    "Aplicar un margen de diseño de 1.5 pts de O₂: las pruebas terrestres son optimistas en 1.0 pts aquí."
+  ],
+  [
+    "Suppression design",
+    "Diseño de supresión"
+  ],
+  [
+    "Use total-flooding dilution (CO₂/He, per FLEX) or water mist. Avoid targeted N₂ jets, which can fan the flame (BASS).",
+    "Usar dilución por inundación total (CO₂/He, según FLEX) o niebla de agua. Evitar chorros dirigidos de N₂, que pueden avivar la llama (BASS)."
+  ],
+  [
+    "Maintain \"fire out\" declaration hold until temperature and gases confirm no cool flame remains (FLEX, CFI).",
+    "Mantener la declaración de \"fuego apagado\" hasta que temperatura y gases confirmen que no queda llama fría (FLEX, CFI)."
+  ],
+  [
+    "Safety protocols",
+    "Protocolos de seguridad"
+  ],
+  [
+    "Upon alarm, halt ventilation in the affected module to exit the 3–25 cm/s danger band and stop propagation.",
+    "Ante una alarma, detener la ventilación del módulo afectado para salir de la banda de peligro de 3-25 cm/s y frenar la propagación."
+  ],
+  [
+    "Place detectors in the flow return path and calibrate for larger smoke particles in microgravity (SAME).",
+    "Ubicar detectores en la ruta de retorno del flujo y calibrar para partículas de humo más grandes en microgravedad (SAME)."
+  ],
+  [
+    "SCIENTIFIC PREDICTION",
+    "PREDICCIÓN CIENTÍFICA"
+  ],
+  [
+    "Go beyond what's tested",
+    "Ve más allá de lo probado"
+  ],
+  [
+    "Fit models to source-linked combustion observations. The lab starts with your scenario; select an experimental configuration and inspect its supported properties.",
+    "Ajusta modelos a observaciones de combustión con sus fuentes. El laboratorio parte de tu escenario: elige una configuración experimental y consulta las propiedades disponibles."
+  ],
+  [
+    "Estimates at untested gravities are unvalidated. The bundled observations await scientific review. No safety or extinction verdict is inferred.",
+    "Las estimaciones en gravedades no probadas no están validadas. Las observaciones incluidas esperan revisión científica. No permiten determinar seguridad ni extinción."
+  ],
+  [
+    "Back to ranking",
+    "Volver al ranking"
+  ],
+  [
+    "Could not reach the RAG backend.",
+    "No se pudo conectar con el motor RAG del backend."
+  ],
+  [
+    "Grounded in NASA PSI & peer-reviewed papers",
+    "Respaldado por NASA PSI y papers científicos"
+  ],
+  [
+    "ACTIVE SCENARIO & MATERIAL",
+    "CONTEXTO DE ESCENARIO Y MATERIAL"
+  ],
+  [
+    "Inject into query",
+    "Incluir en consulta"
+  ],
+  [
+    "Burns",
+    "Arde"
+  ],
+  [
+    "Safe",
+    "Seguro"
+  ],
+  [
+    "Zero-Hallucination Scientific RAG",
+    "RAG Científico con Validación Estricta de Citas"
+  ],
+  [
+    "Every claim generated by the assistant is cross-checked by regex against verbatim quotes in our indexed PDFs and NASA PSI catalog. Unverified claims are automatically discarded.",
+    "Cada afirmación generada se valida contra citas textuales exactas (verbatim quotes) en los PDFs científicos y el catálogo NASA PSI. Cualquier dato sin respaldo directo se descarta automáticamente."
+  ],
+  [
+    "YOUR QUESTION",
+    "CONSULTA ACTIVA"
+  ],
+  [
+    "Reset",
+    "Otra consulta"
+  ],
+  [
+    "Executing Grounded RAG Pipeline...",
+    "Ejecutando Pipeline RAG Verificado..."
+  ],
+  [
+    "1. Searching PDF chunks + NASA PSI catalog (TF-IDF + Synonyms)",
+    "1. Buscando en PDFs + catálogo NASA PSI (TF-IDF + Sinónimos)"
+  ],
+  [
+    "2. Synthesizing structured claims & executive summary",
+    "2. Sintetizando afirmaciones y resumen ejecutivo con IA"
+  ],
+  [
+    "3. Verifying verbatim quotes & numerical grounding",
+    "3. Validando citas literales (verbatim quotes) y cifras"
+  ],
+  [
+    "Connection Error",
+    "Error de Conexión"
+  ],
+  [
+    "EVIDENCE ONLY MODE",
+    "MODO SOLO EVIDENCIA"
+  ],
+  [
+    "Show all",
+    "Mostrar todo"
+  ],
+  [
+    "EXECUTIVE DECISION SUMMARY",
+    "RESUMEN EJECUTIVO PARA TOMA DE DECISIONES"
+  ],
+  [
+    "Counter-Intuitive Microgravity Physics Alert",
+    "Alerta de Física Contraintuitiva en Microgravedad"
+  ],
+  [
+    "EVIDENCE-BACKED CLAIMS & VERBATIM QUOTES",
+    "HALLAZGOS VERIFICADOS Y CITAS LITERALES"
+  ],
+  [
+    "SYNTHESIS",
+    "SÍNTESIS"
+  ],
+  [
+    "Verified in:",
+    "Verificado en:"
+  ],
+  [
+    "Click to inspect excerpt",
+    "Clic para ver pasaje original"
+  ],
+  [
+    "Open official PSI source",
+    "Abrir fuente oficial PSI"
+  ],
+  [
+    "CONFLICTING EVIDENCE DETECTED",
+    "EVIDENCIA EN CONFLICTO DETECTADA"
+  ],
+  [
+    "FOLLOW-UP QUESTIONS",
+    "SEGUIR EXPLORANDO"
+  ],
+  [
+    "Send question",
+    "Enviar pregunta"
+  ],
+  [
+    "Strict verbatim quote validation active",
+    "Validación estricta de citas literales activa"
+  ]
+]

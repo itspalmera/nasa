@@ -1,0 +1,2722 @@
+[
+  [
+    "Fire behaves differently where there is no up or down.",
+    "El fuego no se comporta igual donde no hay arriba ni abajo."
+  ],
+  [
+    "Flame Analysis Research Explorer",
+    "Flame Analysis Research Explorator"
+  ],
+  [
+    "Explore over 30 years of NASA fire experiments, uncover the limitations of Earth tests and inspect evidence for your habitat.",
+    "Explora más de 30 años de experimentos de fuego de la NASA, descubre qué peligros esconden las pruebas terrestres y decide con evidencia para tu hábitat."
+  ],
+  [
+    "Configure my scenario",
+    "Configurar mi escenario"
+  ],
+  [
+    "How it works",
+    "Cómo funciona"
+  ],
+  [
+    "years of data",
+    "años de datos"
+  ],
+  [
+    "PSI investigations",
+    "investigaciones PSI"
+  ],
+  [
+    "direct measurements on the Moon or Mars",
+    "datos directos en Luna o Marte"
+  ],
+  [
+    "The gap Flare helps you see",
+    "La brecha que Flare te ayuda a ver"
+  ],
+  [
+    "The gap Flare helps you see:",
+    "La brecha que Flare te ayuda a ver:"
+  ],
+  [
+    "Earth tests may indicate a material is safe, but in microgravity it can burn with less oxygen. Flare compares the evidence for your cabin and highlights the gaps.",
+    "las pruebas terrestres pueden decir que un material es seguro, pero en microgravedad puede arder con menos oxígeno. Flare compara ambos mundos para tu cabina y te dice cuánto riesgo oculto hay."
+  ],
+  [
+    "Three steps, one decision",
+    "Tres pasos, una decisión"
+  ],
+  [
+    "GUIDED RESEARCH WORKFLOW",
+    "FLUJO GUIADO DE INGENIERÍA"
+  ],
+  [
+    "Open",
+    "Abrir"
+  ],
+  [
+    "Want a quick start? Jump straight to a habitat:",
+    "¿Prefieres empezar rápido? Salta directo a un hábitat:"
+  ],
+  [
+    "TRY IT NOW",
+    "PRUÉBALO AHORA"
+  ],
+  [
+    "Drag gravity to see the flame change",
+    "Arrastra la gravedad y mira cómo cambia la llama"
+  ],
+  [
+    "Toggle cabin ventilation (10 cm/s vs 0 cm/s)",
+    "Alternar flujo de ventilación de cabina (10 cm/s vs 0 cm/s)"
+  ],
+  [
+    "Enable the E-FIELD illustration (10 kV)",
+    "Activar campo eléctrico E-FIELD (10 kV) que arrastra iones emulando gravedad parcial"
+  ],
+  [
+    "Min. O₂ (PMMA):",
+    "O₂ mín (PMMA):"
+  ],
+  [
+    "Spread rate:",
+    "Propagación:"
+  ],
+  [
+    "Adjust gravity between 0 g and 1 g",
+    "Ajustar gravedad entre 0g y 1g"
+  ],
+  [
+    "Interactive physics illustration, not a real image",
+    "Ilustración física interactiva, no una imagen real"
+  ],
+  [
+    "Three-step guided workflow",
+    "Flujo guiado de tres pasos"
+  ],
+  [
+    "Language selector",
+    "Selector de idioma"
+  ],
+  [
+    "Scientific Copilot",
+    "Copiloto Científico SI"
+  ],
+  [
+    "Close Copilot panel",
+    "Cerrar panel Copilot"
+  ],
+  [
+    "Predict & Ask",
+    "Predecir y preguntar"
+  ],
+  [
+    "Predictions and evidence use the backend’s combustion-observations.json. Cohorts, units, review status and provenance are preserved. Experimental configurations are filtered by your scenario material.",
+    "Las predicciones y la evidencia usan el conjunto de observaciones del servicio. Se conservan las configuraciones, unidades, revisión y fuentes. Los experimentos se filtran por el material seleccionado."
+  ],
+  [
+    "API access token (if required)",
+    "Token de acceso a la API (si se requiere)"
+  ],
+  [
+    "API access token",
+    "Token de acceso a la API"
+  ],
+  [
+    "Apply token",
+    "Aplicar token"
+  ],
+  [
+    "Export the observation dataset",
+    "Exportar el conjunto de observaciones"
+  ],
+  [
+    "Download the exact dataset used by the prediction service, including citations, measurements, units and review flags. No scenario mock values are added.",
+    "Descarga el mismo conjunto de datos que usa el predictor, con citas, mediciones, unidades y estado de revisión. No se agregan valores de ejemplo del escenario."
+  ],
+  [
+    "Ask the research assistant",
+    "Pregunta al asistente de investigación"
+  ],
+  [
+    "Answers come from the existing research API and include its source citations and limitations.",
+    "Las respuestas incluyen citas a sus fuentes y limitaciones de la evidencia."
+  ],
+  [
+    "Ask Copilot",
+    "Preguntar a Copilot"
+  ],
+  [
+    "Why does gravity change flame behavior?",
+    "¿Por qué la gravedad cambia el comportamiento de la llama?"
+  ],
+  [
+    "Send question",
+    "Enviar pregunta"
+  ],
+  [
+    "Searching research evidence…",
+    "Buscando evidencia científica…"
+  ],
+  [
+    "Insufficient evidence for a complete answer.",
+    "No hay evidencia suficiente para una respuesta completa."
+  ],
+  [
+    "Limitations",
+    "Limitaciones"
+  ],
+  [
+    "Conflicting evidence",
+    "Evidencia contradictoria"
+  ],
+  [
+    "Observed evidence & validation readiness",
+    "Mediciones y disponibilidad de validación"
+  ],
+  [
+    "Loading source-linked observations…",
+    "Cargando observaciones con sus fuentes…"
+  ],
+  [
+    "observations in this fuel/configuration cohort ·",
+    "observaciones de este combustible y configuración ·"
+  ],
+  [
+    "dependency groups. This panel inspects recorded measurements and exclusion rules; it does not fit a model or compute validation errors.",
+    "grupos de dependencia. Este panel muestra mediciones y reglas de exclusión; no ajusta modelos ni calcula errores de validación."
+  ],
+  [
+    "Measured results · not predictions",
+    "Resultados medidos · no son predicciones"
+  ],
+  [
+    "These are recorded values for this experimental configuration, at the conditions listed with each measurement. They do not change when you adjust the target gravity, oxygen, pressure or airflow above. A prediction at those target conditions is unavailable.",
+    "Estos valores se midieron para esta configuración en las condiciones indicadas. No cambian al ajustar gravedad, oxígeno, presión o flujo del escenario. No hay una predicción disponible para esas condiciones."
+  ],
+  [
+    "MEASURED ·",
+    "MEDIDO ·"
+  ],
+  [
+    "OBSERVATIONS",
+    "OBSERVACIONES"
+  ],
+  [
+    "Source ·",
+    "Fuente ·"
+  ],
+  [
+    "First 5 measurements shown; inspect all",
+    "Se muestran las primeras 5 mediciones; consulta las"
+  ],
+  [
+    "in the source-linked table below.",
+    "en la tabla con fuentes de abajo."
+  ],
+  [
+    "Observed property",
+    "Propiedad medida"
+  ],
+  [
+    "Export observed evidence",
+    "Exportar evidencia medida"
+  ],
+  [
+    "measured rows",
+    "mediciones"
+  ],
+  [
+    "reviewed ·",
+    "revisadas ·"
+  ],
+  [
+    "pending",
+    "pendientes"
+  ],
+  [
+    "Observed",
+    "Medido"
+  ],
+  [
+    "versus oxygen",
+    "frente al oxígeno"
+  ],
+  [
+    "Each point uses its own recorded pressure, airflow and temperature. This plot does not isolate an oxygen effect. Repeated points may overlap; every row is retained in the table.",
+    "Cada punto conserva su presión, flujo y temperatura registrados. Este gráfico no aísla el efecto del oxígeno. Los puntos repetidos pueden superponerse; la tabla conserva todas las filas."
+  ],
+  [
+    "What happens if",
+    "¿Qué ocurre si se reserva"
+  ],
+  [
+    "g is held out?",
+    "g para validación?"
+  ],
+  [
+    "rows held out",
+    "filas reservadas"
+  ],
+  [
+    "rows at other gravities",
+    "filas en otras gravedades"
+  ],
+  [
+    "rows after dependency exclusions",
+    "filas tras excluir dependencias"
+  ],
+  [
+    "Remaining training gravity levels:",
+    "Niveles de gravedad restantes para entrenar:"
+  ],
+  [
+    "Dependency groups excluded with the held-out rows",
+    "Grupos de dependencia excluidos junto con las filas reservadas"
+  ],
+  [
+    "What would enable this comparison?",
+    "¿Qué permitiría esta comparación?"
+  ],
+  [
+    "Review the transcribed measurements before using reviewed-mode validation.",
+    "Revisa las mediciones transcritas antes de usarlas para validación científica."
+  ],
+  [
+    "Provide compatible observations from genuinely independent runs or campaigns. Renaming a dependency group does not make it independent.",
+    "Se necesitan observaciones compatibles de corridas o campañas independientes. Renombrar un grupo no lo hace independiente."
+  ],
+  [
+    "This protocol needs observations at another gravity so two training levels can remain after one is held out.",
+    "Este protocolo necesita mediciones en otra gravedad para conservar dos niveles de entrenamiento al reservar uno."
+  ],
+  [
+    "Retain at least three training rows without held-out group overlap; this software minimum does not establish scientific sufficiency.",
+    "Deben quedar al menos tres filas de entrenamiento sin grupos compartidos con las reservadas; este mínimo técnico no demuestra suficiencia científica."
+  ],
+  [
+    "Source-linked measurement table ·",
+    "Tabla de mediciones con fuentes ·"
+  ],
+  [
+    "rows",
+    "filas"
+  ],
+  [
+    ") · recorded conditions, not predictions",
+    ") · condiciones medidas, no predicciones"
+  ],
+  [
+    "Row / source",
+    "Fila / fuente"
+  ],
+  [
+    "Gravity (g)",
+    "Gravedad (g)"
+  ],
+  [
+    "Oxygen (%)",
+    "Oxígeno (%)"
+  ],
+  [
+    "Pressure (kPa)",
+    "Presión (kPa)"
+  ],
+  [
+    "Airflow (cm/s)",
+    "Flujo de aire (cm/s)"
+  ],
+  [
+    "Observed (",
+    "Medido ("
+  ],
+  [
+    "Measurement SD",
+    "Desviación de la medición"
+  ],
+  [
+    "Review",
+    "Revisión"
+  ],
+  [
+    "· dependency group:",
+    "· grupo de dependencia:"
+  ],
+  [
+    "Initial temperature:",
+    "Temperatura inicial:"
+  ],
+  [
+    "No measurements for this property at the selected gravity.",
+    "No hay mediciones de esta propiedad en la gravedad seleccionada."
+  ],
+  [
+    "Inspection limitations",
+    "Limitaciones de las mediciones"
+  ],
+  [
+    "Dataset SHA-256:",
+    "SHA-256 del conjunto de datos:"
+  ],
+  [
+    "MODEL CURVE · NOT INDEPENDENTLY VALIDATED",
+    "CURVA DEL MODELO · SIN VALIDACIÓN INDEPENDIENTE"
+  ],
+  [
+    "Explore fire behaviour across gravity",
+    "Explora el comportamiento del fuego en distintas gravedades"
+  ],
+  [
+    "Hold oxygen, pressure, airflow and material fixed. Tap or drag the chart to inspect the model at another gravity.",
+    "Mantén fijos oxígeno, presión, flujo y material. Pulsa o arrastra el gráfico para consultar el modelo en otra gravedad."
+  ],
+  [
+    "Gravity curve property",
+    "Propiedad de la curva de gravedad"
+  ],
+  [
+    "Airflow condition",
+    "Condición de flujo"
+  ],
+  [
+    "Fans 8 cm/s",
+    "Ventilación a 8 cm/s"
+  ],
+  [
+    "Fans off · 0 cm/s",
+    "Ventilación apagada · 0 cm/s"
+  ],
+  [
+    "Minimum sustaining oxygen is unavailable: this cohort has no compatible threshold observations.",
+    "No hay un umbral mínimo de oxígeno disponible: esta configuración no tiene mediciones compatibles de ese umbral."
+  ],
+  [
+    "Fan buttons set imposed airflow only. Estimates outside recorded airflow coverage are flagged; no ionic-wind equivalence or combustion verdict is assumed.",
+    "Estos botones solo ajustan el flujo impuesto. Se señalan las estimaciones fuera del rango medido; no se infiere equivalencia con viento iónico ni un resultado de combustión."
+  ],
+  [
+    "Choose a cohort with sufficient observations and valid physical inputs to compute a gravity curve. Observations-only materials remain available in the evidence panel.",
+    "Elige una configuración con datos suficientes y condiciones válidas para calcular la curva. Las mediciones se pueden consultar en el panel de evidencia."
+  ],
+  [
+    "Fitting the selected model and computing its gravity response…",
+    "Ajustando el modelo seleccionado y calculando su respuesta a la gravedad…"
+  ],
+  [
+    "Probe gravity curve",
+    "Explorar curva de gravedad"
+  ],
+  [
+    "▰ Uncalibrated model interval",
+    "▰ Intervalo del modelo sin calibrar"
+  ],
+  [
+    "■ Ground observations",
+    "■ Observaciones terrestres"
+  ],
+  [
+    "● Reduced-gravity observations",
+    "● Observaciones en gravedad reducida"
+  ],
+  [
+    "AT",
+    "EN"
+  ],
+  [
+    "Uncalibrated 95% model interval",
+    "Intervalo del modelo al 95% sin calibrar"
+  ],
+  [
+    "Empirical coverage has not been independently established.",
+    "La cobertura empírica no se ha comprobado de forma independiente."
+  ],
+  [
+    "Posterior mean:",
+    "Media posterior:"
+  ],
+  [
+    "training observations;",
+    "observaciones de entrenamiento;"
+  ],
+  [
+    "match the other recorded conditions exactly.",
+    "coinciden exactamente con las otras condiciones registradas."
+  ],
+  [
+    "Outside recorded ranges:",
+    "Fuera de los rangos medidos:"
+  ],
+  [
+    "Joint support and independent validation are not established.",
+    "No se ha comprobado el soporte conjunto ni la validación independiente."
+  ],
+  [
+    "Evidence behind this curve",
+    "Evidencia que respalda esta curva"
+  ],
+  [
+    "The",
+    "Las"
+  ],
+  [
+    "curve samples are predictions, not additional training data.",
+    "muestras de la curva son predicciones, no datos adicionales de entrenamiento."
+  ],
+  [
+    "Model uncertainty & source limitations",
+    "Incertidumbre del modelo y limitaciones de las fuentes"
+  ],
+  [
+    "Export model curve",
+    "Exportar curva del modelo"
+  ],
+  [
+    "Exploratory · pending review",
+    "Exploratorio · revisión pendiente"
+  ],
+  [
+    ". The mean can differ from the median for a skewed distribution.",
+    ". La media puede diferir de la mediana en una distribución asimétrica."
+  ],
+  [
+    "Empirical coverage has not been established. This is not a validated safety range.",
+    "No se ha comprobado la cobertura empírica. Este intervalo no es un rango validado de seguridad."
+  ],
+  [
+    "training observations",
+    "observaciones de entrenamiento"
+  ],
+  [
+    "Outside training ranges:",
+    "Fuera de los rangos de entrenamiento:"
+  ],
+  [
+    "Inputs are within marginal training ranges. Joint support is not established.",
+    "Las condiciones están dentro de los rangos individuales de entrenamiento. No se ha comprobado el soporte conjunto."
+  ],
+  [
+    "Training gravity levels:",
+    "Gravedades de entrenamiento:"
+  ],
+  [
+    "g. Interpolation describes the gravity axis only.",
+    "g. La interpolación se refiere solo al eje de gravedad."
+  ],
+  [
+    "Uncertainty, sources & limitations",
+    "Incertidumbre, fuentes y limitaciones"
+  ],
+  [
+    "Reported measurement errors enter GPR through a first-order approximation in transformed target space; this may be inaccurate for large relative errors. Model and domain coverage uncertainty are not separately identified. A calibrated novelty or failure probability is unavailable.",
+    "GPR incorpora errores de medición mediante una aproximación de primer orden en el espacio transformado; puede ser imprecisa con errores relativos grandes. No se separan las incertidumbres del modelo y de cobertura. No hay una probabilidad calibrada de novedad o fallo."
+  ],
+  [
+    "This estimate has not itself established independent validation. Conditioning variables express statistical association, not proof of physical causation.",
+    "Esta estimación no demuestra validación independiente. Las variables expresan asociación estadística, no causalidad física."
+  ],
+  [
+    "held-out observations ·",
+    "observaciones reservadas ·"
+  ],
+  [
+    "training observations after related groups were excluded.",
+    "observaciones de entrenamiento tras excluir grupos relacionados."
+  ],
+  [
+    "Observed versus predicted means (",
+    "Valores medidos frente a medias predichas ("
+  ],
+  [
+    "). The dashed line represents perfect agreement. Error bars show uncalibrated central model intervals when available; coverage describes this held-out fold only.",
+    "). La línea discontinua representa una coincidencia perfecta. Las barras muestran intervalos sin calibrar cuando están disponibles; la cobertura describe solo este grupo reservado."
+  ],
+  [
+    "Held-out pairs (",
+    "Pares de validación ("
+  ],
+  [
+    "Source",
+    "Fuente"
+  ],
+  [
+    "Predicted mean",
+    "Media predicha"
+  ],
+  [
+    "Interval",
+    "Intervalo"
+  ],
+  [
+    "Error by source",
+    "Error por fuente"
+  ],
+  [
+    ", coverage",
+    ", cobertura"
+  ],
+  [
+    ", interval width",
+    ", amplitud del intervalo"
+  ],
+  [
+    "Evidence",
+    "Evidencia"
+  ],
+  [
+    "Computing ranking…",
+    "Calculando motor 1..."
+  ],
+  [
+    "Score",
+    "Puntaje"
+  ],
+  [
+    "Airflow:",
+    "Flujo:"
+  ],
+  [
+    "Gravity:",
+    "Grav:"
+  ],
+  [
+    "PSI CATALOG",
+    "CATÁLOGO PSI"
+  ],
+  [
+    "NASA BRIEF",
+    "ENUNCIADO NASA"
+  ],
+  [
+    "MATERIAL MATRIX",
+    "MATRIZ MATERIALES"
+  ],
+  [
+    "PDF PAPER",
+    "PAPER PDF"
+  ],
+  [
+    "Copilot SI",
+    "Copilot SI"
+  ],
+  [
+    "Evidence-only mode (enable paid API for generated answers)",
+    "Modo solo-evidencia (Activa ENABLE_PAID_API=true)"
+  ],
+  [
+    "⚡ CACHE HIT (0ms)",
+    "⚡ RESPUESTA EN CACHÉ (0ms)"
+  ],
+  [
+    "score",
+    "puntaje"
+  ],
+  [
+    "Unavailable",
+    "No disponible"
+  ],
+  [
+    "Reviewed",
+    "Revisado"
+  ],
+  [
+    "Pending",
+    "Pendiente"
+  ],
+  [
+    "Orbit",
+    "Órbita"
+  ],
+  [
+    "Moon",
+    "Luna"
+  ],
+  [
+    "Mars",
+    "Marte"
+  ],
+  [
+    "Earth",
+    "Tierra"
+  ],
+  [
+    "Minimum sustaining oxygen",
+    "Oxígeno mínimo para sostener la llama"
+  ],
+  [
+    "Flame-spread velocity",
+    "Velocidad de propagación de la llama"
+  ],
+  [
+    "Flame length",
+    "Longitud de la llama"
+  ],
+  [
+    "Flame temperature",
+    "Temperatura de la llama"
+  ],
+  [
+    "Standard GPR",
+    "GPR estándar"
+  ],
+  [
+    "Gradient Boosting",
+    "Potenciación por gradiente"
+  ],
+  [
+    "Posterior median",
+    "Mediana posterior"
+  ],
+  [
+    "Model estimate",
+    "Estimación del modelo"
+  ],
+  [
+    "Gravity inside observed range",
+    "Gravedad dentro del rango observado"
+  ],
+  [
+    "Gravity outside observed range",
+    "Gravedad fuera del rango observado"
+  ],
+  [
+    "Gravity represented in data",
+    "Gravedad representada en los datos"
+  ],
+  [
+    "Prediction interval unavailable",
+    "Intervalo de predicción no disponible"
+  ],
+  [
+    "Reviewed observation",
+    "Observación revisada"
+  ],
+  [
+    "Transcription pending scientific review",
+    "Transcripción pendiente de revisión científica"
+  ],
+  [
+    "Data split eligible for validation",
+    "Partición de datos apta para validación"
+  ],
+  [
+    "Scientific comparison unavailable",
+    "Comparación científica no disponible"
+  ],
+  [
+    "Recorded oxygen (%)",
+    "Oxígeno medido (%)"
+  ],
+  [
+    "Model median",
+    "Mediana del modelo"
+  ],
+  [
+    "Gravity extrapolation",
+    "Extrapolación de gravedad"
+  ],
+  [
+    "Gravity inside training range",
+    "Gravedad dentro del rango de entrenamiento"
+  ],
+  [
+    "Unavailable for this model/point",
+    "No disponible para este modelo o punto"
+  ],
+  [
+    "Posterior median · not a measurement",
+    "Mediana posterior · no es una medición"
+  ],
+  [
+    "Deterministic model estimate · not a measurement",
+    "Estimación determinista · no es una medición"
+  ],
+  [
+    "Reviewed inputs · model estimate",
+    "Datos revisados · estimación del modelo"
+  ],
+  [
+    "Min. O₂ to burn",
+    "O₂ mín. para arder"
+  ],
+  [
+    "Uncalibrated model interval",
+    "Intervalo del modelo sin calibrar"
+  ],
+  [
+    "Model intervals",
+    "Intervalos del modelo"
+  ],
+  [
+    "Held-out predictions (mean)",
+    "Predicciones de validación (media)"
+  ],
+  [
+    "Predicted",
+    "Predicho"
+  ],
+  [
+    "Normalized MAE",
+    "MAE normalizado"
+  ],
+  [
+    "Interval coverage",
+    "Cobertura del intervalo"
+  ],
+  [
+    "Mean interval width",
+    "Amplitud media del intervalo"
+  ],
+  [
+    "No matching set of the other input conditions is observed across two gravity levels. Joint generalization is unvalidated.",
+    "No se observaron las otras condiciones coincidentes en dos niveles de gravedad. La generalización conjunta no está validada."
+  ],
+  [
+    "Markers show only source observations matching the current non-gravity inputs; repeated values at one gravity may overlap.",
+    "Los marcadores solo muestran mediciones que coinciden con las condiciones actuales salvo la gravedad; los valores repetidos pueden superponerse."
+  ],
+  [
+    "No observations exactly match these other input conditions. The curve is a model estimate, not a measured or validated gravity response.",
+    "Ninguna medición coincide exactamente con estas otras condiciones. La curva es una estimación del modelo, no una respuesta medida o validada."
+  ],
+  [
+    "Compatible sustaining-oxygen threshold observations are unavailable.",
+    "No hay mediciones compatibles del umbral de oxígeno para sostener la llama."
+  ],
+  [
+    "Scientific service unavailable",
+    "Servicio científico no disponible"
+  ],
+  [
+    "Scientific request failed",
+    "La consulta científica falló"
+  ],
+  [
+    "Gravity curve unavailable",
+    "Curva de gravedad no disponible"
+  ],
+  [
+    "Could not load observed evidence",
+    "No se pudieron cargar las mediciones"
+  ],
+  [
+    "Observation dataset unavailable",
+    "Conjunto de observaciones no disponible"
+  ],
+  [
+    "Research assistant unavailable",
+    "Asistente de investigación no disponible"
+  ],
+  [
+    "Downloading…",
+    "Descargando…"
+  ],
+  [
+    "Download observations JSON",
+    "Descargar observaciones JSON"
+  ],
+  [
+    "Scenario",
+    "Escenario"
+  ],
+  [
+    "Pick a habitat and adjust oxygen, pressure, ventilation and gravity.",
+    "Elige un hábitat y ajusta oxígeno, presión, ventilación y gravedad."
+  ],
+  [
+    "Habitat selector",
+    "Selector de hábitat"
+  ],
+  [
+    "Atmosphere editor",
+    "Editor de atmósfera"
+  ],
+  [
+    "Ranking & alerts",
+    "Ranking y alertas"
+  ],
+  [
+    "Find NASA investigations relevant to your cabin and inspect evidence gaps.",
+    "Qué investigaciones de la NASA aplican a tu cabina y qué debería preocuparte."
+  ],
+  [
+    "Physical alerts",
+    "Alertas físicas"
+  ],
+  [
+    "Evidence analysis",
+    "Mapa de peligro"
+  ],
+  [
+    "Investigation comparison",
+    "Comparador de investigaciones"
+  ],
+  [
+    "Predict & ask",
+    "Predecir y preguntar"
+  ],
+  [
+    "Go beyond what was tested: estimate properties, download data and ask Copilot.",
+    "Ve más allá de lo probado: predice, descarga datos y pregunta al Copilot."
+  ],
+  [
+    "Partial-gravity prediction",
+    "Predicción de gravedad parcial"
+  ],
+  [
+    "Observation data in JSON",
+    "Datos limpios en CSV"
+  ],
+  [
+    "Copilot with citations",
+    "Copilot con citas"
+  ],
+  [
+    "Oxygen match",
+    "Coincidencia O₂"
+  ],
+  [
+    "Airflow match",
+    "Coincidencia flujo"
+  ],
+  [
+    "Pressure match",
+    "Coincidencia presión"
+  ],
+  [
+    "Gravity match",
+    "Coincidencia gravedad"
+  ],
+  [
+    "Total relevance",
+    "Relevancia total"
+  ],
+  [
+    "Prevention",
+    "prevencion"
+  ],
+  [
+    "Detection",
+    "deteccion"
+  ],
+  [
+    "Suppression",
+    "supresion"
+  ],
+  [
+    "Microgravity",
+    "Microgravedad"
+  ],
+  [
+    "Solid",
+    "solido"
+  ],
+  [
+    "Liquid",
+    "liquido"
+  ],
+  [
+    "Gas",
+    "gas"
+  ],
+  [
+    "NASA investigations ranked",
+    "Investigaciones NASA Ranked"
+  ],
+  [
+    "Experiment",
+    "Experimento"
+  ],
+  [
+    "Materials",
+    "Materiales"
+  ],
+  [
+    "Temperature (K)",
+    "Temperatura (K)"
+  ],
+  [
+    "Test whether materials burn as readily or more readily in microgravity with suitable ventilation; study combustion and extinction; inform suppression strategies.",
+    "Comprobar si los materiales arden igual o mejor en microgravedad con ventilación adecuada; estudiar combustión y extinción; orientar estrategias de extinción."
+  ],
+  [
+    "Find the minimum oxygen concentration or airflow needed to sustain material combustion, and compare these with upward flame-spread limits on Earth to inform material selection.",
+    "Hallar el O2 mínimo o la velocidad de flujo mínima para que un material arda, y compararlos con los límites de propagación ascendente en la Tierra, para guiar la selección de materiales."
+  ],
+  [
+    "Materials can burn at lower oxygen concentrations in microgravity than in normal gravity.",
+    "Los materiales pueden arder con menor concentración de O2 en microgravedad que en gravedad normal."
+  ],
+  [
+    "PMMA rods sustained flames at 17% oxygen in microgravity versus 18% at 1 g, with faster flame spread.",
+    "En varillas de PMMA la llama se sostuvo con 17% de O2 en microgravedad frente a 18% en 1 g, y se propago más rápido."
+  ],
+  [
+    "Flames always extinguished when the fan stopped in these tests; stopping ventilation is a useful first response on the ISS.",
+    "Las llamas siempre se apagaron al detener el ventilador: cortar la ventilación es una buena primera defensa en la ISS."
+  ],
+  [
+    "At high airflow the flame blows off; at very low airflow (<1 cm/s) a faint, blue, steady flame can persist.",
+    "A alta velocidad la llama se desprende (blowoff); a muy baja (<1 cm/s) puede sostenerse azul, tenue y estable."
+  ],
+  [
+    "Most tests released less than 100 W.",
+    "La mayoría de los ensayos libero menos de 100 W."
+  ],
+  [
+    "Models overestimate flame-spread rates.",
+    "Los modelos sobreestiman las velocidades de propagación."
+  ],
+  [
+    "Investigate large-scale flame growth and material flammability limits in space.",
+    "Investigar el crecimiento de llama a gran escala y los límites de inflamabilidad de materiales en el espacio."
+  ],
+  [
+    "Once a flame reaches its limiting size, downstream flames are inhibited or extinguished by the upstream flame's oxygen shadow.",
+    "Cuando la llama alcanza su tamaño límite, las llamas aguas abajo se inhiben o apagan por la 'sombra de oxígeno' de la llama aguas arriba."
+  ],
+  [
+    "In concurrent flow at 20 cm/s over a large SIBAL sample (40.6 × 94 cm), mean flame-spread rate was 1.8 mm/s, estimated heat release was 1200 ± 300 W and burning lasted 420 s.",
+    "En el ensayo concurrente con la muestra grande de SIBAL (40,6 x 94 cm) a 20 cm/s, la llama avanzó en promedio 1,8 mm/s, con una potencia estimada de 1200 ± 300 W y 420 s de combustión."
+  ],
+  [
+    "The flame extinguished immediately when airflow stopped at the end of the allotted test time.",
+    "Al apagarse el flujo de aire al final del tiempo asignado, la llama se extinguió de inmediato."
+  ],
+  [
+    "Opposed-flow spread was slower than concurrent-flow spread: 1.3 versus 1.8 mm/s, with flame lengths of about 24 versus 40 mm.",
+    "En flujo opuesto la llama avanzó más lento que en flujo concurrente: 1,3 mm/s frente a 1,8 mm/s, con una longitud de llama de unos 24 mm frente a unos 40 mm."
+  ],
+  [
+    "Unlike at 1 g, a steady concurrent-flow flame was achieved even over a wide sample. Spread was slower than in previous smaller ducts, demonstrating the importance of confinement.",
+    "A diferencia de lo que ocurre en 1 g, se logró una llama estable incluso en una muestra ancha en flujo concurrente; las llamas avanzaron más lento que en ensayos previos en ductos más pequeños, lo que muestra la importancia de los espacios confinados."
+  ],
+  [
+    "Extend Saffire-I data to additional materials.",
+    "Ampliar los datos de Saffire-I con nuevos materiales."
+  ],
+  [
+    "No silicone sample burned in microgravity, although the thinnest sample is consumed completely in upward flame-spread tests at 1 g.",
+    "Ninguna de las muestras de silicona ardió en microgravedad, aunque la más delgada se consume por completo en los ensayos de propagación ascendente en 1 g."
+  ],
+  [
+    "Nomex, a common ISS fabric qualified as safe, did not ignite even when exposed to the pilot flame from a PMMA sample.",
+    "El Nomex, un tejido común en la ISS calificado como seguro, no se encendió ni siquiera bañado por la llama piloto de una muestra de PMMA."
+  ],
+  [
+    "For 5 cm-wide SIBAL samples, spread rates were 2.1 mm/s at 20 cm/s airflow and 2.6 mm/s at 25 cm/s.",
+    "Con muestras de SIBAL de 5 cm de ancho, la llama avanzó 2,1 mm/s a 20 cm/s y 2,6 mm/s a 25 cm/s."
+  ],
+  [
+    "Repeat the Saffire-I material test with higher airflow.",
+    "Repetir el material de Saffire-I con mayor velocidad de flujo."
+  ],
+  [
+    "Compare Saffire-II materials under other conditions and measure fire impacts on the spacecraft: gases, smoke and temperature.",
+    "Comparar los materiales de Saffire-II en otras condiciones y medir el impacto del fuego sobre la nave (gases, humo, temperatura)."
+  ],
+  [
+    "Duct size and flow development affect flame-spread rate and pyrolysis length.",
+    "El tamaño del ducto y el desarrollo del flujo afectan la velocidad de propagación y la longitud de pirólisis."
+  ],
+  [
+    "Despite heat release up to 10 kW, average spacecraft conditions did not reach unacceptable levels.",
+    "Pese a liberaciones de calor de hasta 10 kW, las condiciones promedio de la nave no llegaron a niveles inaceptables."
+  ],
+  [
+    "Examine fire growth at pressures and oxygen concentrations expected in future exploration spacecraft.",
+    "Examinar el crecimiento del fuego a las presiones y concentraciones de oxígeno esperadas en futuras naves de exploración."
+  ],
+  [
+    "At elevated oxygen concentrations, a thin charring fuel cannot be assumed to extinguish quickly when airflow stops.",
+    "Con O2 elevado no se puede asumir que un combustible delgado que carboniza se apague rápido al cortar el flujo."
+  ],
+  [
+    "Spacecraft CO2 and CO increases were more significant than temperature and pressure increases.",
+    "El aumento de CO2 y CO en la nave fue más significativo que el de temperatura y presión."
+  ],
+  [
+    "Test flammability at different oxygen levels and demonstrate fire detection, combustion-product monitoring and post-fire cleanup.",
+    "Probar la inflamabilidad a distintos niveles de oxígeno y demostrar detección de incendios, monitoreo de productos de combustión y limpieza posterior."
+  ],
+  [
+    "Fires of 1.5–3.2 kW in uncrewed spacecraft of 17–19 m³ caused major temperature increases only near the fire, but large cabin CO and CO2 increases. PMMA tests exceeded the one-hour CO2 and 24-hour CO limits.",
+    "Incendios de 1,5 a 3,2 kW en naves sin tripulación de 17 a 19 m³: la temperatura solo subió de forma importante muy cerca del fuego, pero el CO y el CO2 del ambiente subieron mucho, y en los ensayos con PMMA superaron el límite de CO2 para 1 hora y el de CO para 24 horas."
+  ],
+  [
+    "Smoke was detected by ionization and light-scattering instruments, but a typical alarm threshold was not reached until 981 s, after most hazardous gas release had occurred.",
+    "El humo fue detectado por un detector de ionización y por un sistema de dispersión de luz, pero un umbral de alarma típico solo se alcanzó a los 981 s, cuando ya había ocurrido la mayor parte de la liberación de gases peligrosos."
+  ],
+  [
+    "As in terrestrial fires, the main crew hazard is smoke and combustion gases rather than heat.",
+    "Como en los incendios terrestres, el principal peligro para la tripulación no es el calor sino el humo y los gases de combustión."
+  ],
+  [
+    "Flames spread over SIBAL faster in Saffire VI than in Saffire IV, although an earlier model predicted the opposite because of the lower oxygen partial pressure.",
+    "La llama sobre SIBAL avanzó más rápido en Saffire VI que en Saffire IV, aunque un modelo previo predecía lo contrario por la menor presión parcial de oxígeno."
+  ],
+  [
+    "Measure spacecraft-material smoke particle sizes and distributions in microgravity and evaluate ionization (Shuttle) and photoelectric (ISS) detectors.",
+    "Medir tamaño y distribución de partículas de humo de materiales de nave en microgravedad y evaluar detectores por ionización (Shuttle) y fotoelectricos (ISS)."
+  ],
+  [
+    "Arithmetic mean diameters ranged from 100 to 200 nm.",
+    "Los diámetros medios aritméticos estuvieron en el rango de 100 a 200 nm."
+  ],
+  [
+    "Silicone rubber had a mean diameter of 227 nm, but almost half its particle mass was in particles larger than 1000 nm.",
+    "Goma de silicona: diámetro medio de 227 nm, pero casi la mitad de la masa en partículas mayores de 1000 nm."
+  ],
+  [
+    "Particle number decreases strongly during aging while mass stays constant, indicating coagulation.",
+    "Al envejecer, baja mucho el número de partículas y la masa se mantiene: coagulación."
+  ],
+  [
+    "All samples produced many submicron particles, which ionization detects more effectively; light scattering performed well in most cases.",
+    "Todas las muestras generaron muchas partículas submicrónicas, que un detector por ionización capta mejor; el de dispersión de luz funciono bien en la mayoría de los casos."
+  ],
+  [
+    "Repeat SAME to analyze particle-size distributions, compare flight and ground tests, and evaluate ISS and Shuttle detectors.",
+    "Repetir SAME para analizar distribuciones de tamaño de partículas y comparar vuelo con ensayos en tierra; evaluar detectores de ISS y Shuttle."
+  ],
+  [
+    "The Shuttle ionization detector rejected particles larger than 1–2 µm; the ISS near-infrared scattering detector is more sensitive to particles larger than 1 µm.",
+    "El detector del Shuttle (ionización) descartaba partículas mayores de 1-2 um; el de la ISS (dispersión en infrarrojo cercano) es más sensible a partículas mayores de 1 um."
+  ],
+  [
+    "Characterize airborne ISS particles to assess smoke-detector suitability and test the P-Trak counter before its use in SAME.",
+    "Caracterizar las partículas en el aire de la ISS para juzgar si los detectores de humo son adecuados, y probar el contador P-Trak antes de usarlo en SAME."
+  ],
+  [
+    "ISS particle levels were low compared with the Shuttle.",
+    "Los niveles de partículas en la ISS fueron bajos comparados con el Shuttle."
+  ],
+  [
+    "Mean particle size in orbit was larger than on Earth.",
+    "El tamaño medio de partícula en órbita fue mayor que en la Tierra."
+  ],
+  [
+    "Quantify inert gaseous suppressant effectiveness in microgravity, determine a conservative limiting oxygen index and map liquid-fuel flammability limits.",
+    "Cuantificar la eficacia de supresores gaseosos inertes en microgravedad, obtener un índice límite de oxígeno (LOI) conservador y mapear los límites de inflamabilidad de combustibles líquidos."
+  ],
+  [
+    "Limiting oxygen indices in O2/N2 mixtures were 0.12 for methanol and 0.15 for heptane.",
+    "LOI en mezclas O2/N2: 0,12 para metanol y 0,15 para heptano."
+  ],
+  [
+    "Cool flames were discovered: large heptane droplets continued burning after the visible flame extinguished.",
+    "Descubrimiento de las llamas frías: tras apagarse la llama visible, las gotas grandes de heptano siguieron quemándose."
+  ],
+  [
+    "As ambient oxygen decreases, the diffusive extinction diameter increases and the radiative extinction diameter decreases.",
+    "Al bajar el O2 ambiente, crece el diámetro de extinción difusiva y disminuye el de extinción radiativa."
+  ],
+  [
+    "Study slow convective-flow effects on burning rate, interactions with a second droplet and practical fuels; verify droplet-combustion models.",
+    "Estudiar el efecto de flujos convectivos lentos en la tasa de quemado, la influencia de una segunda gota y combustibles prácticos; verificar modelos de combustión de gotas."
+  ],
+  [
+    "Study low-temperature combustion (cool flames) of liquid-fuel droplets.",
+    "Estudiar la combustión a baja temperatura (llamas frías) de gotas de combustible líquido."
+  ],
+  [
+    "The hot flame oscillates and extinguishes; the droplet continues to be consumed by an almost invisible cool flame, leaving an unburned vapor cloud.",
+    "La llama caliente oscila y se apaga; la gota sigue consumiéndose con una llama fría casi invisible, dejando una nube de vapor sin quemar."
+  ],
+  [
+    "Understand material ignition and extinction and assess flammability test methods for low and partial gravity.",
+    "Entender la ignición y extinción de materiales y evaluar métodos de ensayo de inflamabilidad para baja gravedad y gravedad parcial."
+  ],
+  [
+    "All flames at 21% oxygen self-extinguished within 40 s; steady flames were observed at 26.5%, 34% and 40% oxygen.",
+    "Todas las llamas en 21% de O2 se autoextinguieron en menos de 40 s; con 26,5%, 34% y 40% de O2 se observaron llamas estables."
+  ],
+  [
+    "Time to extinction scales with the cube of oxygen fraction and is independent of pressure, highlighting the risk of oxygen-enriched atmospheres.",
+    "El tiempo hasta la extinción escala con el cubo de la fracción de O2 y no depende de la presión: evidencia del riesgo de atmósferas enriquecidas en oxígeno."
+  ],
+  [
+    "Observe steady or nearly steady spherical diffusion cool flames and improve cool-flame kinetic models.",
+    "Observar llamas frías de difusión esféricas, estables o cuasi estables, y mejorar los modelos cinéticos de llama fría."
+  ],
+  [
+    "Extend predictive modeling to heavily sooting flames and highly diluted flames near extinction.",
+    "Extender el modelado predictivo a llamas con mucho hollín y a llamas muy diluidas cerca de la extinción."
+  ],
+  [
+    "Sooting flames in microgravity are taller, wider and cooler than at 1 g; soot fractions are five to eight times higher.",
+    "Las llamas con hollín en microgravedad son más altas, anchas y frías que en 1 g; la fracción de hollín es de cinco a ocho veces mayor."
+  ],
+  [
+    "Highly diluted flames are more stable in microgravity.",
+    "Las llamas muy diluidas son más estables en microgravedad."
+  ],
+  [
+    "Understand flame ion production and use electric fields to control nonpremixed flames.",
+    "Entender la producción de iones en las llamas y usar campos electricos para controlar llamas no premezcladas."
+  ],
+  [
+    "Understand soot inception and extinction limits to design robust, soot-free flames.",
+    "Entender el inicio del hollín y los límites de extinción para diseñar llamas robustas y sin hollín."
+  ],
+  [
+    "Predict the structure, dynamics and extinction of sooting and non-sooting flames and identify pulsating instabilities.",
+    "Predecir la estructura, la dinámica y la extinción de llamas con y sin hollín, e identificar inestabilidades pulsantes."
+  ],
+  [
+    "Determine the laminar smoke point—the largest diffusion flame that does not emit soot—for different fuels, nozzles and coflows.",
+    "Determinar el punto de humo laminar (la mayor llama de difusión que no emite hollín) para varios combustibles, boquillas y co-flujos."
+  ],
+  [
+    "A total of 250 combustion tests were completed and more than 70 smoke points identified.",
+    "Se completaron 250 ensayos de combustión y se identificaron más de 70 puntos de humo."
+  ],
+  [
+    "Characterize flame-base structure from attached to lifted flames and identify liftoff velocity limits.",
+    "Caracterizar la estructura de la base de la llama, de adherida a despegada, e identificar los límites de velocidad de despegue."
+  ],
+  [
+    "The flame anchoring point controls the stability of the downstream diffusion flame.",
+    "El punto de anclaje de la llama controla la estabilidad de la llama de difusión que le sigue."
+  ],
+  [
+    "Study solid-fuel ignition, flame spread and extinction, and correlate 1 g flammability tests with ventilated microgravity data.",
+    "Estudiar ignición, propagación y extinción sobre sólidos y correlacionar los ensayos de inflamabilidad en 1 g con datos de microgravedad ventilada."
+  ],
+  [
+    "In a quiescent 30% oxygen atmosphere, flames spread faster over thinner acrylic sheets. Sheets thicker than 0.1 mm extinguished before reaching the sample end.",
+    "En ambiente quieto con 30 % de O2, la llama avanzó más rápido sobre láminas de acrílico más delgadas, y con espesores mayores a 0,1 mm se apagó antes de llegar al final de la muestra."
+  ],
+  [
+    "Near extinction, oscillating and pulsating flames with reignitions sometimes persisted for several minutes—a concern because flames can last a long time even without ventilation.",
+    "Cerca de la extinción aparecieron llamas oscilantes y pulsantes, con re-igniciones, que a veces persistieron varios minutos antes de apagarse: un riesgo porque las llamas pueden durar mucho incluso sin ventilación."
+  ],
+  [
+    "Maximum gas temperatures were similar at 0.5 and 1 atm (1050–1200 °C), but radiative heat flux at 0.5 atm was about half that at 1 atm.",
+    "La temperatura máxima del gas fue similar a 0,5 y a 1 atm (entre 1050 y 1200 °C), pero el flujo de calor radiativo a 0,5 atm fue aproximadamente la mitad que a 1 atm."
+  ],
+  [
+    "Tests confirmed theoretical radiative-loss extinction predictions: at 30% oxygen, extinction was expected near 0.1 mm thickness at 1 atm and 0.06 mm at 0.5 atm. Only thinner fuels burned to the sample end.",
+    "Los ensayos confirmaron la predicción teórica de extinción por pérdidas radiativas: con 30 % de O2 se esperaba extinción para espesores de unos 0,1 mm a 1 atm y unos 0,06 mm a 0,5 atm, y solo los combustibles más delgados ardieron hasta el final."
+  ],
+  [
+    "Develop a method to correlate normal-gravity and microgravity flammability limits and propose a new material-screening test.",
+    "Desarrollar un método para correlacionar los límites de inflamabilidad en gravedad normal y en microgravedad, y proponer un nuevo ensayo de selección de materiales."
+  ],
+  [
+    "Make the first observations of flame spread on the Moon and test whether materials burn more readily in partial gravity than at 1 g.",
+    "Hacer las primeras observaciones de propagación de llama en la Luna y comprobar si los materiales arden más fácilmente en gravedad parcial que en 1 g."
+  ],
+  [
+    "Lunar-gravity combustion research. The challenge statement only indicates that its data will be added to PSI in the future.",
+    "Investigación de combustión en gravedad lunar. El enunciado solo indica que sus datos se agregarán a PSI en el futuro."
+  ],
+  [
+    "Study how nearby walls change solid-fuel flame spread in microgravity under concurrent and opposed flow.",
+    "Estudiar cómo el confinamiento (paredes cercanas) cambia la propagación de llama sobre sólidos en microgravedad, en flujo concurrente y opuesto."
+  ],
+  [
+    "Concurrent-flow SIBAL flames have a minimum baffle spacing of about 1 cm below which spread stops because of oxygen starvation and wall heat loss.",
+    "En flujo concurrente sobre SIBAL existe una distancia mínima entre deflectores (cerca de 1 cm) bajo la cual la llama no avanza, por falta de oxígeno y pérdida de calor hacia las paredes."
+  ],
+  [
+    "Confinement has a nonmonotonic effect in concurrent flow: the longest, fastest flames occurred at 4.0 cm baffle spacing; tighter confinement weakened flames.",
+    "El confinamiento tiene un efecto no monótono en flujo concurrente: la llama más larga y rápida se dio con una distancia de 4,0 cm entre deflectores; con más confinamiento la llama se debilita."
+  ],
+  [
+    "Polished aluminum baffles produced the strongest flames and transparent polycarbonate the weakest because wall radiation changes heat input.",
+    "Los deflectores de aluminio pulido dieron las llamas más fuertes y los de policarbonato transparente las más débiles, porque la radiación de las paredes cambia el aporte de calor."
+  ],
+  [
+    "Confinement can increase or decrease solid-fuel flammability depending on conditions. Two parallel PMMA samples produced twin flames with the greatest length and burning rate among the tested scenarios.",
+    "El confinamiento puede aumentar o disminuir la inflamabilidad de un sólido según las condiciones; dos muestras de PMMA paralelas forman llamas gemelas con la mayor longitud y tasa de combustión de los escenarios probados."
+  ],
+  [
+    "At the same baffle spacing, one-sided PMMA flames spread at slightly less than half the speed of two-sided flames.",
+    "Con la misma distancia a los deflectores, una llama que arde por una sola cara del PMMA avanza a poco menos de la mitad de la velocidad de una que arde por ambas caras."
+  ],
+  [
+    "In opposed flow, spread decreases with tighter confinement, and optimum airflow falls to about 8.8 cm/s at 1 cm baffle spacing versus 15 cm/s in the 3.8 cm-high BASS duct.",
+    "En flujo opuesto, la propagación disminuye al aumentar el confinamiento, y la velocidad de flujo óptima baja a unos 8,8 cm/s con deflectores a 1 cm, frente a 15 cm/s en el ducto de BASS (3,8 cm de alto)."
+  ],
+  [
+    "In opposed flow, black baffles produced SIBAL flames 12% faster than transparent baffles; reflective baffles produced PMMA flames about 40% faster than black baffles.",
+    "En flujo opuesto, los deflectores negros dieron llamas sobre SIBAL un 12 % más rápidas que los transparentes, y en PMMA los reflectantes dieron llamas unos 40 % más rápidas que los negros."
+  ],
+  [
+    "Study flame spread over thermally thin filter paper in microgravity, particularly at very low flow near the flammability limit.",
+    "Estudiar la propagación de llama sobre papel filtro térmicamente delgado en microgravedad, especialmente a muy bajo flujo cerca del límite de inflamabilidad."
+  ],
+  [
+    "Two spread modes were observed: the conventional two-dimensional flame and small zigzagging flamelets, especially at very low flow near the flammability limit.",
+    "Se observaron dos modos de propagación: la llama bidimensional convencional y un modo de pequeñas llamas que avanzan en zigzag (flamelet), sobre todo con flujo muy bajo cerca del límite de inflamabilidad."
+  ],
+  [
+    "Flames spread below the limiting oxygen concentration predicted by the conventional two-dimensional model, suggesting that criterion can underestimate microgravity flammability.",
+    "La llama avanzó incluso por debajo de la concentración límite de oxígeno que predice el modelo bidimensional convencional, lo que sugiere que ese criterio puede subestimar la inflamabilidad en microgravedad."
+  ],
+  [
+    "Two-dimensional flames typically spread at 1.0–1.5 mm/s with opposed flows above about 10–15 cm/s; flamelet spread was below 1 mm/s.",
+    "La llama bidimensional avanzó típicamente entre 1,0 y 1,5 mm/s con flujos opuestos sobre unos 10-15 cm/s, mientras que el modo flamelet avanzó a menos de 1 mm/s."
+  ],
+  [
+    "Determine whether concurrent-flow flames over wire insulation can achieve steady spread in microgravity.",
+    "Determinar si una llama que avanza sobre el aislamiento de un cable en flujo concurrente puede alcanzar una propagación estable en microgravedad."
+  ],
+  [
+    "Microgravity wire-insulation flames achieved steady spread even in concurrent flow; upward flames at 1 g did not reach a steady state under the tested conditions.",
+    "En microgravedad, la llama sobre el aislamiento del cable alcanzó una propagación estable incluso en flujo concurrente; en 1 g, con propagación ascendente, no llegó a un estado estable en las condiciones probadas."
+  ],
+  [
+    "Spread increased from 1 to 1.5 mm/s as concurrent airflow increased from 6 to 20 cm/s, and was about 0.5 mm/s faster on copper than nickel-chromium wires at 10 cm/s and 18% oxygen.",
+    "La velocidad de propagación aumentó entre 1 y 1,5 mm/s al subir el flujo concurrente de 6 a 20 cm/s, y fue unos 0,5 mm/s mayor en cables de cobre que en cables de níquel-cromo (con 10 cm/s y 18 % de O2)."
+  ],
+  [
+    "Study flame spread over thin cellulosic fuel in quiescent microgravity and compare it with normal gravity.",
+    "Estudiar la propagación de llama sobre un combustible celulósico delgado en microgravedad quieta y compararla con gravedad normal."
+  ],
+  [
+    "At lower oxygen, buoyant flow at 1 g accelerates flames relative to microgravity and sustains combustion in atmospheres where quiescent microgravity flames extinguish. At high oxygen, gravity becomes less important.",
+    "Con menos oxígeno, el flujo por flotabilidad en 1 g acelera la llama respecto de microgravedad y la mantiene encendida en atmósferas donde en microgravedad quieta se apaga; con mucho oxígeno, la gravedad deja de ser importante."
+  ],
+  [
+    "Each fuel thickness had a different extinction limit in microgravity; at 1 g the limit was independent of thickness.",
+    "En microgravedad hubo un límite de extinción distinto para cada espesor de combustible, mientras que en 1 g el límite no dependió del espesor."
+  ],
+  [
+    "Extinction mechanisms change with gravity: excessive heat loss in microgravity and blowoff at 1 g.",
+    "El mecanismo de extinción cambia con la gravedad: en microgravedad la llama se apaga por pérdidas térmicas excesivas, y en 1 g por desprendimiento (blowoff)."
+  ],
+  [
+    "Compare opposed-flow flame spread over thin PMMA rods in normal gravity and microgravity.",
+    "Comparar la propagación de llama opuesta sobre varillas delgadas de PMMA en gravedad normal y en microgravedad."
+  ],
+  [
+    "At 21% and 23% oxygen, flames spread faster in microgravity than at 1 g for both diameters and all flows because the preheating zone was longer.",
+    "Con 21 % y 23 % de O2, la llama avanzó más rápido en microgravedad que en 1 g para ambos diámetros y todos los flujos, porque la zona de precalentamiento es más larga."
+  ],
+  [
+    "Spread decreased as opposed airflow increased in both gravity conditions, with a steeper decline in microgravity.",
+    "La velocidad de propagación disminuyó al aumentar el flujo opuesto en ambas gravedades, y la caída fue más pronunciada en microgravedad."
+  ],
+  [
+    "Microgravity flames took a mushroom shape with distorted leading edges caused by fuel jets from bursting bubbles in the solid.",
+    "En microgravedad la llama tomó forma de hongo con el borde de ataque distorsionado, por chorros de combustible que salen de burbujas que revientan en el sólido."
+  ],
+  [
+    "0.5 to 3.0 atm. Source: PSI record (PSI-68).",
+    "0,5 a 3,0 atm. Fuente: ficha de PSI (PSI-68)."
+  ],
+  [
+    "0.5 and 1 atm in RTDFS tests (Carmignani et al. 2026, p. 1).",
+    "0,5 y 1 atm en los ensayos RTDFS (Carmignani et al. 2026, pág. 1)."
+  ],
+  [
+    "1 atm (101.3 kPa) reported in Nagachi et al. 2018, p. 7.",
+    "1 atm (101.3 kPa) reportado en Nagachi et al. 2018, p.7."
+  ],
+  [
+    "1 atm (Manu and Kumar, p. 1).",
+    "1 atm (Manu y Kumar, pág. 1)."
+  ],
+  [
+    "1 atm (Olson 1987, p. 50).",
+    "1 atm (Olson 1987, pág. 50)."
+  ],
+  [
+    "Nominal 1 atm in MSG (ISS).",
+    "1 atm nominal en MSG (ISS)."
+  ],
+  [
+    "1 atm according to Han et al. 2026, Table 1, p. 2.",
+    "1 atm según Han et al. 2026, tabla 1, pág. 2."
+  ],
+  [
+    "100 samples. Sheets 10 × 1–2 cm, 1–5 mm thick; PMMA rods 6.3 / 9.5 / 12.7 mm in diameter; spherical section.",
+    "100 muestras. Láminas de 10 cm x 1-2 cm, espesores 1-5 mm; varillas de PMMA de 6,3 / 9,5 / 12,7 mm de diámetro; sección de esfera."
+  ],
+  [
+    "101.3 kPa in MSG.",
+    "101.3 kPa en MSG."
+  ],
+  [
+    "101.3 kPa in the ISS cabin.",
+    "101.3 kPa en cabina ISS."
+  ],
+  [
+    "101.3 kPa in the CIR chamber.",
+    "101.3 kPa en cámara CIR."
+  ],
+  [
+    "Nominal 101.3 kPa in Kibo.",
+    "101.3 kPa nominal en Kibo."
+  ],
+  [
+    "Nominal 101.3 kPa in the CIR chamber.",
+    "101.3 kPa nominal en cámara CIR."
+  ],
+  [
+    "20 cm/s for all samples except 2-6 (25 cm/s), according to Ferkul et al. 2017, p. 9, and Han et al. 2026, p. 2. PSI-99 lists 20 or 30 cm/s: the sources disagree.",
+    "20 cm/s en todas las muestras salvo la 2-6 (25 cm/s), según Ferkul et al. 2017, pág. 9, y Han et al. 2026, pág. 2. La ficha de PSI (PSI-99) indica 20 o 30 cm/s: hay una discrepancia entre fuentes."
+  ],
+  [
+    "21%, 23% and 40% in both gravities (Manu and Kumar, p. 8).",
+    "21 %, 23 % y 40 % en ambas gravedades (Manu y Kumar, pág. 8)."
+  ],
+  [
+    "30 cm/s versus 20 cm/s in Saffire-I. Source: PSI-100. Han et al. 2026 (Table 1, p. 2) lists 25 cm/s: the sources disagree.",
+    "30 cm/s, frente a 20 cm/s en Saffire-I. Fuente: ficha de PSI (PSI-100). Han et al. 2026 (tabla 1, pág. 2) indica 25 cm/s: hay una discrepancia entre fuentes."
+  ],
+  [
+    "30 samples (six per material) overheated to produce smoke without flames.",
+    "30 muestras (seis por material) sobrecalentadas para generar humo, sin llama."
+  ],
+  [
+    "41 samples. Thin sheets 12 × 1–2 cm; thick sheets 5 × 1 cm and 1–2 mm thick; PMMA spheres 1 and 2 cm; candles 6 × 25 mm.",
+    "41 muestras. Láminas delgadas 12 cm x 1-2 cm; láminas gruesas 5 x 1 cm, 1-2 mm de espesor; esferas de PMMA de 1 y 2 cm; velas de 6 mm x 25 mm."
+  ],
+  [
+    "ISS air (21%) diluted with N2 to 17% in MSG (ISS Guide pp. 19–20).",
+    "Aire ISS (21%) diluido con N2 hasta 17% en MSG (ISS Guide p.19-20)."
+  ],
+  [
+    "ISS cabin air in MSG.",
+    "Aire de cabina ISS en MSG."
+  ],
+  [
+    "ISS cabin air and O2/N2 mixtures in the MSG duct (Li et al. 2020; Sharma et al. 2024).",
+    "Aire de cabina ISS y mezclas O2/N2 en ducto MSG (Li et al. 2020; Sharma et al. 2024)."
+  ],
+  [
+    "Habitable ISS cabin air.",
+    "Aire de cabina habitable ISS."
+  ],
+  [
+    "Standard ISS air inside MSG.",
+    "Aire estándar ISS dentro de MSG."
+  ],
+  [
+    "Quiescent atmosphere (Olson 1987, p. 50).",
+    "Ambiente quieto (Olson 1987, pág. 50)."
+  ],
+  [
+    "Quiescent atmosphere, no external flow, in RTDFS tests (Carmignani et al. 2026, p. 1).",
+    "Ambiente quieto, sin flujo externo, en los ensayos RTDFS (Carmignani et al. 2026, pág. 1)."
+  ],
+  [
+    "Quiescent atmosphere.",
+    "Ambiente quieto."
+  ],
+  [
+    "Oxygen-enriched atmosphere in CIR.",
+    "Atmósfera enriquecida en O2 en CIR."
+  ],
+  [
+    "Planned lunar atmosphere (30% oxygen or more).",
+    "Atmósfera lunar prevista (30% O2 o más)."
+  ],
+  [
+    "Quiescent atmosphere.",
+    "Atmósfera quieta."
+  ],
+  [
+    "Atmospheres considered for crewed missions in PSI-20: 14.7 psia / 21% O2; 10.2 psia / 26.5%; and 8.2 psia / 34%.",
+    "Atmósferas consideradas para misiones tripuladas según la ficha de PSI (PSI-20): 14,7 psia con 21 % de O2; 10,2 psia con 26,5 %; y 8,2 psia con 34 %."
+  ],
+  [
+    "Parabolic-flight aircraft",
+    "Avión de vuelos parabólicos"
+  ],
+  [
+    "Distributed CO2/CO",
+    "CO2/CO distribuidos"
+  ],
+  [
+    "ISS cabin",
+    "Cabina de la ISS"
+  ],
+  [
+    "Polyethylene-insulated nickel-chromium or copper wires.",
+    "Cables aislados con polietileno, de núcleo de níquel-cromo o de cobre."
+  ],
+  [
+    "Controlled flow, including no-flow MSG tests.",
+    "Caudal controlado e incluyó ensayos sin flujo en MSG."
+  ],
+  [
+    "Airflow varied in a smoke-aging duct.",
+    "Caudal de aire variado en ducto de envejecimiento de humo."
+  ],
+  [
+    "Five sub-investigations: NCA (flat PMMA sheets), GEL (4–5 cm sphere), MIST (cylinders), RTDFS (thin fuels), SMuRF.",
+    "Cinco sub-investigaciones: NCA (láminas planas de PMMA), GEL (esfera de 4-5 cm), MIST (cilindros), RTDFS (combustibles delgados), SMuRF."
+  ],
+  [
+    "Air coflow in the CIR chamber.",
+    "Co-flujo de aire en cámara CIR."
+  ],
+  [
+    "Air coflow.",
+    "Co-flujo de aire."
+  ],
+  [
+    "Coflow increased in steps until flame liftoff.",
+    "Co-flujo incrementado por pasos hasta el despegue (liftoff) de la llama."
+  ],
+  [
+    "Laminar air coflow.",
+    "Co-flujo laminar de aire."
+  ],
+  [
+    "Initial concentration (ISS reading). Source: Ferkul et al. 2017, p. 14; also Han et al. 2026, Table 1, p. 2.",
+    "Concentración inicial (lectura de la ISS). Fuente: Ferkul et al. 2017, pág. 14; también Han et al. 2026, tabla 1, pág. 2."
+  ],
+  [
+    "Initial concentration (ISS reading). Source: Ferkul et al. 2017, p. 9.",
+    "Concentración inicial (lectura de la ISS). Fuente: Ferkul et al. 2017, pág. 9."
+  ],
+  [
+    "Concurrent flow at 20 cm/s; reduced to 5 cm/s and then stopped in one test.",
+    "Concurrente a 20 cm/s; reducido a 5 cm/s y luego cortado en un ensayo."
+  ],
+  [
+    "Concurrent flow.",
+    "Concurrente."
+  ],
+  [
+    "Concurrent flow; reduced and stopped in one test.",
+    "Concurrente; en un ensayo se redujo y se corto el flujo."
+  ],
+  [
+    "P-Trak ultrafine particle counter",
+    "Contador de partículas ultrafinas P-Trak"
+  ],
+  [
+    "Ambient ISS cabin ventilation currents.",
+    "Corrientes de ventilación ambiental de cabina ISS."
+  ],
+  [
+    "Four samples burned sequentially in a self-contained sealed chamber (28.5 × 28.5 × 38.5 cm, 25 kg).",
+    "Cuatro muestras quemadas una a una en cámara sellada autónoma (28,5 x 28,5 x 38,5 cm, 25 kg)."
+  ],
+  [
+    "Cygnus (after ISS undocking)",
+    "Cygnus (tras desacoplarse de la ISS)"
+  ],
+  [
+    "CIR chamber with inert diluents.",
+    "Cámara CIR con diluyentes inertes."
+  ],
+  [
+    "Self-contained chamber",
+    "Cámara autónoma"
+  ],
+  [
+    "Self-contained sealed lunar chamber.",
+    "Cámara sellada autónoma lunar."
+  ],
+  [
+    "From extinction limits (16.5% at 1 g / 21% at 0 g) to 100% O2 (Olson 1987, Tables A-I–A-IV).",
+    "Desde el límite de extinción (16.5% en 1g / 21% en 0g) hasta 100% O2 (Olson 1987, Tablas A-I a A-IV)."
+  ],
+  [
+    "Flow duct + avionics bay (~0.5 × 1 × 1.3 m)",
+    "Ducto de flujo + bahía de aviónica (~0,5 x 1 x 1,3 m)"
+  ],
+  [
+    "SPICE flow duct",
+    "Ducto de flujo SPICE"
+  ],
+  [
+    "Modified SPICE flow duct (76 × 76 mm)",
+    "Ducto de flujo SPICE modificado (76 x 76 mm)"
+  ],
+  [
+    "Modified SPICE flow duct (76 × 76 mm cross-section)",
+    "Ducto de flujo SPICE modificado (sección de 76 x 76 mm)"
+  ],
+  [
+    "BASS flow duct with adjustable baffles",
+    "Ducto de flujo de BASS con deflectores ajustables"
+  ],
+  [
+    "Completed in initial results: 10–40%.",
+    "Ejecutado en los primeros resultados: 10-40%."
+  ],
+  [
+    "RTDFS acrylic-sheet tests (Carmignani et al. 2026, p. 1). NCA planned 21–85% (NASA Glenn page).",
+    "Ensayos RTDFS sobre láminas de acrílico (Carmignani et al. 2026, pág. 1). La sub-investigación NCA planificaba de 21 % a 85 % (página de NASA Glenn)."
+  ],
+  [
+    "Tests at 18% and 21% O2 on polyethylene-insulated wires (Nagachi et al. 2018, pp. 14–19).",
+    "Ensayos a 18% y 21% O2 sobre cables aislados con polietileno (Nagachi et al. 2018, p.14-19)."
+  ],
+  [
+    "Tests in the Kibo module (JAXA).",
+    "Ensayos en módulo Kibo (JAXA)."
+  ],
+  [
+    "Steps from 40 to <1 cm/s in opposed and concurrent flow (PSI-26 / ISS Guide p. 20).",
+    "Escalones de 40 cm/s a <1 cm/s en flujo opuesto y concurrente (PSI-26 / ISS Guide p.20)."
+  ],
+  [
+    "Concurrent flow 5–25 cm/s (Li et al. 2020, p. 9) and opposed flow 2.6–10.5 cm/s (Sharma et al. 2024, p. 1).",
+    "Flujo concurrente de 5 a 25 cm/s (Li et al. 2020, pág. 9) y opuesto de 2,6 a 10,5 cm/s (Sharma et al. 2024, pág. 1)."
+  ],
+  [
+    "Slow sub-buoyant convection by moving the droplet (0–5 cm/s).",
+    "Flujo convectivo sub-boyante lento trasladando la gota (0-5 cm/s)."
+  ],
+  [
+    "Flow from a porous spherical burner.",
+    "Flujo desde quemador esférico poroso."
+  ],
+  [
+    "External flow of 50–200 mm/s (Nagachi et al. 2018, p. 3).",
+    "Flujo externo de 50 a 200 mm/s (Nagachi et al. 2018, pág. 3)."
+  ],
+  [
+    "Variable forced flow.",
+    "Flujo forzado variable."
+  ],
+  [
+    "Opposed flow from 0 to 25 cm/s (Manu and Kumar, p. 1).",
+    "Flujo opuesto de 0 a 25 cm/s (Manu y Kumar, pág. 1)."
+  ],
+  [
+    "Opposed flow in the two Figure 1A tests (Kobayashi et al. 2026, p. 7).",
+    "Flujo opuesto de los dos ensayos de la figura 1A (Kobayashi et al. 2026, pág. 7)."
+  ],
+  [
+    "Opposed and concurrent flow. Opposed-flow PMMA rods: 0.4–8 cm/s. PSI lists speeds up to 40 cm/s; the 0–55 cm/s range comes from the NTRS report.",
+    "Flujo opuesto y concurrente. Varillas de PMMA en flujo opuesto: 0,4-8 cm/s. La ficha de PSI indica velocidades de hasta 40 cm/s; el rango 0-55 cm/s viene del informe en NTRS."
+  ],
+  [
+    "Radial flow in a spherical burner.",
+    "Flujo radial en quemador esférico."
+  ],
+  [
+    "O2 mole fraction 0.1–0.4. Source: PSI-68.",
+    "Fracción molar de O2 de 0,1 a 0,4. Fuente: ficha de PSI (PSI-68)."
+  ],
+  [
+    "Source: Han et al. 2026, Table 1, p. 2.",
+    "Fuente: Han et al. 2026, tabla 1, pág. 2."
+  ],
+  [
+    "Source: PSI-98 record.",
+    "Fuente: ficha de PSI (PSI-98)."
+  ],
+  [
+    "Isolated droplets, initial diameter 1.5–5 mm.",
+    "Gotas aisladas de 1,5 a 5 mm de diámetro inicial."
+  ],
+  [
+    "Droplets ~2–4 mm on fibers; droplet pairs in a linear array.",
+    "Gotas de ~2-4 mm sobre fibras; pares de gotas en arreglo lineal."
+  ],
+  [
+    "Droplets ~4 mm.",
+    "Gotas de ~4 mm."
+  ],
+  [
+    "SAME hardware",
+    "Hardware SAME"
+  ],
+  [
+    "Up to 85% O2 in O2/N2 mixtures from a spherical burner.",
+    "Hasta 85% de O2 en mezcla O2/N2 desde quemador esférico."
+  ],
+  [
+    "ISS (Expeditions 10–13)",
+    "ISS (Expediciones 10-13)"
+  ],
+  [
+    "ISS (Expedition 15)",
+    "ISS (Expedición 15)"
+  ],
+  [
+    "ISS (Expedition 24)",
+    "ISS (Expedición 24)"
+  ],
+  [
+    "ISS (Kibo module, JAXA)",
+    "ISS (módulo Kibo, JAXA)"
+  ],
+  [
+    "ISS (Japanese Kibo module)",
+    "ISS (módulo japonés Kibo)"
+  ],
+  [
+    "SoFIE insert",
+    "Inserto SoFIE"
+  ],
+  [
+    "ACME chamber insert",
+    "Inserto de cámara ACME"
+  ],
+  [
+    "ACME chamber insert + high-voltage supply",
+    "Inserto de cámara ACME + fuente de alto voltaje"
+  ],
+  [
+    "Jet flames from 0.41, 0.76 and 1.6 mm burners in air coflow.",
+    "Llamas de chorro con quemadores de 0,41 mm, 0,76 mm y 1,6 mm de diámetro, en co-flujo de aire."
+  ],
+  [
+    "Jet flames in air coflow using SPICE nozzles.",
+    "Llamas de chorro en co-flujo de aire con las boquillas de SPICE."
+  ],
+  [
+    "M-pass (replaced one of SAME's commercial instruments)",
+    "M-pass (reemplazó a uno de los equipos comerciales de SAME)"
+  ],
+  [
+    "Samples 3 cm wide and up to 15 cm long.",
+    "Muestras de 3 cm de ancho y hasta 15 cm de largo."
+  ],
+  [
+    "Samples 40 cm wide; SIBAL fabric 50 cm long. Shallower duct than Saffire-I.",
+    "Muestras de 40 cm de ancho; tela SIBAL de 50 cm de largo. Ducto más bajo que en Saffire-I."
+  ],
+  [
+    "Samples 41 cm wide: 50 cm SIBAL; 18 cm PMMA, 1 cm thick (two-sided) or 0.5 cm thick (one-sided); 7 cm Nomex. Duct 45 cm wide and 109 cm long.",
+    "Muestras de 41 cm de ancho: tela SIBAL de 50 cm; PMMA de 1 cm (dos caras) y de 0,5 cm (una cara), de 18 cm; Nomex de 7 cm. Ducto de 45 cm de ancho y 109 cm de largo."
+  ],
+  [
+    "Samples between parallel baffles spaced 1–5 cm apart, made of transparent polycarbonate, black anodized aluminum or polished aluminum.",
+    "Muestras entre dos placas paralelas (deflectores) a distancias de 1 a 5 cm, de policarbonato transparente, aluminio negro anodizado o aluminio pulido."
+  ],
+  [
+    "Overheated samples with repeatable surface temperature.",
+    "Muestras sobrecalentadas con temperatura superficial repetible."
+  ],
+  [
+    "Not applicable.",
+    "No aplica."
+  ],
+  [
+    "Nine 5 × 29 cm samples on one card.",
+    "Nueve muestras de 5 cm x 29 cm en una misma tarjeta."
+  ],
+  [
+    "O2 and CO (CSA-CP)",
+    "O2 y CO (CSA-CP)"
+  ],
+  [
+    "Target: 0.25–5 atm. Approach describes gas mixtures delivered at 0.25–0.5 atm. Source: PSI-39.",
+    "Objetivo: 0,25 a 5 atm. El enfoque describe mezclas de gas entregadas a la cámara entre 0,25 y 0,5 atm. Fuente: ficha de PSI (PSI-39)."
+  ],
+  [
+    "PMMA (acrylic)",
+    "PMMA (acrílico)"
+  ],
+  [
+    "PMMA (1 mm sheets; samples 100 × 22 × 1 mm)",
+    "PMMA (láminas de 1 mm; muestras de 100 x 22 x 1 mm)"
+  ],
+  [
+    "PMMA (acrylic sheets 0.05–1 mm thick)",
+    "PMMA (láminas de acrílico de 0,05 a 1 mm)"
+  ],
+  [
+    "PMMA (rods 0.5 and 1 mm in diameter)",
+    "PMMA (varillas de 0,5 y 1 mm de diámetro)"
+  ],
+  [
+    "PMMA (rods, sheets, plates, sphere)",
+    "PMMA (varillas, láminas, placas, esfera)"
+  ],
+  [
+    "PMMA 0.5 cm thick (one-sided)",
+    "PMMA de 0,5 cm (una cara)"
+  ],
+  [
+    "PMMA 1 cm thick",
+    "PMMA de 1 cm"
+  ],
+  [
+    "PMMA 1 cm thick (two-sided)",
+    "PMMA de 1 cm (dos caras)"
+  ],
+  [
+    "Thin PMMA + Nomex (composite sample)",
+    "PMMA delgado + Nomex (muestra compuesta)"
+  ],
+  [
+    "Structured PMMA",
+    "PMMA estructurado"
+  ],
+  [
+    "Plan: 0.5–1.0 atm. Initial results: 0.7–3.0 atm. PSI lists 0.5–1.5 atm for limiting oxygen index tests.",
+    "Plan: 0,5-1,0 atm. Primeros resultados: 0,7-3,0 atm. La ficha de PSI indica 0,5-1,5 atm para los ensayos de índice límite de oxígeno."
+  ],
+  [
+    "Standard MSG pressure on the ISS (101.3 kPa / 14.7 psi).",
+    "Presión estándar MSG en la ISS (101.3 kPa / 14.7 psi)."
+  ],
+  [
+    "Planned lunar pressure (10.2 psi / 70.3 kPa or less).",
+    "Presión lunar prevista (10.2 psi / 70.3 kPa o menos)."
+  ],
+  [
+    "Nominal MSG operating pressure (1 atm / 101.3 kPa).",
+    "Presión nominal de trabajo en MSG (1 atm / 101.3 kPa)."
+  ],
+  [
+    "SCEM chamber operating pressure in Kibo (101.3 kPa).",
+    "Presión operativa en cámara SCEM del módulo Kibo (101.3 kPa)."
+  ],
+  [
+    "Isolated burner with circular-mesh electrode ~35 or 50 mm downstream; up to ±10 kV.",
+    "Quemador aislado con malla circular como electrodo a ~35 o 50 mm aguas abajo; hasta +/-10 kV."
+  ],
+  [
+    "Coflow burner; lifted flames.",
+    "Quemador de co-flujo; llamas despegadas del quemador."
+  ],
+  [
+    "Porous spherical burner.",
+    "Quemador esférico poroso."
+  ],
+  [
+    "Porous spherical burner; inverse flame: oxidizer exits into a chamber containing N2 and fuel gas.",
+    "Quemador esférico poroso; llama 'invertida': el oxidante sale del quemador hacia una cámara con N2 y gas inflamable."
+  ],
+  [
+    "Spherical burner; normal and inverse flames.",
+    "Quemador esférico; llamas normales e invertidas."
+  ],
+  [
+    "Flat porous burner, 25 and 50 mm in diameter, with two heat-flux sensors and a surface thermocouple.",
+    "Quemador poroso plano de 25 y 50 mm de diámetro, con dos sensores de flujo de calor y termopar de superficie."
+  ],
+  [
+    "CIR-MDCA chamber range.",
+    "Rango cámara CIR-MDCA."
+  ],
+  [
+    "Lunar habitat pressure range.",
+    "Rango de presión de hábitat lunar."
+  ],
+  [
+    "Lunar surface ventilation range.",
+    "Rango de ventilación en superficie lunar."
+  ],
+  [
+    "Planned range for lunar-gravity investigations.",
+    "Rango previsto para investigaciones en gravedad lunar."
+  ],
+  [
+    "SIBAL (cotton-fiberglass)",
+    "SIBAL (algodón-fibra de vidrio)"
+  ],
+  [
+    "Ground-based SMPS",
+    "SMPS en tierra"
+  ],
+  [
+    "Saffire Flow Unit with side cameras, gas sensors and Far Field Diagnostics",
+    "Saffire Flow Unit con cámaras laterales, sensores de gas y Far Field Diagnostics"
+  ],
+  [
+    "Oxygen reduced by diluting the MSG working volume with N2.",
+    "Se redujo el O2 diluyendo el volumen de trabajo del MSG con N2."
+  ],
+  [
+    "Only the two Figure 1A tests (17.5% and 21.1%); the full range was not reviewed (Kobayashi et al. 2026, p. 7).",
+    "Solo los dos ensayos de la figura 1A (17,5 % y 21,1 %); el rango completo no se revisó (Kobayashi et al. 2026, pág. 7)."
+  ],
+  [
+    "Lunar surface",
+    "Superficie lunar"
+  ],
+  [
+    "Cotton fabric 50 cm long; thick structured PMMA sample.",
+    "Tela de algodón de 50 cm de largo; muestra gruesa de PMMA estructurado."
+  ],
+  [
+    "Drop tower",
+    "Torre de caída"
+  ],
+  [
+    "2.5 s drop tower",
+    "Torre de caída de 2,5 s"
+  ],
+  [
+    "NASA Lewis drop towers (2.2 and 5.18 s)",
+    "Torres de caída de NASA Lewis (2,2 s y 5,18 s)"
+  ],
+  [
+    "One 0.4 × 0.94 m sample (same as Saffire-I).",
+    "Una muestra de 0,4 m x 0,94 m (igual que Saffire-I)."
+  ],
+  [
+    "One 0.4 × 0.94 m sample, at least an order of magnitude larger than previous low-gravity tests.",
+    "Una muestra de 0,4 m x 0,94 m, al menos un orden de magnitud mayor que cualquier ensayo previo en baja gravedad."
+  ],
+  [
+    "PMMA rods 80 mm long.",
+    "Varillas de PMMA de 80 mm de largo."
+  ],
+  [
+    "Air coflow velocity. Source: PSI-107.",
+    "Velocidad del co-flujo de aire. Fuente: ficha de PSI (PSI-107)."
+  ],
+  [
+    "Mesh-induced ionic wind up to ±10 kV.",
+    "Viento iónico inducido por malla de hasta +/-10 kV."
+  ],
+  [
+    "Parabolic flights",
+    "Vuelos parabólicos"
+  ],
+  [
+    "cotton",
+    "algodón"
+  ],
+  [
+    "cotton (jersey)",
+    "algodón (jersey)"
+  ],
+  [
+    "stabilization height",
+    "altura de estabilización"
+  ],
+  [
+    "anemometer",
+    "anemómetro"
+  ],
+  [
+    "oxygen-consumption calorimetry",
+    "calorimetría por consumo de O2"
+  ],
+  [
+    "temperature field",
+    "campo de temperatura"
+  ],
+  [
+    "cellulose",
+    "celulosa"
+  ],
+  [
+    "pure fuels",
+    "combustibles puros"
+  ],
+  [
+    "thin and thick solid fuels",
+    "combustibles sólidos delgados y gruesos"
+  ],
+  [
+    "with inert diluents",
+    "con diluyentes inertes"
+  ],
+  [
+    "CO2 concentration",
+    "concentración de CO2"
+  ],
+  [
+    "O2 concentration",
+    "concentración de O2"
+  ],
+  [
+    "soot concentration",
+    "concentración de hollín"
+  ],
+  [
+    "particle counter",
+    "contador de partículas"
+  ],
+  [
+    "P-Trak ultrafine particle counter",
+    "contador de partículas ultrafinas P-Trak"
+  ],
+  [
+    "ionic current",
+    "corriente iónica"
+  ],
+  [
+    "still camera",
+    "cámara fotográfica"
+  ],
+  [
+    "cameras",
+    "cámaras"
+  ],
+  [
+    "commercial smoke detector",
+    "detector de humo comercial"
+  ],
+  [
+    "far-field ionization smoke detector",
+    "detector de humo por ionización (campo lejano)"
+  ],
+  [
+    "light-scattering detector",
+    "detector por dispersión de luz"
+  ],
+  [
+    "ionization detector",
+    "detector por ionización"
+  ],
+  [
+    "dibutyl phthalate in a porous wick",
+    "dibutil-ftalato en mecha porosa"
+  ],
+  [
+    "diluted with nitrogen",
+    "diluidos con nitrógeno"
+  ],
+  [
+    "diluted with nitrogen (paper, plastic and alcohol analogs)",
+    "diluidos con nitrógeno (emulan papel, plástico, alcohol)"
+  ],
+  [
+    "two anemometers",
+    "dos anemómetros"
+  ],
+  [
+    "two radiometers",
+    "dos radiómetros"
+  ],
+  [
+    "ethane (according to ISS National Lab)",
+    "etano (según ISS National Lab)"
+  ],
+  [
+    "ethylene",
+    "etileno"
+  ],
+  [
+    "flame extinction",
+    "extinción de llama"
+  ],
+  [
+    "wax-coated fiberglass",
+    "fibra de vidrio con cera"
+  ],
+  [
+    "luminous flame shape",
+    "forma luminosa de la llama"
+  ],
+  [
+    "photography",
+    "fotografía"
+  ],
+  [
+    "soot volume fraction",
+    "fracción volumétrica de hollín"
+  ],
+  [
+    "silicone rubber",
+    "goma de silicona"
+  ],
+  [
+    "heptane",
+    "heptano"
+  ],
+  [
+    "hydrogen",
+    "hidrógeno"
+  ],
+  [
+    "images",
+    "imagenes"
+  ],
+  [
+    "CH* imaging",
+    "imagenes CH*"
+  ],
+  [
+    "aerosol instruments",
+    "instrumentos de aerosol"
+  ],
+  [
+    "particulate matter",
+    "material particulado"
+  ],
+  [
+    "solid materials",
+    "materiales sólidos"
+  ],
+  [
+    "sample heating measurement",
+    "medición de calentamiento de la muestra"
+  ],
+  [
+    "methane",
+    "metano"
+  ],
+  [
+    "methane (coflow burner)",
+    "metano (quemador de co-flujo)"
+  ],
+  [
+    "methanol",
+    "metanol"
+  ],
+  [
+    "mixtures",
+    "mezclas"
+  ],
+  [
+    "n-dodecane and iso-dodecane mixtures",
+    "mezclas de n-dodecano e iso-dodecano"
+  ],
+  [
+    "size distribution moments",
+    "momentos de la distribución de tamaños"
+  ],
+  [
+    "CO2 monitor",
+    "monitor de CO2"
+  ],
+  [
+    "n-butane",
+    "n-butano"
+  ],
+  [
+    "n-dodecane",
+    "n-dodecano"
+  ],
+  [
+    "n-pentane (target according to PSI)",
+    "n-pentano (objetivo según la ficha de PSI)"
+  ],
+  [
+    "three other samples",
+    "otras tres muestras"
+  ],
+  [
+    "cellulose paper (Kimwipes, 76 µm and double thickness)",
+    "papel de celulosa (Kimwipes, 76 µm y espesor doble)"
+  ],
+  [
+    "filter paper (thermally thin)",
+    "papel filtro (térmicamente delgado)"
+  ],
+  [
+    "pyrometry",
+    "pirometría"
+  ],
+  [
+    "thin-filament pyrometry",
+    "pirometría de filamento delgado"
+  ],
+  [
+    "polyethylene (nickel-chromium and copper wire insulation)",
+    "polietileno (aislamiento de cables de níquel-cromo y de cobre)"
+  ],
+  [
+    "ambient ISS dust (no combustion)",
+    "polvo ambiental de la ISS (sin combustión)"
+  ],
+  [
+    "thermal precipitator (TEM samples)",
+    "precipitador térmico (muestras para TEM)"
+  ],
+  [
+    "propane",
+    "propano"
+  ],
+  [
+    "propylene",
+    "propileno"
+  ],
+  [
+    "flame radiation",
+    "radiación de llama"
+  ],
+  [
+    "radiometer",
+    "radiómetro"
+  ],
+  [
+    "wide-view radiometer",
+    "radiómetro de vista amplia"
+  ],
+  [
+    "radiometers",
+    "radiómetros"
+  ],
+  [
+    "six far-field thermocouples",
+    "seis termopares de campo lejano"
+  ],
+  [
+    "heat-flux sensors",
+    "sensores de flujo de calor"
+  ],
+  [
+    "pressure, CO2 and O2 sensors",
+    "sensores de presión, CO2 y O2"
+  ],
+  [
+    "remote particle sensors",
+    "sensores remotos de partículas"
+  ],
+  [
+    "silicone (sheets 0.27–1.03 mm thick)",
+    "silicona (láminas de 0,27 a 1,03 mm)"
+  ],
+  [
+    "bicomponent surrogates",
+    "sustitutos bicomponente"
+  ],
+  [
+    "droplet burning rate",
+    "tasa de quemado de gota"
+  ],
+  [
+    "soot temperature",
+    "temperatura de hollín"
+  ],
+  [
+    "flame and fuel temperature",
+    "temperatura de llama y combustible"
+  ],
+  [
+    "surface thermocouple",
+    "termopar de superficie"
+  ],
+  [
+    "thermocouples",
+    "termopares"
+  ],
+  [
+    "thermocouples (flow, flame and plume)",
+    "termopares (flujo, llama y pluma)"
+  ],
+  [
+    "flame response time",
+    "tiempo de respuesta de la llama"
+  ],
+  [
+    "paraffin candles",
+    "velas de parafina"
+  ],
+  [
+    "color video",
+    "video color"
+  ],
+  [
+    "video with data overlay",
+    "video con datos superpuestos"
+  ],
+  [
+    "combustion video",
+    "video de la combustión"
+  ],
+  [
+    "Kimwipes cellulose tissue (99% cellulose, 1% polyamide)",
+    "Papel de celulosa Kimwipes (99% celulosa, 1% poliamida)"
+  ],
+  [
+    "Cast clear PMMA",
+    "PMMA transparente colado"
+  ],
+  [
+    "Cotton-fiberglass (SIBAL)",
+    "Algodón-fibra de vidrio (SIBAL)"
+  ],
+  [
+    "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.076 mm",
+    "NASA-TM-100195; sin ventilación; propagación descendente/opuesta; lámina de 30x150 mm; espesor de 0,076 mm"
+  ],
+  [
+    "NASA-TM-100195; quiescent; downward/opposed spread; 30x150 mm sheet; thickness 0.152 mm",
+    "NASA-TM-100195; sin ventilación; propagación descendente/opuesta; lámina de 30x150 mm; espesor de 0,152 mm"
+  ],
+  [
+    "Thin circular rod; diameter 0.5 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+    "Varilla circular delgada; diámetro de 0,5 mm; longitud de 80 mm; flujo opuesto descendente; ducto de 120x120x270 mm"
+  ],
+  [
+    "Thin circular rod; diameter 1 mm; length 80 mm; downward opposed flow; 120x120x270 mm duct",
+    "Varilla circular delgada; diámetro de 1 mm; longitud de 80 mm; flujo opuesto descendente; ducto de 120x120x270 mm"
+  ],
+  [
+    "Cellulose",
+    "Celulosa"
+  ],
+  [
+    "partial gravity",
+    "gravedad parcial"
+  ],
+  [
+    "Ground",
+    "Tierra"
+  ],
+  [
+    "Lunar Base",
+    "Base Lunar"
+  ],
+  [
+    "Pressurized Rover",
+    "Rover Presurizado"
+  ],
+  [
+    "Mars Habitat",
+    "Hábitat en Marte"
+  ],
+  [
+    "ISS / Spacecraft Cabin",
+    "ISS / Cabina de Nave"
+  ],
+  [
+    "Spacesuit (EVA)",
+    "Traje Espacial (EVA)"
+  ],
+  [
+    "Earth: Underground Mine",
+    "Tierra: Mina Subterránea"
+  ],
+  [
+    "Artemis Lunar Base",
+    "Base Lunar Artemis"
+  ],
+  [
+    "Pressurized Rover",
+    "Rover presurizado"
+  ],
+  [
+    "Spacesuit (EVA)",
+    "Traje espacial (EVA)"
+  ],
+  [
+    "Earth: Underground Mine",
+    "Mina en la Tierra"
+  ],
+  [
+    "ISS / Spacecraft Cabin",
+    "ISS / Cabina de nave"
+  ],
+  [
+    "Moon · 0.17 g",
+    "Luna · 0.17 g"
+  ],
+  [
+    "Orbit · 0 g",
+    "Órbita · 0 g"
+  ],
+  [
+    "Mars · 0.38 g",
+    "Marte · 0.38 g"
+  ],
+  [
+    "Earth · 1 g",
+    "Tierra · 1 g"
+  ],
+  [
+    "Microgravity: spherical blue flame, driven by diffusion.",
+    "Microgravedad: llama azul esférica, dominada por difusión."
+  ],
+  [
+    "Recorded oxygen (%)",
+    "Oxígeno medido (%)"
+  ],
+  [
+    "Gravitational acceleration (relative g)",
+    "Aceleración gravitacional (g relativa)"
+  ],
+  [
+    "Reported ground observations · matching conditions",
+    "Mediciones terrestres · condiciones coincidentes"
+  ],
+  [
+    "Reported reduced-gravity observations · matching conditions",
+    "Mediciones en gravedad reducida · condiciones coincidentes"
+  ],
+  [
+    "Partial gravity",
+    "Gravedad parcial"
+  ],
+  [
+    "None",
+    "Ninguno"
+  ],
+  [
+    "none",
+    "ninguno"
+  ],
+  [
+    "across all gravities",
+    "en todas las gravedades"
+  ],
+  [
+    "No reviewed direct observations available.",
+    "No hay observaciones directas revisadas disponibles."
+  ],
+  [
+    "Without buoyancy, the flame is a blue sphere. Low oxygen can extinguish it, while slow ventilation may sustain it.",
+    "Sin flotabilidad, la llama es una esfera azul que se apaga con poco oxígeno... o no, si la ventilación lenta alimenta la reacción."
+  ],
+  [
+    "Weak buoyancy and cabin airflow stretch the blue sphere into a short teardrop with faster spread.",
+    "La flotabilidad incipiente y el flujo de cabina estiran la esfera azul hacia una lágrima corta con mayor tasa de propagación."
+  ],
+  [
+    "Hot gases start rising faster, increasing luminous soot formation at the tip.",
+    "Los gases calientes comienzan a ascender con mayor velocidad, incrementando la formación de hollín luminoso en la punta."
+  ],
+  [
+    "Hot air rises quickly through buoyancy, drawing in fresh oxygen from below and creating a tall yellow teardrop.",
+    "El aire caliente sube rápido por flotabilidad, succionando oxígeno fresco desde la base y creando una lágrima amarilla alargada."
+  ],
+  [
+    "Microgravity (ISS)",
+    "Microgravedad (ISS)"
+  ],
+  [
+    "Lunar partial gravity",
+    "Gravedad parcial lunar"
+  ],
+  [
+    "Martian partial gravity",
+    "Gravedad parcial marciana"
+  ],
+  [
+    "Standard Earth gravity",
+    "Gravedad estándar terrestre"
+  ],
+  [
+    "Pure molecular diffusion (no natural convection)",
+    "Difusión molecular pura (sin convección natural)"
+  ],
+  [
+    "Mixed regime (diffusion + weak buoyancy)",
+    "Régimen mixto (Difusión + Flotabilidad incipiente)"
+  ],
+  [
+    "Moderate convection coupled with ventilation",
+    "Convección moderada acoplada con ventilación"
+  ],
+  [
+    "Buoyancy-dominated natural convection",
+    "Convección natural dominada por flotabilidad"
+  ],
+  [
+    "Research exploration only. Unvalidated predictions are insufficient for spacecraft fire-safety certification.",
+    "Solo para exploración científica. Las predicciones no validadas no permiten certificar la seguridad contra incendios de una nave."
+  ],
+  [
+    "Exploratory estimate from source transcriptions pending scientific review. No independent validation or review approval is implied. Research exploration only. Unvalidated predictions are insufficient for spacecraft fire-safety certification.",
+    "Estimación exploratoria a partir de transcripciones pendientes de revisión científica. No implica validación independiente ni aprobación de los datos. Solo para investigación; no permite certificar seguridad contra incendios."
+  ],
+  [
+    "Exploratory model curve; source transcriptions are pending review. Research exploration only. Unvalidated predictions are insufficient for spacecraft fire-safety certification.",
+    "Curva exploratoria del modelo; las transcripciones esperan revisión. Solo para investigación; no permite certificar seguridad contra incendios."
+  ],
+  [
+    "0 g denotes nominal microgravity in the imported NASA tables, not a measured zero residual acceleration.",
+    "0 g representa microgravedad nominal en las tablas de NASA, no una aceleración residual medida de cero."
+  ],
+  [
+    "0 g is nominal microgravity where used by the source, not proof of measured zero residual acceleration.",
+    "0 g representa la microgravedad nominal de la fuente; no demuestra una aceleración residual medida de cero."
+  ],
+  [
+    "Rows are source-linked transcriptions; their reviewed flag is preserved.",
+    "Las filas son transcripciones con sus fuentes y conservan su estado de revisión."
+  ],
+  [
+    "Recorded conditions vary between observations. A plot is not a controlled causal comparison.",
+    "Las condiciones medidas varían entre observaciones. Un gráfico no es una comparación causal controlada."
+  ],
+  [
+    "Measurements are not model predictions. No validation metrics or confidence intervals are generated by inspection.",
+    "Las mediciones no son predicciones. Consultarlas no genera métricas de validación ni intervalos de confianza."
+  ],
+  [
+    "Missing measurement standard deviations remain unavailable; they are not treated as zero.",
+    "Las desviaciones de medición ausentes siguen sin estar disponibles; no se consideran cero."
+  ],
+  [
+    "No compatible observed outputs in this cohort and data mode.",
+    "No hay propiedades medidas compatibles para esta configuración y modo de datos."
+  ],
+  [
+    "Curve samples are model outputs, never added to the training dataset.",
+    "Las muestras de la curva son resultados del modelo y nunca se agregan a los datos de entrenamiento."
+  ],
+  [
+    "No observations for this output at the selected gravity.",
+    "No hay observaciones de esta propiedad en la gravedad seleccionada."
+  ],
+  [
+    "Exploratory mode permits evidence inspection but not reviewed scientific validation.",
+    "El modo exploratorio permite consultar evidencia, pero no realizar validación científica con datos revisados."
+  ],
+  [
+    "Unavailable for this output/model; no calibrated interval is supplied.",
+    "No disponible para esta propiedad o modelo; no se proporciona un intervalo calibrado."
+  ],
+  [
+    "Uncalibrated central 95% lognormal posterior predictive interval, including fitted white noise in transformed target space. Endpoints are inverse-transformed quantiles, not clipped bounds. This is a model assumption, not demonstrated coverage or a safety range.",
+    "Intervalo predictivo posterior lognormal central al 95% sin calibrar, con ruido blanco ajustado en el espacio transformado. Los extremos son cuantiles con transformación inversa, no límites recortados. Es un supuesto del modelo, no una cobertura demostrada ni un rango de seguridad."
+  ],
+  [
+    "Uncalibrated central 95% logistic-normal posterior predictive interval, including fitted white noise in transformed target space. Endpoints are inverse-transformed quantiles, not clipped bounds. This is a model assumption, not demonstrated coverage or a safety range.",
+    "Intervalo predictivo posterior logístico-normal central al 95% sin calibrar, con ruido blanco ajustado en el espacio transformado. Los extremos son cuantiles con transformación inversa, no límites recortados. Es un supuesto del modelo, no una cobertura demostrada ni un rango de seguridad."
+  ],
+  [
+    "Uncalibrated central 95% Gaussian posterior predictive interval, including fitted white noise in transformed target space. Endpoints are inverse-transformed quantiles, not clipped bounds. This is a model assumption, not demonstrated coverage or a safety range.",
+    "Intervalo predictivo posterior gaussiano central al 95% sin calibrar, con ruido blanco ajustado en el espacio transformado. Los extremos son cuantiles con transformación inversa, no límites recortados. Es un supuesto del modelo, no una cobertura demostrada ni un rango de seguridad."
+  ],
+  [
+    "Nonfinite or physically invalid model statistics were suppressed; no clipping was applied.",
+    "Se omitieron los valores del modelo no finitos o físicamente inválidos; no se recortaron los resultados."
+  ],
+  [
+    "No compatible output could be fitted; see the per-output model limitations.",
+    "No se pudo ajustar ninguna propiedad compatible; consulta las limitaciones de cada propiedad."
+  ],
+  [
+    "Sustaining oxygen threshold",
+    "Umbral de oxígeno para sostener la llama"
+  ],
+  [
+    "Exploratory mode",
+    "Modo exploratorio"
+  ],
+  [
+    "independent experimental groups",
+    "grupos experimentales independientes"
+  ],
+  [
+    "Prevention",
+    "Prevención"
+  ],
+  [
+    "Detection",
+    "Detección"
+  ],
+  [
+    "Suppression",
+    "Supresión"
+  ],
+  [
+    "oxygen_pct",
+    "Oxígeno (%)"
+  ],
+  [
+    "pressure_kpa",
+    "Presión (kPa)"
+  ],
+  [
+    "airflow_cm_s",
+    "Flujo de aire (cm/s)"
+  ],
+  [
+    "temperature_k",
+    "Temperatura (K)"
+  ],
+  [
+    "gravity_g",
+    "Gravedad (g)"
+  ],
+  [
+    "Tissue",
+    "Papel"
+  ],
+  [
+    "at",
+    "con"
+  ],
+  [
+    "only",
+    "solamente"
+  ],
+  [
+    "Small cabin, frequent EVAs",
+    "Cabina pequeña, salidas frecuentes EVA"
+  ],
+  [
+    "Earth: Underground Mine",
+    "Tierra: mina subterránea"
+  ],
+  [
+    "EVA exploration",
+    "Alta excursión EVA"
+  ],
+  [
+    "SEA atmosphere",
+    "Atmósfera SEA"
+  ],
+  [
+    "Burning and Suppression of Solids",
+    "Combustión y supresión de sólidos"
+  ],
+  [
+    "Burning and Suppression of Solids - II",
+    "Combustión y supresión de sólidos II"
+  ],
+  [
+    "Spacecraft Fire Safety Demonstration I",
+    "Demostración de seguridad contra incendios en naves I"
+  ],
+  [
+    "Spacecraft Fire Safety Demonstration II",
+    "Demostración de seguridad contra incendios en naves II"
+  ],
+  [
+    "Spacecraft Fire Safety Demonstration III",
+    "Demostración de seguridad contra incendios en naves III"
+  ],
+  [
+    "Spacecraft Fire Safety Demonstration IV",
+    "Demostración de seguridad contra incendios en naves IV"
+  ],
+  [
+    "Spacecraft Fire Safety Demonstration V",
+    "Demostración de seguridad contra incendios en naves V"
+  ],
+  [
+    "Spacecraft Fire Safety Demonstration VI",
+    "Demostración de seguridad contra incendios en naves VI"
+  ],
+  [
+    "Smoke Aerosol Measurement Experiment",
+    "Experimento de medición de aerosoles de humo"
+  ],
+  [
+    "Smoke Aerosol Measurement Experiment - Reflight",
+    "Experimento de medición de aerosoles de humo: nuevo vuelo"
+  ],
+  [
+    "Dust and Aerosol Measurement Feasibility Test",
+    "Prueba de viabilidad de medición de polvo y aerosoles"
+  ],
+  [
+    "Flame Extinguishment Experiment",
+    "Experimento de extinción de llamas"
+  ],
+  [
+    "Flame Extinguishment Experiment - 2",
+    "Experimento de extinción de llamas 2"
+  ],
+  [
+    "Cool Flames Investigation",
+    "Investigación de llamas frías"
+  ],
+  [
+    "Burning Rate Emulator",
+    "Emulador de tasa de combustión"
+  ],
+  [
+    "Cool Flames Investigation with Gases",
+    "Investigación de llamas frías con gases"
+  ],
+  [
+    "Coflow Laminar Diffusion Flame",
+    "Llama de difusión laminar en flujo concurrente"
+  ],
+  [
+    "Electric-Field Effects on Laminar Diffusion Flames",
+    "Efectos del campo eléctrico en llamas de difusión laminar"
+  ],
+  [
+    "Flame Design",
+    "Diseño de llamas"
+  ],
+  [
+    "Structure and Response of Spherical Diffusion Flames",
+    "Estructura y respuesta de llamas de difusión esféricas"
+  ],
+  [
+    "Smoke Point In Co-flow Experiment",
+    "Experimento de punto de humo en flujo concurrente"
+  ],
+  [
+    "Structure & Liftoff In Combustion Experiment",
+    "Experimento de estructura y desprendimiento de la llama"
+  ],
+  [
+    "Solid Fuel Ignition and Extinction",
+    "Ignición y extinción de combustibles sólidos"
+  ],
+  [
+    "Flammability Limits At Reduced-g Experiment",
+    "Experimento de límites de inflamabilidad en gravedad reducida"
+  ],
+  [
+    "Flammability of Materials on the Moon",
+    "Inflamabilidad de materiales en la Luna"
+  ],
+  [
+    "Lunar-g Combustion Investigation",
+    "Investigación de combustión en gravedad lunar"
+  ],
+  [
+    "Confined Combustion (confined combustion in microgravity)",
+    "Confined Combustion (combustión confinada en microgravedad)"
+  ],
+  [
+    "Flame spread over filter paper in the Kibo SCEM",
+    "Propagación de llama sobre papel filtro en el SCEM del módulo Kibo"
+  ],
+  [
+    "Concurrent-flow flame spread over electric wire insulation",
+    "Propagación de llama sobre aislamiento de cables eléctricos en flujo concurrente"
+  ],
+  [
+    "Effect of microgravity on flame spread over thin fuel",
+    "Efecto de la microgravedad en la propagación de llama sobre un combustible delgado"
+  ],
+  [
+    "Flame spread over thin PMMA rods",
+    "Propagación de llama sobre varillas delgadas de PMMA"
+  ],
+  [
+    "NASA investigations ranked",
+    "Investigaciones NASA ordenadas"
+  ],
+  [
+    "NASA investigations ranked",
+    "Investigaciones NASA Ranked"
+  ],
+  [
+    "Show all {count} rows",
+    "Mostrar las {count} filas"
+  ],
+  [
+    "Show first 15 rows",
+    "Mostrar las primeras 15 filas"
+  ],
+  [
+    "{count} training observations",
+    "{count} observaciones de entrenamiento"
+  ],
+  [
+    "Measured {property}",
+    "Medición de {property}"
+  ],
+  [
+    "Observed ({unit})",
+    "Medido ({unit})"
+  ],
+  [
+    "Predicted ({unit})",
+    "Predicho ({unit})"
+  ],
+  [
+    "Exact matches for the other input conditions exist at {levels} g; this does not establish independent validation.",
+    "Hay coincidencias exactas de las otras condiciones en {levels} g; esto no demuestra validación independiente."
+  ],
+  [
+    "{count} observations at other gravities share dependency groups with the held-out rows and must also be excluded.",
+    "{count} observaciones en otras gravedades comparten grupos con las filas reservadas y también deben excluirse."
+  ],
+  [
+    "Only {count} training rows without held-out group overlap remain; at least 3 are required by the fitting protocol.",
+    "Solo quedan {count} filas de entrenamiento sin grupos compartidos; el protocolo requiere al menos 3."
+  ],
+  [
+    "Only {count} training gravity levels without held-out group overlap remain; this LOGO protocol requires at least 2.",
+    "Solo quedan {count} niveles de gravedad independientes para entrenar; este protocolo requiere al menos 2."
+  ],
+  [
+    "Partial gravity · {gravity} g",
+    "Gravedad parcial · {gravity} g"
+  ]
+]

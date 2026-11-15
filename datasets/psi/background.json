@@ -1,0 +1,99 @@
+{
+ "meta": {
+  "description": "Contexto general para el copiloto: definiciones y datos del enunciado del desafío. NO son datos de PSI. Cada entrada se cita como FONDO#n según su posición; agregar entradas siempre al final.",
+  "version": "0.2 (2026-11-14)"
+ },
+ "sources": {
+  "challenge": {"title": "Enunciado del desafío Flame in Freefall (NASA Space Apps 2026)", "url": null},
+  "nasa_combustion": {"title": "NASA Glenn - Combustion Science", "url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/combustion-science/"},
+  "fm2": {"title": "NASA Glenn - FM2", "url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/combustion-science/flammability-of-materials-on-the-moon-fm2/"},
+  "nssdc_mars": {"title": "NASA NSSDCA - Mars Fact Sheet (actualizada 19 mayo 2025)", "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html"},
+  "nssdc_moon": {"title": "NASA NSSDCA - Moon Fact Sheet (actualizada 11 enero 2024)", "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html"}
+ },
+ "entries": [
+  {
+   "title": "Qué es la microgravedad y cómo cambia una llama",
+   "keywords": ["microgravedad", "micro", "gravedad", "caida", "libre", "flotabilidad", "vela", "esfera", "difusion", "definicion", "que", "es"],
+   "text": "Microgravedad es la condición de caída libre en la que no hay flotabilidad: los gases calientes no suben. Por eso las llamas son muy distintas a las de la Tierra: en vez de una gota que parpadea, la llama de una vela se vuelve una esfera azul tenue que obtiene el oxígeno solo por difusión.",
+   "source": "challenge"
+  },
+  {
+   "title": "Gravedad de la Luna",
+   "keywords": ["luna", "lunar", "gravedad", "sexto", "parcial", "fm2"],
+   "text": "La gravedad de la Luna es un sexto de la terrestre (aproximadamente 0,17 g). FM2 sería el primer experimento de combustión en otro cuerpo planetario y estudiaría materiales ardiendo a esa gravedad.",
+   "source": "fm2"
+  },
+  {
+   "title": "Gravedad parcial: qué datos existen",
+   "keywords": ["gravedad", "parcial", "luna", "marte", "lunar", "marciana", "luci", "fm2", "e-field", "cota", "acotar", "intermedia"],
+   "text": "PSI no tiene todavía datos de combustión en gravedad parcial (Luna o Marte). Se espera que se agreguen en el futuro, por ejemplo desde LUCI y FM2. El experimento E-FIELD Flames de ACME imitó la gravedad parcial usando un campo eléctrico que actúa sobre los iones de la llama. Los resultados en microgravedad y en gravedad terrestre podrían acotar lo que ocurre en gravedades intermedias.",
+   "source": "challenge"
+  },
+  {
+   "title": "Los tres pilares de la seguridad contra incendios de la NASA",
+   "keywords": ["prevencion", "deteccion", "supresion", "pilares", "seguridad", "incendios", "ignicion", "materiales", "inflamabilidad", "limites"],
+   "text": "La seguridad contra incendios en naves de la NASA se enfoca en prevención, detección y supresión. La prevención se logra controlando las fuentes de ignición y seleccionando materiales, lo que depende de conocer sus límites de inflamabilidad.",
+   "source": "challenge"
+  },
+  {
+   "title": "Oxígeno y flujo de aire",
+   "keywords": ["oxigeno", "o2", "flujo", "aire", "ventilacion", "inflamabilidad", "concentracion"],
+   "text": "La inflamabilidad depende fuertemente de la concentración de oxígeno, y en microgravedad el flujo de aire también es importante.",
+   "source": "challenge"
+  },
+  {
+   "title": "Atmósfera de la base lunar y los rovers presurizados",
+   "keywords": ["base", "lunar", "rover", "presurizado", "atmosfera", "exploracion", "oxigeno", "presion", "psi", "30", "10.2", "habitat", "artemis"],
+   "text": "Para reducir el tiempo de preparación antes de salir con traje, se espera que la base lunar y los rovers presurizados tengan una presión y una concentración de oxígeno intermedias entre las del traje y las de la Tierra: probablemente 30 % de O2 o más, con 10,2 psi o menos. Frente a la atmósfera terrestre es un aumento de más de 40 % en la concentración de oxígeno, lo que hace mucho más inflamables los materiales.",
+   "source": "challenge"
+  },
+  {
+   "title": "Atmósfera del traje espacial",
+   "keywords": ["traje", "espacial", "eva", "oxigeno", "100", "presion", "4.3", "psi", "descompresion", "prerrespiracion"],
+   "text": "Los trajes espaciales se llenan con 100 % de oxígeno a solo 4,3 psi, mientras que la presión de la Tierra a nivel del mar es 14,7 psi. Para evitar la enfermedad por descompresión, los astronautas respiran 100 % de oxígeno antes de salir para expulsar el nitrógeno absorbido.",
+   "source": "challenge"
+  },
+  {
+   "title": "Incendios en la historia de la exploración espacial",
+   "keywords": ["apolo", "apollo", "mir", "artemis", "historia", "accidente", "incendio", "explosion", "tanque", "alarma"],
+   "text": "En 1967 la tripulación del Apolo 1 murió cuando se desató un incendio en su nave llena de oxígeno durante una prueba previa al lanzamiento. La tripulación del Apolo 13 sufrió la explosión de un tanque de oxígeno camino a la Luna. Una tripulación multinacional sobrevivió a un incendio en la estación Mir causado por la falla de un generador de oxígeno. En la misión Artemis II se activó una alarma de humo durante el vuelo.",
+   "source": "challenge"
+  },
+  {
+   "title": "Hardware compartido entre investigaciones",
+   "keywords": ["hardware", "cir", "mdca", "msg", "rack", "glovebox", "equipo", "instalacion", "acme", "flex", "cfi", "bass", "spice", "slice"],
+   "text": "Los seis experimentos de ACME usaron llamas de combustibles gaseosos con el mismo hardware modular en el Combustion Integrated Rack (CIR). FLEX, FLEX-2 y CFI quemaron gotas de combustible líquido con el Multi-user Droplet Combustion Apparatus (MDCA) en el CIR. BASS, BASS-II, SPICE y SLICE se hicieron en el Microgravity Science Glovebox (MSG) con el ducto de flujo construido para SPICE.",
+   "source": "challenge"
+  },
+  {
+   "title": "Ensayos con mayor concentración de oxígeno",
+   "keywords": ["oxigeno", "maximo", "alto", "85", "cfi-g", "enriquecido", "llama", "invertida"],
+   "text": "Los ensayos en microgravedad con mayor concentración de oxígeno fueron los de CFI-G (ACME). La cámara se llenó con nitrógeno y un gas inflamable como propano, mientras una mezcla de oxígeno y nitrógeno de hasta 85 % de oxígeno salía de un quemador esférico, formando una llama invertida.",
+   "source": "challenge"
+  },
+  {
+   "title": "Aplicaciones en la Tierra",
+   "keywords": ["tierra", "spinoff", "aplicaciones", "extintor", "niebla", "agua", "bomberos", "detector", "humo", "traje", "tanques", "mineria"],
+   "text": "Los extintores de niebla fina de agua desarrollados para la ISS tienen aplicaciones en la Tierra, y la tecnología de la NASA también mejoró la detección de humo y el equipo de bomberos, incluidos la ropa protectora y los tanques de aire.",
+   "source": "challenge"
+  },
+  {
+   "title": "Fuera de alcance: cohetes y propelentes",
+   "keywords": ["cohete", "cohetes", "propelente", "motor", "lanzamiento"],
+   "text": "La seguridad contra incendios de cohetes y propelentes queda en general fuera de la investigación disponible en PSI: las altas velocidades dentro de un motor cohete hacen que su combustión sea prácticamente independiente de la gravedad.",
+   "source": "challenge"
+  },
+  {
+   "title": "Gravedad en la superficie de Marte",
+   "keywords": ["gravedad", "marte", "marciana", "mars", "martian", "superficie", "valor", "cuanto"],
+   "text": "Según la hoja de datos de Marte de NASA, la gravedad media en la superficie de Marte es 3,73 m/s², es decir 0,380 veces la de la Tierra (9,82 m/s²). Es un dato de referencia del planeta, no un resultado de combustión.",
+   "source": "nssdc_mars"
+  },
+  {
+   "title": "Gravedad en la superficie de la Luna",
+   "keywords": ["gravedad", "luna", "lunar", "moon", "superficie", "valor", "cuanto"],
+   "text": "Según la hoja de datos de la Luna de NASA, la gravedad en la superficie de la Luna es 1,62 m/s², es decir 0,165 veces la de la Tierra (9,80 m/s²). Es un dato de referencia, no un resultado de combustión.",
+   "source": "nssdc_moon"
+  }
+ ]
+}

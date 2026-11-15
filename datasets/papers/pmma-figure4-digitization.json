@@ -1,0 +1,312 @@
+{
+  "version": "pmma-figure4-v1",
+  "source_file": "Flame spread over thin circular PMMA rods.pdf",
+  "source_sha256": "5f51872600024b38360fc6f1356bf99508133a2c530e3b7a9c54e13da2b23862",
+  "pdf_page": 7,
+  "axis_anchors_pdf_points": {
+    "x_0_cm_s": 150.57000732421875,
+    "x_25_cm_s": 465.6499938964844,
+    "y_0_mm_s": 431.67999267578125,
+    "y_4_mm_s": 265.3399658203125
+  },
+  "method": "Filled experimental marker centers checked against vector curve knots and calibrated using labeled linear axes.",
+  "value_rounding_mm_s": 0.01,
+  "measurement_sd": null,
+  "limitations": [
+    "Digitized plotted averages, not original per-run raw measurements.",
+    "Each plotted point averages two repeats; repeats are not exported as separate invented rows.",
+    "Reading/rounding resolution is not a measured standard deviation. Error-bar meaning is not established here.",
+    "0 g is the figure nominal microgravity coordinate, not an accelerometer measurement.",
+    "Publication metadata and scientific applicability remain pending review."
+  ],
+  "series": [
+    {
+      "diameter_mm": 1,
+      "gravity_g": 1,
+      "curve_drawing_index": 31,
+      "points": [
+        {
+          "airflow_cm_s": 0,
+          "spread_mm_s": 0.68,
+          "endpoint_pdf_points": [
+            150.570007,
+            403.399994
+          ],
+          "marker_center_pdf_points": [
+            150.650002,
+            403.419983
+          ],
+          "marker_drawing_index": 32
+        },
+        {
+          "airflow_cm_s": 5,
+          "spread_mm_s": 0.6,
+          "endpoint_pdf_points": [
+            213.589996,
+            406.72998
+          ],
+          "marker_center_pdf_points": [
+            213.650002,
+            406.659988
+          ],
+          "marker_drawing_index": 33
+        },
+        {
+          "airflow_cm_s": 10,
+          "spread_mm_s": 0.64,
+          "endpoint_pdf_points": [
+            276.600006,
+            405.269989
+          ],
+          "marker_center_pdf_points": [
+            276.650009,
+            405.219986
+          ],
+          "marker_drawing_index": 34
+        },
+        {
+          "airflow_cm_s": 15,
+          "spread_mm_s": 0.61,
+          "endpoint_pdf_points": [
+            339.619995,
+            406.309998
+          ],
+          "marker_center_pdf_points": [
+            339.650009,
+            406.299973
+          ],
+          "marker_drawing_index": 35
+        },
+        {
+          "airflow_cm_s": 20,
+          "spread_mm_s": 0.62,
+          "endpoint_pdf_points": [
+            402.630005,
+            406.109985
+          ],
+          "marker_center_pdf_points": [
+            402.650009,
+            406.059982
+          ],
+          "marker_drawing_index": 36
+        },
+        {
+          "airflow_cm_s": 25,
+          "spread_mm_s": 0.53,
+          "endpoint_pdf_points": [
+            465.649994,
+            409.849976
+          ],
+          "marker_center_pdf_points": [
+            465.650009,
+            409.779984
+          ],
+          "marker_drawing_index": 37
+        }
+      ]
+    },
+    {
+      "diameter_mm": 1,
+      "gravity_g": 0,
+      "curve_drawing_index": 38,
+      "points": [
+        {
+          "airflow_cm_s": 0,
+          "spread_mm_s": 1.65,
+          "endpoint_pdf_points": [
+            150.570007,
+            363.269989
+          ],
+          "marker_center_pdf_points": [
+            150.650002,
+            363.219986
+          ],
+          "marker_drawing_index": 39
+        },
+        {
+          "airflow_cm_s": 5,
+          "spread_mm_s": 1.38,
+          "endpoint_pdf_points": [
+            213.589996,
+            374.499969
+          ],
+          "marker_center_pdf_points": [
+            213.650002,
+            374.499985
+          ],
+          "marker_drawing_index": 40
+        },
+        {
+          "airflow_cm_s": 10,
+          "spread_mm_s": 1.03,
+          "endpoint_pdf_points": [
+            276.600006,
+            388.639984
+          ],
+          "marker_center_pdf_points": [
+            276.650009,
+            388.659988
+          ],
+          "marker_drawing_index": 41
+        },
+        {
+          "airflow_cm_s": 15,
+          "spread_mm_s": 1.01,
+          "endpoint_pdf_points": [
+            339.619995,
+            389.679993
+          ],
+          "marker_center_pdf_points": [
+            339.650009,
+            389.61998
+          ],
+          "marker_drawing_index": 42
+        },
+        {
+          "airflow_cm_s": 20,
+          "spread_mm_s": 0.97,
+          "endpoint_pdf_points": [
+            402.630005,
+            391.339996
+          ],
+          "marker_center_pdf_points": [
+            402.650009,
+            391.299973
+          ],
+          "marker_drawing_index": 43
+        },
+        {
+          "airflow_cm_s": 25,
+          "spread_mm_s": 0.88,
+          "endpoint_pdf_points": [
+            465.649994,
+            395.289978
+          ],
+          "marker_center_pdf_points": [
+            465.650009,
+            395.259979
+          ],
+          "marker_drawing_index": 44
+        }
+      ]
+    },
+    {
+      "diameter_mm": 0.5,
+      "gravity_g": 1,
+      "curve_drawing_index": 45,
+      "points": [
+        {
+          "airflow_cm_s": 0,
+          "spread_mm_s": 1.17,
+          "endpoint_pdf_points": [
+            150.570007,
+            382.939972
+          ],
+          "marker_center_pdf_points": [
+            150.650002,
+            382.899979
+          ],
+          "marker_drawing_index": 46
+        },
+        {
+          "airflow_cm_s": 5,
+          "spread_mm_s": 1.19,
+          "endpoint_pdf_points": [
+            213.589996,
+            382.149994
+          ],
+          "marker_center_pdf_points": [
+            213.650002,
+            382.179977
+          ],
+          "marker_drawing_index": 47
+        },
+        {
+          "airflow_cm_s": 10,
+          "spread_mm_s": 1.23,
+          "endpoint_pdf_points": [
+            276.600006,
+            380.699982
+          ],
+          "marker_center_pdf_points": [
+            276.650009,
+            380.61998
+          ],
+          "marker_drawing_index": 48
+        },
+        {
+          "airflow_cm_s": 25,
+          "spread_mm_s": 1.03,
+          "endpoint_pdf_points": [
+            465.649994,
+            388.929993
+          ],
+          "marker_center_pdf_points": [
+            465.650009,
+            388.899979
+          ],
+          "marker_drawing_index": 49
+        }
+      ]
+    },
+    {
+      "diameter_mm": 0.5,
+      "gravity_g": 0,
+      "curve_drawing_index": 50,
+      "points": [
+        {
+          "airflow_cm_s": 0,
+          "spread_mm_s": 3.56,
+          "endpoint_pdf_points": [
+            150.570007,
+            283.829956
+          ],
+          "marker_center_pdf_points": [
+            150.650002,
+            283.779999
+          ],
+          "marker_drawing_index": 51
+        },
+        {
+          "airflow_cm_s": 5,
+          "spread_mm_s": 2.82,
+          "endpoint_pdf_points": [
+            213.589996,
+            314.409973
+          ],
+          "marker_center_pdf_points": [
+            213.650002,
+            314.379974
+          ],
+          "marker_drawing_index": 52
+        },
+        {
+          "airflow_cm_s": 10,
+          "spread_mm_s": 2.64,
+          "endpoint_pdf_points": [
+            276.600006,
+            321.690002
+          ],
+          "marker_center_pdf_points": [
+            276.650009,
+            321.699982
+          ],
+          "marker_drawing_index": 53
+        },
+        {
+          "airflow_cm_s": 25,
+          "spread_mm_s": 2.11,
+          "endpoint_pdf_points": [
+            465.649994,
+            344.189972
+          ],
+          "marker_center_pdf_points": [
+            465.650009,
+            344.139999
+          ],
+          "marker_drawing_index": 54
+        }
+      ]
+    }
+  ]
+}

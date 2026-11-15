@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-13",
+  "pytest": {
+    "tests": 37,
+    "passed": 35,
+    "skipped": 2,
+    "failures": 0,
+    "errors": 0
+  },
+  "typescript": "passed",
+  "next_production_build": "passed",
+  "pip_check": "passed",
+  "local_http_smoke": "passed",
+  "live_openai": "not_run_no_credentials_or_domain_allowance",
+  "browser_qa": "blocked",
+  "browser_errors": [
+    "sites-preview relay could not open browser port 4173: timed out waiting for relay readiness",
+    "Browser runtime unavailable"
+  ],
+  "public_deployment": "not_requested_not_performed",
+  "api_requests_made": 0,
+  "incurred_api_usd": 0
+}
